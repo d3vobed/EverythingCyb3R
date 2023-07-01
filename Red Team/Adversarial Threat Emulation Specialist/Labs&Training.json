@@ -1,0 +1,64 @@
+{
+  "labs": [
+    {
+      "name": "AT&T Cybersecurity",
+      "link": "https://cybersecurity.att.com/products/adversary-simulation-service"
+    },
+    {
+      "name": "Caldera Labs Attack/Defense",
+      "link": "https://caldera.mitre.org/"
+    },
+    {
+      "name": "NetSpi Dark Side Ops Adversary Simulation",
+      "link": "https://www.netspi.com/training/dark-side-ops-adversary-simulation/"
+    },
+    {
+      "name": "AtomicRed Team Training",
+      "link": "https://atomicredteam.io/"
+    },
+    {
+      "name": "DarkRelay Building Red and Blue Team Infrastructure for Adversary Emulation",
+      "link": "https://www.darkrelay.com/post/red-and-blue-team-labs"
+    },
+    {
+      "name": "Altered Security Windows Red Team Labs",
+      "link": "https://www.alteredsecurity.com/redteamlab"
+    },
+    {
+      "name": "Red Team Labs Training",
+      "link": "https://theredteamlabs.com/"
+    },
+    {
+      "name": "Opentech Labs Red Team Lab",
+      "link": "https://www.opentech.fund/labs/red-team-lab/"
+    },
+    {
+      "name": "Netitude Labs Advanced Threat Actor Simulation and Red Team Training",
+      "link": "https://labs.nettitude.com/training/advanced-threat-actor-simulation-and-red-team-training/"
+    },
+    {
+      "name": "Cyber Ranges Threat Emulation",
+      "link": "https://www.cyberranges.com/threat-emulation/"
+    },
+    {
+      "name": "Offensive Security Red Team Training",
+      "link": "https://www.offsec.com/labs/individual/"
+    },
+    {
+      "name": "AttackIQ Intermediate Breach & Attack Simulation",
+      "link": "https://www.academy.attackiq.com/learning-path/intermediate-breach-attack-simulation"
+    },
+    {
+      "name": "AttackIQ Intermediate MITRE ATT&CK",
+      "link": "https://www.academy.attackiq.com/learning-path/intermediate-mitre-attck"
+    },
+    {
+      "name": "Obscurity Labs Adversary Emulation Labs",
+      "link": "https://obscuritylabs.com/adversary-emulation/"
+    },
+    {
+      "name": "FourCore.io Top 10 Open Source Adversary Emulation Tools",
+      "link": "https://fourcore.io/blogs/top-10-open-source-adversary-emulation-tools"
+    }
+  ]
+}
