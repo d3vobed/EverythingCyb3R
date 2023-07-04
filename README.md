@@ -26,10 +26,11 @@ Feedback or new tool suggestions are extremely welcome! Please feel free to subm
 
         {
           "name": "Example Name",
+          "author": "Example Author",
           "url": "http://example.com"
         }
 
-2. Submit pull request!
+3. Submit pull request!
 
 Thank you!
 
