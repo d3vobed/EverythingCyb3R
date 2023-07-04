@@ -1,0 +1,101 @@
+{
+  "books": [
+    {
+      "title": "Adversarial and Uncertain Reasoning for Adaptive Cyber Defense: Control- and Game-Theoretic Approaches to Cyber Security",
+      "author": "Rick Howard | Ryan Olson",
+      "link": "https://www.amazon.com/dp/3030307182?tag=uuid10-20"
+    },
+    {
+      "title": "Purple Team Strategies: Enhancing global security posture through uniting red and blue teams with adversary emulation",
+      "author": "David Routin, Simon Thoores, Samuel Rossier",
+      "link": "https://www.amazon.com/Purple-Team-Strategies-Enhancing-adversary/dp/1801074291"
+    }
+  ],
+  "podcasts": [
+    {
+      "title": "Adversary Emulation All The Things! Fireside Chat With Bryson Bort",
+      "host": "Apple",
+      "link": "https://podcasts.apple.com/us/podcast/adversary-emulation-all-the-things-fireside-chat/id1590662228?i=1000601512594"
+    },
+    {
+      "title": "Threat Modeling for Adversarial ML",
+      "host": "The CyberWire",
+      "link": "https://thecyberwire.com/podcasts/security-unlocked/7/transcript"
+    },
+    {
+      "title": "Webcast: When Worlds Collide: OSS Hunting & Adversarial Simulation",
+      "host": "Black Hills Information Security",
+      "link": "https://www.blackhillsinfosec.com/webcast-when-worlds-collide-oss-hunting-adversarial-simulation/"
+    },
+    {
+      "title": "Introducing SEC565: Red Team Operations And Adversary Emulation",
+      "host": "YouTube",
+      "link": "https://www.youtube.com/watch?v=TwLLL8Ain24"
+    },
+    {
+      "title": "Jack Rhysider YouTube Channel",
+      "host": "YouTube",
+      "link": "https://www.youtube.com/@JackRhysider/videos"
+    },
+    {
+      "title": "Blueprint Podcast",
+      "host": "SANS Institute",
+      "link": "https://www.sans.org/podcasts/blueprint/"
+    },
+    {
+      "title": "The Cybrary Podcast: Red Team 101: Offensive Security with Joe Vest",
+      "host": "Cybrary",
+      "link": "https://delinea.com/events/podcasts/33-red-team-101-offensive-security-joe-vest"
+    },
+    {
+      "title": "The Cybrary Podcast",
+      "host": "Cybrary on Boomplay",
+      "link": "https://www.boomplay.com/podcasts/34132"
+    },
+    {
+      "title": "Cybercrime Magazine YouTube Channel",
+      "host": "YouTube",
+      "link": "https://www.youtube.com/cybercrimemagazine"
+    },
+    {
+      "title": "Cybercrime Magazine SoundCloud Streams",
+      "host": "SoundCloud",
+      "link": "https://soundcloud.com/cybercrimemagazine"
+    }
+  ],
+  "reports": [
+    {
+      "title": "Automated Adversary Emulation: A Case for Planning and Acting with Unknowns",
+      "author": "Semantic Scholar Reports",
+      "link": "https://www.semanticscholar.org/paper/Automated-Adversary-Emulation%3A-A-Case-for-Planning-Miller-Alford/d44c775a8c7df8a704d2a8d17bb8a180771f9174"
+    },
+    {
+      "title": "Implementing Intrusion Kill Chain Strategies by Creating Defensive Campaign Adversary Playbooks",
+      "author": "Rick Howard | Ryan Olson",
+      "link": "https://cyberdefensereview.army.mil/Portals/6/Documents/2020_fall_cdr/CDR%20V5N3%2005_Howard-Olson.pdf?ver=FsPjp2TtJfdtYRnbmSj3lg%3D%3D"
+    }
+  ],
+  "other": [
+    {
+      "title": "Adversary Emulation with MITRE ATT&CK",
+      "source": "O'Reilly",
+      "link": "https://www.oreilly.com/library/view/adversary-emulation-with/9781098143756/"
+    },
+    {
+      "title": "Threat Hunter Playbook",
+      "link": "https://threathunterplaybook.com/intro.html"
+    },
+    {
+      "title": "Adversary Emulation using CALDERA",
+      "link": "https://www.slideshare.net/erikvanbuggenhout/adversary-emulation-using-caldera"
+    },
+    {
+      "title": "Scythe Library",
+      "link": "https://scythe.io/library"
+    },
+    {
+      "title": "Scythe Workshops",
+      "link": "https://scythe.io/workshops"
+    }
+  ]
+}
