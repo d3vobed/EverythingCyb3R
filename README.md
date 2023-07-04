@@ -1,4 +1,5 @@
-![Screenshot_2023-06-20_19_05_40](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/697253fc-983c-483d-a370-a551b1cc089c)
+![upx](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/e23dad66-7e34-48a6-973b-a3e33d275968)
+
 
 
 # EverythingCyb3R
