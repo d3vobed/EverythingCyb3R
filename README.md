@@ -1,4 +1,6 @@
+
 # EverythingCyb3R
+![Screenshot_2023-06-20_19_05_40](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/a577a8f3-ceb2-4a63-9e15-206b7e0ba6ed)
 
 Welcome to EverythingCyb3R, the GitHub repository that paves the way for your journey into the captivating world of cybersecurity. We've created an engaging and user-friendly framework that simplifies the complexities of the industry, making it fun and easy to understand.
 
