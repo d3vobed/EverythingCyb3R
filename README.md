@@ -36,8 +36,6 @@ Thank you!
 
 # EverythingCyb3r Framework Website
 
-[https://everythingcyb3r.com
-](https://everythingcyb3r.netlify.app
-)https://everythingcyb3r.netlify.app
+https://everythingcyb3r.netlify.app
 
 Happy Hacking!
