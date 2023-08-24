@@ -1,13 +1,11 @@
 [
     {
       "title": "Hacking101",
-      "url": "https://owasp.org/www-pdf-archive/Hacking_101_-_OWASP.pdf",
-      
+      "url": "https://owasp.org/www-pdf-archive/Hacking_101_-_OWASP.pdf"
     },
     {
       "title": "#434: 2023 Top 3 Tips (Bug Bounty)",
-      "url": "https://www.listennotes.com/podcasts/david-bombal/434-2023-top-3-tips-bug-bounty-F41lSwqXML3/",
-      
+      "url": "https://www.listennotes.com/podcasts/david-bombal/434-2023-top-3-tips-bug-bounty-F41lSwqXML3/"
     },
     {
       "title": "REAL-WORLD BUG HUNTING by Peter Yaworski",
@@ -21,18 +19,15 @@
     },
     {
       "title": "Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities",
-      "url": "https://ebin.pub/bug-bounty-bootcamp-the-guide-to-finding-and-reporting-web-vulnerabilities-1nbsped-1718501544-9781718501546.html",
-      
+      "url": "https://ebin.pub/bug-bounty-bootcamp-the-guide-to-finding-and-reporting-web-vulnerabilities-1nbsped-1718501544-9781718501546.html"
     },
     {
       "title": "Alice & Bob Web Security podcast",
-      "url": "https://www.beyondtrust.com/podcast",
-      
+      "url": "https://www.beyondtrust.com/podcast"
     },
     {
       "title": "Bug Bouty Essentials",
-      "url": "https://www.oreilly.com/library/view/bug-bounty-hunting/9781788626897/",
-      
+      "url": "https://www.oreilly.com/library/view/bug-bounty-hunting/9781788626897/"
     },
     {
       "title": "Corporate Cybersecurity: Identifying Risks and the Bug Bounty Program by John Jackson",
@@ -71,8 +66,7 @@
     },
     {
       "title": "Hacking APIs: Breaking Web Application Programming Interfaces",
-      "url": "https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443?crid=DVO8TY143TAD&keywords=hacking+apis+breaking+web+application+programming+interfaces&qid=1687968052&sprefix=hacking+apis,aps,356&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=3ffbd089d7aa1b577f2dfc90bee418c4&language=en_US&ref_=as_li_ss_tl",
-      
+      "url": "https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443?crid=DVO8TY143TAD&keywords=hacking+apis+breaking+web+application+programming+interfaces&qid=1687968052&sprefix=hacking+apis,aps,356&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=3ffbd089d7aa1b577f2dfc90bee418c4&language=en_US&ref_=as_li_ss_tl"
     },
     {
       "title": "The Bug Bounty podcast by Fisher",
@@ -81,8 +75,7 @@
     },
     {
       "title": "Advanced Web Podcasts",
-      "url": "https://media.ccc.de/",
-      
+      "url": "https://media.ccc.de/"
     },
     {
       "title": "Bug Hunting Reports by Hackerone",
@@ -101,8 +94,7 @@
     },
     {
       "title": "Curated lists of podcasts",
-      "url": "https://player.fm/podcasts/Bug-Bounty",
-      
+      "url": "https://player.fm/podcasts/Bug-Bounty"
     }
   ]
   
