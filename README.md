@@ -34,8 +34,6 @@ Feedback or new tool suggestions are extremely welcome! Please feel free to subm
 
 Thank you!
 
-# EverythingCyb3r Framework Website
+# Please Note
 
-https://everythingcyb3r.netlify.app
-
-Happy Hacking!
+  Before any links, resources, or files are shared here, they undergo a thorough review by our team of experts. Additionally, proper credit is attributed to all cyber and non-cyber related books, podcasts, repositories, websites, forums, and other materials hosted on this platform. Your cooperation is appreciated, and we encourage your continued engagement.
