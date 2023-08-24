@@ -1,0 +1,100 @@
+[
+    {
+      "title": "Hacking101",
+      "url": "https://owasp.org/www-pdf-archive/Hacking_101_-_OWASP.pdf"
+    },
+    {
+      "title": "#434: 2023 Top 3 Tips (Bug Bounty)",
+      "url": "https://www.listennotes.com/podcasts/david-bombal/434-2023-top-3-tips-bug-bounty-F41lSwqXML3/"
+    },
+    {
+      "title": "REAL-WORLD BUG HUNTING by Peter Yaworski",
+      "url": "https://digtvbg.com/files/books-for-hacking/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking%20by%20Peter%20Yaworski.pdf",
+      "author": "Peter Yaworski"
+    },
+    {
+      "title": "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition by Dafydd Stuttard",
+      "url": "https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker%27s%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf",
+      "author": "Dafydd Stuttard, Marcus Pinto"
+    },
+    {
+      "title": "Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities",
+      "url": "https://ebin.pub/bug-bounty-bootcamp-the-guide-to-finding-and-reporting-web-vulnerabilities-1nbsped-1718501544-9781718501546.html"
+    },
+    {
+      "title": "Alice & Bob Web Security podcast",
+      "url": "https://www.beyondtrust.com/podcast"
+    },
+    {
+      "title": "Bug Bouty Essentials",
+      "url": "https://www.oreilly.com/library/view/bug-bounty-hunting/9781788626897/"
+    },
+    {
+      "title": "Corporate Cybersecurity: Identifying Risks and the Bug Bounty Program by John Jackson",
+      "url": "https://www.wiley.com/en-us/Corporate+Cybersecurity:+Identifying+Risks+and+the+Bug+Bounty+Program-p-9781119782544",
+      "author": "John Jackson"
+    },
+    {
+      "title": "Zseano methodolgy to Bug Hunting",
+      "url": "https://www.bugbountyhunter.com/methodology/zseanos-methodology.pdf",
+      "author": "Zseano"
+    },
+    {
+      "title": "Hackerone Education Resources",
+      "url": "https://www.hackerone.com/sites/default/files/2020-03/hacker-education-resources.pdf",
+      "author": "HackerOne"
+    },
+    {
+      "title": "Bughunting Podcast (Dawgyg) by Jack Rhysider",
+      "url": "https://darknetdiaries.com/episode/60/",
+      "author": "Jack Rhysider"
+    },
+    {
+      "title": "Web Application Security Products Sucks Podcast by Security Journey",
+      "url": "https://www.securityjourney.com/resources/application-security-podcast",
+      "author": "Security Journey"
+    },
+    {
+      "title": "Episode 27: Top 7 Esoteric Web Vulnerabilities by ctbbpodcast",
+      "url": "https://www.audacy.com/podcast/critical-thinking-bug-bounty-podcast-b78d6/episodes/episode-27-top-7-esoteric-web-vulnerabilities-8ed69",
+      "author": "ctbbpodcast"
+    },
+    {
+      "title": "Cheatsheet by Pentest Monkey",
+      "url": "https://pentestmonkey.net/",
+      "author": "Pentest Monkey"
+    },
+    {
+      "title": "Hacking APIs: Breaking Web Application Programming Interfaces",
+      "url": "https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443?crid=DVO8TY143TAD&keywords=hacking+apis+breaking+web+application+programming+interfaces&qid=1687968052&sprefix=hacking+apis,aps,356&sr=8-1&linkCode=sl1&tag=networkexpe08-20&linkId=3ffbd089d7aa1b577f2dfc90bee418c4&language=en_US&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Bug Bounty podcast by Fisher",
+      "url": "https://open.spotify.com/show/3yTTlfXH1avrI3FsXZyCpv",
+      "author": "Fisher"
+    },
+    {
+      "title": "Advanced Web Podcasts",
+      "url": "https://media.ccc.de/"
+    },
+    {
+      "title": "Bug Hunting Reports by Hackerone",
+      "url": "https://hackerone.com/hacktivity/overview",
+      "author": "Hackerone"
+    },
+    {
+      "title": "Bug Hunting Reports by pentester Land",
+      "url": "https://pentester.land/writeups/",
+      "author": "pentester Land"
+    },
+    {
+      "title": "Hack, Learn, Earn, with a Free E-Book by Peter Yaworksi Web Hacking101",
+      "url": "https://www.hackerone.com/ethical-hacker/hack-learn-earn-free-e-book",
+      "author": "Peter Yaworksi"
+    },
+    {
+      "title": "Curated lists of podcasts",
+      "url": "https://player.fm/podcasts/Bug-Bounty"
+    }
+  ]
+  
