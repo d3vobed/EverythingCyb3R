@@ -30,7 +30,7 @@ Feedback or new tool suggestions are extremely welcome! Please feel free to subm
           "url": "http://example.com"
         }
 
-3. Submit pull request!
+2. Submit pull request!
 
 Thank you!
 
