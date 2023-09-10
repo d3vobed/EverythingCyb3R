@@ -10,12 +10,17 @@
 
 2. Submit pull request!
 
-3. Use Xmind to create a mindmapper of how the job role and it's workings should go about check Adversial Threat Emulation on how it was created, and use that sample or this to form your mind map ps: it should be accurate and intact not to misguide beginners
-[Uploading Template.xmind…]()rEhk8xZuKeWhnuG
+3. Use Xmind mind mapper to create a mindmapper of how the job role and it's workings should go about check Adversial Threat Emulation on how it was created, and use that sample or this to form your mind map ps: it should be accurate and intact not to misguide beginners
 
-sacipox820@mliok.com  credentials and template for mind mapping
 
-4. summarize each roadmap carrer path!
+
+Logins--
+rEhk8xZuKeWhnuG
+
+
+sacipox820@mliok.com
+
+4. summarize each roadmap carrer path using chatgpt !!
 
 Thank you!!!!!
 
