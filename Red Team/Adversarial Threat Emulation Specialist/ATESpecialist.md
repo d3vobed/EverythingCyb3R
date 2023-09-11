@@ -8,7 +8,7 @@ OR USE THE PDF :)
 
 
 
-# Our own guide to becoming an ATE specialist
+# Our  guide to becoming an ATE specialist
 
     Foundation:
         Develop a strong foundation in computer science, networking, and information security.

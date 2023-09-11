@@ -3,7 +3,7 @@
 OR USE THE PDF :)
 
 
-# Our own guide to becoming an BBH specialist
+# Our  guide to becoming an BBH specialist
 
 Foundation:
 
