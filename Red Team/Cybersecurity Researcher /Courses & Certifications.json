@@ -1,0 +1,51 @@
+{
+    "Training Courses": [
+      {
+        "name": "Cloud Security Fundamentals",
+        "link": "https://www.simplilearn.com/learn-cloud-security-basics-skillup"
+      },
+      {
+        "name": "Cybersecurity Tools and Techniques",
+        "link": "https://www.coursera.org/learn/cybersecurity-tools-and-technologies"
+      },
+      {
+        "name": "Ethical Hacking and Responsible Disclosure",
+        "link": "https://www.udemy.com/course/complete-ethical-hacking-course-bug-bounty/"
+      }
+    ],
+    "Certifications": [
+      {
+        "name": "Certified Information Systems Security Professional (CISSP)",
+        "link": "https://www.isc2.org/certifications/cissp"
+      },
+      {
+        "name": "Certified Information Security Manager (CISM)",
+        "link": "https://www.isaca.org/credentialing/cism"
+      },
+      {
+        "name": "CompTIA Network+",
+        "link": "https://www.comptia.org/certifications/network"
+      },
+      {
+        "name": "CompTIA A+",
+        "link": "https://www.comptia.org/certifications/a"
+      },
+      {
+        "name": "CompTIA Security+",
+        "link": "https://www.comptia.org/certifications/security"
+      },
+      {
+        "name": "Certified Information Systems Auditor (CISA)",
+        "link": "https://www.isaca.org/credentialing/cisa"
+      },
+      {
+        "name": "Certified Information Systems Manager (CRISC)",
+        "link": "https://www.isaca.org/credentialing/crisc"
+      },
+      {
+        "name": "Certified Information Security Technician (CIST)",
+        "link": "https://identitymanagementinstitute.org/cist-application/"
+      }
+    ]
+  }
+  
