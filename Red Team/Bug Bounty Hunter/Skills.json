@@ -1,0 +1,233 @@
+{
+    "Web Application Security":[
+       {
+          "name":"OWASP Top Ten Project - OWASP Top Ten",
+          "link":"https://owasp.org/www-project-top-ten/",
+          "author":"OWASP"
+       },
+       {
+          "name":"Web Application Security Fundamentals - Portswigger Academy",
+          "link":"https://portswigger.net/web-security/learning-path",
+          "author":"Portswigger Academy"
+       },
+       {
+          "name":"Develop secure web applications by Dev Academy",
+          "link":"https://dev-academy.com/web-security/",
+          "author":"Dev Academy"
+       }
+    ],
+    "Ethical Hacking Skills":[
+       {
+          "name":"Introduction to Ethical Hacking - CEHv11",
+          "link":"https://www.oreilly.com/live-events/certified-ethical-hacker-ceh-v11-crash-course/0636920194651/0636920063851/-",
+          "author":"O'Reilly Media, Inc."
+       }
+    ],
+    "Networking Knowledge":[
+       {
+          "name":"Introduction to Networking - Cisco Networking Basics",
+          "link":"https://www.netacad.com/courses/networking/ccna-introduction-networks",
+          "author":"Cisco Networking Basics"
+       },
+       {
+          "name":"TCP/IP Fundamentals - TCP/IP Guide",
+          "link":"http://www.tcpipguide.com/",
+          "author":"TCP/IP Guide"
+       },
+       {
+          "name":"What is networking? by IBM",
+          "link":"https://www.ibm.com/topics/networking",
+          "author":"IBM"
+       }
+    ],
+    "Programming and Scripting":[
+       {
+          "name":"Python for Beginners - Python.org",
+          "link":"https://tldp.org/LDP/Bash-Beginners-Guide/html/index.html",
+          "author":"Python.org"
+       },
+       {
+          "name":"Bash Scripting Tutorial - Bash Guide",
+          "link":"https://www.python.org/about/gettingstarted/",
+          "author":"Bash Guide"
+       },
+       {
+          "name":"HTML & CSS BASICS",
+          "link":"https://www.codecademy.com/catalog/language/html-css",
+          "author":"Codecademy"
+       }
+    ],
+    "Security Tools":[
+       {
+          "name":"Curated List of Awesome Bug Bounty Tools by vavkami",
+          "link":"https://github.com/vavkamil/awesome-bugbounty-tools",
+          "author":"vavkami"
+       },
+       {
+          "name":"Introduction to Burp Suite - Burp Suite Guide by Portswigger",
+          "link":"https://portswigger.net/burp/documentation/desktop/getting-started",
+          "author":"Portswigger"
+       },
+       {
+          "name":"Wireshark User's Guide - Wireshark Documentation by Wireshark",
+          "link":"https://www.wireshark.org/docs/",
+          "author":"Wireshark"
+       },
+       {
+          "name":"Reverse IP Lookup by HackerTarget",
+          "link":"https://hackertarget.com/reverse-ip-lookup/",
+          "author":"HackerTarget"
+       },
+       {
+          "name":"DNSdumpster by hackertarget",
+          "link":"https://dnsdumpster.com/",
+          "author":"HackerTarget"
+       },
+       {
+          "name":"Certificate Transparency",
+          "link":"https://crt.sh/",
+          "author":"Certificate Transparency"
+       },
+       {
+          "name":"iNalyzer(iOS Penetration Testing Framework) by Appsec Labs",
+          "link":"https://appsec-labs.com/inalyzer/",
+          "author":"Appsec Labs"
+       },
+       {
+          "name":"Wapiti Scanner by Nicolas Surribas (@devl00p)",
+          "link":"https://wapiti-scanner.github.io/",
+          "author":"Nicolas Surribas"
+       },
+       {
+          "name":"Ironwasp Advanced Web Penetration Testing",
+          "link":"https://github.com/swatv3nub/IronWASP/blob/Alpha/README.md/#About",
+          "author":"Ironwasp"
+       },
+       {
+          "name":"AppSec Labs SSL Analyzer by Appsec labs",
+          "link":"https://appsec-labs.com/ssl_analyzer/",
+          "author":"Appsec Labs"
+       },
+       {
+          "name":"Autorize for IDORs etc by Appsec labs",
+          "link":"https://appsec-labs.com/autorize/",
+          "author":"Appsec Labs"
+       },
+       {
+          "name":"Online Exploit by Security For Everyone",
+          "link":"https://securityforeveryone.com/tools/free-security-tools",
+          "author":"Security For Everyone"
+       }
+    ],
+    "Operating System Knowledge":[
+       {
+          "name":"Linux Basics for Beginners - Linux Tutorial",
+          "link":"https://ubuntu.com/tutorials/command-line-for-beginners",
+          "author":"Linux Tutorial"
+       },
+       {
+          "name":"Windows Security Fundamentals - Microsoft Docs",
+          "link":"https://learn.microsoft.com/en-us/security/",
+          "author":"Microsoft Docs"
+       }
+    ],
+    "Vulnerability Scanning":[
+       {
+          "name":"Introduction to Nessus - Nessus Essentials by Tenable",
+          "link":"https://www.tenable.com/products/nessus/nessus-essentials",
+          "author":"Tenable"
+       },
+       {
+          "name":"Qualys Vulnerability Management - Qualys Documentation",
+          "link":"https://www.qualys.com/documentation/",
+          "author":"Qualys Documentation"
+       },
+       {
+          "name":"Nuclei Vulnerability scanning tool",
+          "link":"https://www.kali.org/tools/nuclei/",
+          "author":"Nuclei"
+       },
+       {
+          "name":"Nmap Vulnerability scanning tool",
+          "link":"https://nmap.org/",
+          "author":"Nmap"
+       },
+       {
+          "name":"Cisco Auditing Vulnerability scanning tool",
+          "link":"https://www.kali.org/tools/cisco-auditing-tool/",
+          "author":"Kali Linux"
+       }
+    ],
+    "Reverse Engineering":[
+       {
+        "name":"Reverse Engineering for Beginners by O'Reilly Media, Inc.(Georgia Weidman)",
+        "link":"https://www.oreilly.com/live-events/introduction-to-reverse-engineering-and-bug-hunting/0636920388234/0636920388227/",
+        "author":"O'Reilly Media, Inc."
+     }
+  ],
+  "Cryptography Fundamentals":[
+     {
+        "name":"Understanding Cryptography Basics - Cryptography 101",
+        "link":"https://georgian3590.medium.com/understanding-basic-cryptography-with-java-lesson-101-33666df2c1d4",
+        "author":"Georgian3590"
+     },
+     {
+        "name":"Cryptography and Network Security - Book by William Stallings",
+        "link":"http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/Stallings/Stallings_Cryptography_and_Network_Security.pdf",
+        "author":"William Stallings"
+     }
+  ],
+  "API Security":[
+     {
+        "name":"Understanding API Security - API Security",
+        "link":"https://www.manning.com/books/understanding-api-security",
+        "author":"Manning Publications"
+     },
+     {
+        "name":"OWASP API Security Project - OWASP API Security",
+        "link":"https://owasp.org/www-project-api-security/",
+        "author":"OWASP"
+     },
+     {
+        "name":"APISEC University by Dan Barahona",
+        "link":"https://www.apisecuniversity.com/",
+        "author":"Dan Barahona"
+     }
+  ],
+  "Bug Hunting Methodology":[
+     {
+        "name":"Web Application Penetration Testing Methodology - PurpleSec",
+        "link":"https://purplesec.us/web-application-penetration-testing/",
+        "author":"PurpleSec"
+     },
+     {
+        "name":"Bug Bounty Hunting Methodology - Bugcrowd",
+        "link":"https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology/",
+        "author":"Bugcrowd"
+     }
+  ],
+  "Critical Thinking & Attention to Detail":[
+     {
+        "name":"Critical Thinking Skills by Critical Thinking Foundation",
+        "link":"https://www.uopeople.edu/blog/why-is-critical-thinking-important/",
+        "author":"Critical Thinking Foundation"
+     },
+     {
+        "name":"The Power of Attention to Detail by MindTools Article",
+        "link":"https://www.mindtools.com/aase8a9/encouraging-attention-to-detail",
+        "author":"MindTools"
+     }
+  ],
+  "Effective Communication":[
+     {
+        "name":"Writing Effective Bug Reports by HackerOne Guide",
+        "link":"https://docs.hackerone.com/organizations/report-templates.html && https://www.hackerone.com/application-security/bug-bounty-reports-how-do-they-work",
+        "author":"HackerOne"
+     },
+     {
+        "name":"Reporting Security Vulnerabilities by Bugcrowd Guide",
+        "link":"https://docs.bugcrowd.com/researchers/reporting-managing-submissions/reporting-a-bug/",
+        "author":"Bugcrowd"
+     }
+  ]
+}

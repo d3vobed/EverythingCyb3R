@@ -1,0 +1,132 @@
+[
+  {
+    "author": "Nahamsec",
+    "name": "TryHackMe Room by Nahamsec",
+    "link": "https://tryhackme.com/room/nahamstore"
+  },
+  {
+    "author": "Strategos",
+    "name": "TryHackMe Room (Red Team Recon) by Strategos",
+    "link": "https://tryhackme.com/room/redteamrecon"
+  },
+  {
+    "author": "THM",
+    "name": "passiverecon by THM",
+    "link": "https://tryhackme.com/room/passiverecon"
+  },
+  {
+    "author": "1337rce",
+    "name": "THM room by 1337rce",
+    "link": "https://tryhackme.com/room/vulnversity"
+  },
+  {
+    "author": "THM",
+    "name": "THM room",
+    "link": "https://tryhackme.com/room/greprtp"
+  },
+  {
+    "author": "HackerRank",
+    "name": "HackerRank Coding Courses",
+    "link": "https://www.hackerrank.com/?source=post_page-----d30b055682be--------------------------------"
+  },
+  {
+    "author": "THM",
+    "name": "Networking Labs for Network Security by THM",
+    "link": "https://tryhackme.com/room/bpnetworking?source=post_page-----d30b055682be--------------------------------"
+  },
+  {
+    "author": "OvertheWire",
+    "name": "Wargames by OvertheWire",
+    "link": "https://overthewire.org/wargames/?source=post_page-----d30b055682be--------------------------------"
+  },
+  {
+    "author": "UnderWire",
+    "name": "PowerShell Training by UnderWire",
+    "link": "https://underthewire.tech/?source=post_page-----d30b055682be--------------------------------"
+  },
+  {
+    "author": "Hackerone",
+    "name": "Hacker101 by Hackerone",
+    "link": "https://ctf.hacker101.com/?source=post_page-----d30b055682be--------------------------------"
+  },
+  {
+    "author": "RhinoSecurityLabs",
+    "name": "Cloudgoat by RhinoSecurityLabs",
+    "link": "https://github.com/RhinoSecurityLabs/cloudgoat?source=post_page-----d30b055682be--------------------------------"
+  },
+  {
+    "author": "0xdabbad00",
+    "name": "Flaws in cloud  by 0xdabbad00",
+    "link": "http://flaws.cloud/?source=post_page-----d30b055682be--------------------------------"
+  },
+  {
+    "author": "Portswigger",
+    "name": "Web Security Academy by Portswigger",
+    "link": "https://portswigger.net/web-security?source=post_page-----d30b055682be--------------------------------"
+  },
+  {
+    "author": "THM",
+    "name": "Red Primer Hacktivity for Bug Hunters by THM",
+    "link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=Red+Primer"
+  },
+  {
+    "author": "HTB Academy",
+    "name": "Bug Bounty Hunter Path by HTB Academy",
+    "link": "https://academy.hackthebox.com/path/preview/bug-bounty-hunter"
+  },
+  {
+    "author": "HTB",
+    "name": "BountyHunter (Retired Machine) by HTB",
+    "link": "https://app.hackthebox.com/machines/359"
+  },
+  {
+    "author": "HTB",
+    "name": "Bounty (Retired Machine) by HTB",
+    "link": "https://app.hackthebox.com/machines/142"
+  },
+  {
+    "author": "pentesterlabs",
+    "name": "Free Pentester labs by pentesterlabs",
+    "link": "https://pentesterlab.com/exercises?only=free"
+  },
+  {
+    "author": "CTf247",
+    "name": "CTf247 Challenges for websecurity",
+    "link": "https://247ctf.com/dashboard"
+  },
+  {
+    "author": "Nahamsec",
+    "name": "Nahamsec labs for Udemy Bug Bounty Course",
+    "link": "https://github.com/nahamsec/nahamsec.training"
+  },
+  {
+    "author": "owasp",
+    "name": "Owasp Juice Shop by owasp",
+    "link": "https://owasp.org/www-project-juice-shop/"
+  },
+  {
+    "author": "DVWA",
+    "name": "DVWA web testing",
+    "link": "http://www.dvwa.co.uk/"
+  },
+  {
+    "author": "PwnFunction",
+    "name": "XSS game by PwnFunction",
+    "link": "http://prompt.ml/0"
+  },
+  {
+    "author": "PwnFunction",
+    "name": "XSS alert quest",
+    "link": "https://alf.nu/alert1/?world=alert&level=alert0"
+  },
+  {
+    "author": "PwnFunction",
+    "name": "0l4bs for Bug hunting",
+    "link": "https://github.com/tegal1337/0l4bs"
+  },
+  {
+    "author": "PwnFunction",
+    "name": "XSS challenge by Pwn Function",
+    "link": "https://xss.pwnfunction.com/"
+  }
+]
