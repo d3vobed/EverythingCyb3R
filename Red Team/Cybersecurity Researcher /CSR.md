@@ -1,6 +1,10 @@
 # ROADMAP TO BECOMING CYBER SECURITY RESEARCHER
 
+![Cybersecurity Researcher](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/e7281ed7-3e03-4572-9588-53dbf070db2e)
+
 OR USE THE PDF :)
+
+![Cybersecurity Researcher](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/881f990e-6215-4d21-a61d-b0260b550f70)
 
 # Our Guide to Becoming a Cyber Security Researcher
 
