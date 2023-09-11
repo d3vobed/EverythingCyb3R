@@ -1,0 +1,129 @@
+{
+  "courses": [
+    {
+      "name": "PortSwigger Web Security Academy",
+      "url": "https://portswigger.net/web-security",
+      "author": "PortSwigger Security"
+    },
+    {
+      "name": "Bugcrowd University",
+      "url": "https://www.bugcrowd.com/resources/bugcrowd-university/",
+      "author": "Bugcrowd"
+    },
+    {
+      "name": "Hacker101",
+      "url": "https://www.hacker101.com/",
+      "author": "HackerOne"
+    },
+    {
+      "name": "PEN200 (Offensive Security Certified Professional - OSCP)",
+      "url": "https://www.offsec.com/courses/pen-200/",
+      "author": "Offensive Security"
+    },
+    {
+      "name": "eLearnSecurity Web Application Penetration Testing (eWPT)",
+      "url": "https://security.ine.com/certifications/ewpt-certification/",
+      "author": "INE Security"
+    },
+    {
+      "name": "Certified Ethical Hacker (CEH)",
+      "url": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+      "author": "EC-Council"
+    },
+    {
+      "name": "Security +",
+      "url": "https://www.comptia.org/certifications/security",
+      "author": "CompTIA Org"
+    },
+    {
+      "name": "Certified Bug Bounty Hunter (CBBH)",
+      "url": "https://www.eccouncil.org/programs/certified-bug-bounty-hunter-cbbh/",
+      "author": "EC-Council CBBH"
+    },
+    {
+      "name": "CISSP",
+      "url": "https://www.isc2.org/Certifications/CISSP",
+      "author": "ISC2"
+    },
+    {
+      "name": "HackTheBox CBBH",
+      "url": "https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter",
+      "author": "HTB Academy"
+    },
+    {
+      "name": "Bug Bounty Hunting Courses and Training Programs",
+      "url": "https://www.infosectrain.com/courses/bug-bounty-hunting-training/",
+      "author": "Infosectrain"
+    },
+    {
+      "name": "Certified Bug Bounty Expert – A Complete Course Bundle",
+      "url": "https://ethicalhackersacademy.com/products/certified-bug-bounty-expert/",
+      "author": "Ethical Hackers Academy"
+    },
+    {
+      "name": "Bug Bounty Expert (BBE)",
+      "url": "https://hackerassociate.com/bbe-bug-bounty-expert-training/",
+      "author": "Hackers Associate"
+    },
+    {
+      "name": "Certified Bug Bounty Hunter",
+      "url": "https://redteamtrivandrum.com/courses/certified-bug-bounty-hunter/",
+      "author": "Red Team Hacker Academy"
+    },
+    {
+      "name": "Intigriti Hackademy",
+      "url": "https://blog.intigriti.com/hackademy/",
+      "author": "Intigriti"
+    },
+    {
+      "name": "Intro to Bug Bounty Hunting and Web Application Hacking by Nahamsec",
+      "url": "https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/?ranMID=39197&ranEAID=y35cnU7gg4U&ranSiteID=y35cnU7gg4U-LqOy1jjHf1xG8sZffuki9Q&LSNPUBID=y35cnU7gg4U&utm_source=aff-campaign&utm_medium=udemyads",
+      "author": "Nahamsec"
+    },
+    {
+      "name": "Uncle Rat's Web Application Hacking And Bug Bounty Guide",
+      "url": "https://www.udemy.com/course/uncle-rats-bug-bounty-guide/?ranMID=39197&ranEAID=y35cnU7gg4U&ranSiteID=y35cnU7gg4U-g4zhSkApwNPy1BzeiBazVg&LSNPUBID=y35cnU7gg4U&utm_source=aff-campaign&utm_medium=udemyads",
+      "author": "Xss Rat"
+    },
+    {
+      "name": "Certified Bug Hunting Professional",
+      "url": "https://iemlabs.com/courses/certified-bug-hunting-professional/",
+      "author": "IEMlabs"
+    },
+    {
+      "name": "Bug Bounty Training",
+      "url": "https://mindmajix.com/bug-bounty-training",
+      "author": "MindMajix"
+    },
+    {
+      "name": "Identifying vulnerabilities on web applications by Bug Bounty Hunter",
+      "url": "https://www.bugbountyhunter.com/training/",
+      "author": "Bug Bounty Hunter"
+    },
+    {
+      "name": "Web Security & Bug Bounty: Learn Penetration Testing in 2023 by Zero To Mastery (Aleksa Tamburkovski & Andrei Neagoie)",
+      "url": "https://zerotomastery.io/courses/learn-penetration-testing/",
+      "author": "Zero To Mastery"
+    },
+    {
+      "name": "An Interactive Cyber Security Platform by defendtheweb",
+      "url": "https://defendtheweb.net/articles/hacking",
+      "author": "defendtheweb"
+    },
+    {
+      "name": "Learn BugHunting by BugHuntingAdventures (Youtube)",
+      "url": "https://www.youtube.com/c/BugHuntingAdventures",
+      "author": "BugHuntingAdventures (Youtube)"
+    },
+    {
+      "name": "Beginner to Advanced Bug Bounty Hunting Course | UPDATED by phD Security",
+      "url": "https://www.youtube.com/watch?v=Rp69edBmFFo",
+      "author": "phD Security (Youtube)"
+    },
+    {
+      "name": "Bug Bounty Intro by InsiderPhD",
+      "url": "https://www.youtube.com/@InsiderPhD/playlists",
+      "author": "InsiderPhD (Youtube)"
+    }
+  ]
+}
