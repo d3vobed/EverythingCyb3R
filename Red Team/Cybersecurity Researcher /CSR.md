@@ -4,7 +4,8 @@
 
 OR USE THE PDF :)
 
-![Cybersecurity Researcher](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/881f990e-6215-4d21-a61d-b0260b550f70)
+[Cybersecurity Researcher.pdf](https://github.com/d3vobed/EverythingCyb3R/files/12581122/Cybersecurity.Researcher.pdf)
+
 
 # Our Guide to Becoming a Cyber Security Researcher
 
