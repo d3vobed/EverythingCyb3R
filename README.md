@@ -4,7 +4,12 @@
 
 Welcome to EverythingCyb3R, the GitHub repository that paves the way for your journey into the captivating world of cybersecurity. We've created an engaging and user-friendly framework that simplifies the complexities of the industry, making it fun and easy to understand.
 
-EverythingCyb3R is your trusted companion, guiding you through various cybersecurity job roles, essential skills, labs & tranining exercises, books & podcasts and the certifications that validate your expertise. We've transformed learning into an adventure, where each step brings you closer to unlocking new opportunities. With clear descriptions and interactive elements, EverythingCyb3R ensures that you can explore different pathways and discover your true passion in the dynamic field of cybersecurity. Embark on this exciting quest, expand your knowledge, and embrace the thrill of becoming a cybersecurity professional.   Join us on everythingcyb3r.com as we navigate the ever-evolving landscape together!
+EverythingCyb3R is your trusted companion, designed with beginners in mind, guiding you through various cybersecurity job roles, essential skills, labs & training exercises, books & podcasts, and the certifications that validate your expertise. We understand that not all resources are one-size-fits-all, especially for those new to the field. That's why we curate content with your needs in focus, ensuring a smooth and comprehensive learning experience.
+
+We've transformed learning into an adventure, where each step brings you closer to unlocking new opportunities. With clear descriptions and interactive elements, EverythingCyb3R ensures that you can explore different pathways and discover your true passion in the dynamic field of cybersecurity. Embark on this exciting quest, expand your knowledge, and embrace the thrill of becoming a cybersecurity professional.
+
+Join us on everythingcyb3r.com as we navigate the ever-evolving landscape together, keeping in mind that your journey is unique, and we're here to support your individual learning needs.
+
 
 
 
