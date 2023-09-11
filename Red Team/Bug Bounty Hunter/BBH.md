@@ -1,7 +1,10 @@
 # ROADMAP TO MASTERING BUG BOUNTY HUNTING
 
+![Bug Bounty Hunter](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/35af292f-2455-4813-a61c-900e871b45bd)
+
 OR USE THE PDF :)
 
+[Bug Bounty Hunter.pdf](https://github.com/d3vobed/EverythingCyb3R/files/12580843/Bug.Bounty.Hunter.pdf)
 
 # Our  guide to becoming an BBH specialist
 
