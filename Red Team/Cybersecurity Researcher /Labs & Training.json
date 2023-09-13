@@ -1,0 +1,56 @@
+{
+  "labs_and_training": [
+    {
+      "name": "Penetration Testing Lab",
+      "url": "https://www.virtualhackinglabs.com/labs/penetration-testing-lab/"
+    },
+    {
+      "name": "Virtual Beginner/Advanced Lab",
+      "url": "https://www.virtualhackinglabs.com/beginner-advanced-lab/"
+    },
+    {
+      "name": "Ethical Hacking",
+      "url": "https://www.netdevgroup.com/online/courses/cybersecurity/ndg-ethical-hacking-v2"
+    },
+    {
+      "name": "Network Security Fundamentals",
+      "url": "https://www.netdevgroup.com/online/courses/cybersecurity/network-security-fundamentals"
+    },
+    {
+      "name": "Security Operations Fundamentals",
+      "url": "https://www.netdevgroup.com/online/courses/cybersecurity/security-operations-fundamentals"
+    },
+    {
+      "name": "Cloud Security Fundamentals",
+      "url": "https://www.netdevgroup.com/online/courses/cybersecurity/cloud-security-fundamentals"
+    },
+    {
+      "name": "CyberOps Associate",
+      "url": "https://www.netdevgroup.com/online/courses/cybersecurity/cisco-cyberops-associate"
+    },
+    {
+      "name": "Infosec Institute",
+      "url": "https://www.infosecinstitute.com/"
+    },
+    {
+      "name": "ISC2",
+      "url": "https://www.isc2.org/"
+    },
+    {
+      "name": "Offensive Security",
+      "url": "https://www.offensive-security.com/"
+    },
+    {
+      "name": "SecureNinja",
+      "url": "https://secureninja.com"
+    },
+    {
+      "name": "Global Information Assurance Certification",
+      "url": "https://www.giac.org/"
+    },
+    {
+      "name": "FedVTE (Federal Virtual Training Environment)",
+      "url": "https://fedvte.usalearning.gov/"
+    }
+  ]
+}
