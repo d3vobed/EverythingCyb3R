@@ -1,10 +1,10 @@
 # ROADMAP TO BECOMING ETHICAL HACKER
 
+![Ethical Hacker](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/a58a0a32-ebdc-4225-8968-5a3edcf6dee2)
 
-OR USE THE PDF :)
+OR USE THE PDF:)
 
-
-
+[Ethical Hacker.pdf](https://github.com/d3vobed/EverythingCyb3R/files/12889075/Ethical.Hacker.pdf)
 
 # Our Guide to Becoming a Ethical Hacker
 
