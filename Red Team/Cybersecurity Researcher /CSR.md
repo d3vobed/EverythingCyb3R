@@ -9,10 +9,6 @@ OR USE THE PDF :)
 
 # Our Guide to Becoming a Cyber Security Researcher
 
-A Cyber Security Researcher, also known as a  security researcher, is a professional who specializes in studying and analyzing cybersecurity threats, vulnerabilities, and technologies. They play a critical role in identifying, understanding, and mitigating security risks to protect computer systems, networks, and data from cyberattacks.
-
-The Basic guide to becoming a Cyber Security Reacher include:
-
 Foundational Knowledge:
 
     Computer Science Fundamentals:

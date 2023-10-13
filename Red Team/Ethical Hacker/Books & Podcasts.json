@@ -1,0 +1,101 @@
+{
+    "Books": [
+        {
+            "Title": "Getting Started Becoming a Master Hacker: Hacking is the Most Important Skill Set of the 21st Century",
+            "Author": "Occupytheweb",
+            "Link": "https://www.amazon.com/Getting-Started-Becoming-Master-Hacker/dp/1711729299"
+        },
+        {
+            "Title": "Hacking: A Beginners’ Guide to Computer Hacking, Basic Security, And Penetration Testing",
+            "Author": "John Slavio",
+            "Link": "https://www.amazon.in/Hacking-Beginners-Computer-Security-Penetration/dp/1533258074"
+        },
+        {
+            "Title": "Hacking: The Art Of Exploitation",
+            "Author": "Jon Erickson",
+            "Link": "https://github.com/imrk51/hacking-books/blob/master/Jon%20Erickson%20-%20Hacking%20Art%20of%20Exploitation.pdf"
+        },
+        {
+            "Title": "Metasploit: The Penetration Tester’s Guide",
+            "Authors": "David Kennedy, Jim O'Gorman, Devon Kearns, and Mati Aharoni",
+            "Link": "https://lightsailed.com/catalog/book/metasploit-the-penetration-tester-s-guide-kennedy-david-o-gorman-jim-kearns-devon-aharoni-mati/9781593274023/"
+        },
+        {
+            "Title": "Penetration Testing: A Hands-On Introduction to Hacking",
+            "Author": "Georgia Weidman",
+            "Link": "https://www.yumpu.com/en/document/view/63822925/pdf-download-penetration-testing-a-hands-on-introduction-to-hacking-full-free-collection"
+        },
+        {
+            "Title": "The Hacker Playbook 3: Practical Guide To Penetration Testing",
+            "Author": "Peter Kim",
+            "Link": "https://github.com/tanc7/hacking-books/blob/master/The%20Hacker%20Playbook%202,%20Practical%20Guide%20To%20Penetration%20Testing%20By%20Peter%20Kim.pdf"
+        },
+        {
+            "Title": "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software",
+            "Authors": "Michael Sikorski, Andrew Honig",
+            "Link": "https://github.com/tanc7/hacking-books/blob/master/practicalmalwareanalysis.pdf"
+        },
+        {
+            "Title": "Social Engineering: The Science of Human Hacking",
+            "Author": "Christopher Hadnagy",
+            "Link": "https://www.amazon.com/Social-Engineering-Science-Human-Hacking/dp/111943338X"
+        },
+        {
+            "Title": "Applied Cryptography: Protocols, Algorithms, and Source Code in C",
+            "Authors": "Bruce Schneier",
+            "Link": "https://mrajacse.files.wordpress.com/2012/01/applied-cryptography-2nd-ed-b-schneier.pdf"
+        },
+        {
+            "Title": "Black Hat Python: Python Programming for Hackers and Pentesters",
+            "Author": "Justin Seitz",
+            "Link": "https://github.com/tanc7/hacking-books/blob/master/blackhatpython.pdf"
+        },
+        {
+            "Title": "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws",
+            "Author": "Dafydd Stuttard and Marcus Pinto",
+            "Link": "https://www.wiley.com/en-us/The+Web+Application+Hacker's+Handbook:+Finding+and+Exploiting+Security+Flaws,+2nd+Edition-p-9781118026472"
+        },
+        {
+            "Title": "Hacking: Computer Hacking, Security Testing, Penetration Testing, and Basic Security",
+            "Author": "John Slavio",
+            "Link": "https://www.amazon.com/Hacking-Penetration-Beginners-programming-engineering/dp/1539033694/"
+        },
+        {
+            "Title": "Advanced Penetration Testing: Hacking the World’s Most Secure Networks",
+            "Author": "Wil Allsopp",
+            "Link": "https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689"
+        },
+        {
+            "Title": "BackTrack 5 Wireless Penetration Testing Beginner’s Guide",
+            "Author": "Vivek Ramachandran",
+            "Link": "https://www.amazon.com/BackTrack-Wireless-Penetration-Testing-Beginners/dp/1849515581/"
+        },
+        {
+            "Title": "Gray Hat Hacking: The Ethical Hacker’s Handbook",
+            "Authors": "Allen Harper, Ryan Linn, Stephen Sims, Michael Baucom, Huascar Tejeda, Daniel Fernandez, Moses Frost",
+            "Link": "https://www.amazon.com/Gray-Hat-Hacking-Ethical-Handbook/dp/1264268947/"
+        }
+    ],
+    "Podcasts": [
+        {
+            "Title": "Cyberwire daily",
+            "Link": "https://player.fm/series/cyberwire-daily-112238"
+        },
+        {
+            "Title": "Darknet Diaries by Jack Rhysider",
+            "Link": "https://player.fm/series/darknet-diaries-2000363"
+        },
+        {
+            "Title": "Hacking Humans",
+            "Link": "https://player.fm/series/hacking-humans"
+        },
+        {
+            "Title": "Hacking Your ADHD",
+            "Link": "https://player.fm/series/hacking-your-adhd"
+        },
+        {
+            "Title": "The Hacks",
+            "Link": "https://player.fm/series/the-hacks"
+        }
+    ]
+}
