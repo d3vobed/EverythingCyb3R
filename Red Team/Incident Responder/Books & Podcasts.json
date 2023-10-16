@@ -1,0 +1,50 @@
+{
+    "Incident Response and Computer Forensics Resources": [
+        {
+            "Title": "Applied Incident Response By Steve Anson",
+            "Link": "https://archive.org/details/applied-incident-response-by-steve-anson_202107"
+        },
+        {
+            "Title": "IR Resources by Applied Incident Response",
+            "Link": "https://www.appliedincidentresponse.com/resources"
+        },
+        {
+            "Title": "Incident Response & Computer Forensics, Third Edition",
+            "Link": "https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684",
+            "Authors": "Jason T. Luttgens, Matthew Pepe, Kevin Mandia",
+            "Edition": "3rd"
+        },
+        {
+            "Title": "Incident-Response Podcast by Player.fm",
+            "Link": "https://player.fm/podcasts/Incident-Response"
+        },
+        {
+            "Title": "Incident-Response Podcast by IMF Security",
+            "Link": "https://www.imfsecurity.com/podcast"
+        },
+        {
+            "Title": "Computer Forensics and Digital Investigations Specialization by Coursera",
+            "Link": "https://www.coursera.org/specializations/computer-forensics"
+        },
+        {
+            "Title": "Incident Response and Forensics by SANS Institute",
+            "Link": "https://www.sans.org/cyber-security-courses/incident-response-forensics"
+        },
+        {
+            "Title": "Digital Forensics and Incident Response by Cybrary",
+            "Link": "https://www.cybrary.it/course/digital-forensics-and-incident-response/"
+        },
+        {
+            "Title": "Incident Response Fundamentals by Pluralsight",
+            "Link": "https://www.pluralsight.com/courses/incident-response-fundamentals"
+        },
+        {
+            "Title": "Windows Forensics and Incident Recovery by Cybrary",
+            "Link": "https://www.cybrary.it/course/windows-forensics-incident-recovery/"
+        },
+        {
+            "Title": "Incident Response Playbook by TheHive Project",
+            "Link": "https://github.com/TheHive-Project/playbook"
+        }
+    ]
+}
