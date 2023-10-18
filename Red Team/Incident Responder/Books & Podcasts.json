@@ -36,6 +36,10 @@
             "Link": "https://www.sans.org/cyber-security-courses/incident-response-forensics"
         },
         {
+            "Title": "CyberRanges Podcasts"
+            "Link" : "https://www.cyberranges.com/podcasts/" 
+        };
+        {
             "Title": "Digital Forensics and Incident Response by Cybrary",
             "Link": "https://www.cybrary.it/course/digital-forensics-and-incident-response/"
         },

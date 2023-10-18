@@ -1,0 +1,74 @@
+{
+    "Skills and Resources": [
+      {
+        "Skills": [
+          "Cybersecurity Fundamentals",
+          "Understanding cybersecurity principles",
+          "Knowledge of cyber threats and attack vectors",
+          "Familiarity with security best practices",
+          "Operating System Security",
+          "Security Policies and Procedures",
+          "Network Security Basics",
+          "Authentication and Access Control"
+        ],
+        "Resources": [
+          "Cybrary (https://www.cybrary.it/)",
+          "SANS Institute (https://www.sans.org/)",
+          "Security+ Certification from CompTIA (https://www.comptia.org/certifications/security)"
+        ]
+      },
+      {
+        "Skills": [
+          "Incident Detection and Analysis",
+          "Recognizing signs of a security incident",
+          "Incident categorization and prioritization",
+          "Incident handling procedures",
+          "Intrusion Detection Systems (IDS)",
+          "Security Information and Event Management (SIEM)",
+          "Threat detection tools",
+          "Identifying anomalies in network traffic"
+        ],
+        "Resources": [
+          "AlienVault (https://www.alienvault.com/)",
+          "Splunk (https://www.splunk.com/)",
+          "Snort IDS (https://www.snort.org/)"
+        ]
+      },
+      {
+        "Skills": [
+          "Digital Forensics",
+          "Disk and memory forensics",
+          "File system analysis",
+          "Data recovery techniques",
+          "Evidence preservation and handling",
+          "Chain of custody",
+          "Forensic tools like EnCase and FTK",
+          "Forensic investigation procedures"
+        ],
+        "Resources": [
+          "SANS Digital Forensics and Incident Response (https://www.sans.org/dfir)",
+          "EnCase Forensic (https://www.guidancesoftware.com/)"
+        ]
+      },
+      {
+        "Skills": [
+          "Network Analysis",
+          "Malware Analysis",
+          "Security Tools and Technologies",
+          "Incident Response Frameworks",
+          "Incident Triage",
+          "Threat Intelligence",
+          "Log Analysis",
+          "System and Network Administration"
+        ],
+        "Resources": [
+          "FireEye (https://www.fireeye.com/)",
+          "IBM X-Force Red (https://www.ibm.com/security/services/xforce-red-cyber-range)",
+          "Circadence Project Ares (https://www.circadence.com/products/project-ares/)",
+          "Certified Incident Responder (eCIR) by eLearn-Security (https://security.ine.com/certifications/ecir-certification/)"
+        ]
+      }
+    ]
+  }
+  }
+  

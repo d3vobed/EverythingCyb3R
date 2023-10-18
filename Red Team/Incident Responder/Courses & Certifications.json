@@ -1,0 +1,111 @@
+{
+    "Certifications": [
+      {
+        "Name": "Certified Incident Handler (GCIH)",
+        "Link": "https://www.giac.org/certification/certified-incident-handler-gcih",
+        "Author": "Global Information Assurance Certification (GIAC)"
+      },
+      {
+        "Name": "Certified Information Systems Security Professional (CISSP)",
+        "Link": "https://www.isc2.org/Certifications/CISSP",
+        "Author": "International Information System Security Certification Consortium (ISC)²"
+      },
+      {
+        "Name": "Certified Information Security Manager (CISM)",
+        "Link": "https://www.isaca.org/certification/cism-certified-information-security-manager",
+        "Author": "ISACA"
+      },
+      {
+        "Name": "Certified Information Systems Auditor (CISA)",
+        "Link": "https://www.isaca.org/certification/cisa-certified-information-systems-auditor",
+        "Author": "ISACA"
+      },
+      {
+        "Name": "CompTIA Security+",
+        "Link": "https://www.comptia.org/certifications/security",
+        "Author": "CompTIA"
+      },
+      {
+        "Name": "Certified Ethical Hacker (CEH)",
+        "Link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+        "Author": "EC-Council"
+      },
+      {
+        "Name": "Certified Cloud Security Professional (CCSP)",
+        "Link": "https://www.isc2.org/Certifications/CCSP",
+        "Author": "International Information System Security Certification Consortium (ISC)²"
+      },
+      {
+        "Name": "Certified Incident Response Handler (CIRH)",
+        "Link": "https://www.credential.net/7278d0e9-21e6-4062-9a6d-e75a6179f065",
+        "Author": "E-Council"
+      },
+      {
+        "Name": "Certified Forensic Computer Examiner (CFCE)",
+        "Link": "https://www.isfce.com/cfce/",
+        "Author": "International Society of Computer Forensics Examiners (ISCFE)"
+      },
+      {
+        "Name": "Certified Cyber Forensics Professional (CCFP)",
+        "Link": "https://www.isc2.org/Certifications/CCFP",
+        "Author": "International Information System Security Certification Consortium (ISC)²"
+      },
+      {
+        "Name": "Certified Threat Intelligence Analyst (CTIA)",
+        "Link": "https://certifications.eccouncil.org/certifications/certified-threat-intelligence-analyst",
+        "Author": "EC-Council"
+      },
+      {
+        "Name": "Certified in Risk and Information Systems Control (CRISC)",
+        "Link": "https://www.isaca.org/certification/crisc-certified-in-risk-and-information-systems-control",
+        "Author": "ISACA"
+      },
+      {
+        "Name": "Certified Information Security Specialist (CISS)",
+        "Link": "https://www.cybersecurity-professionals.com/ciss",
+        "Author": "Cyber Security Professionals"
+      },
+      {
+        "Name": "Certified Network Defender (CND)",
+        "Link": "https://certifications.eccouncil.org/certifications/certified-network-defender",
+        "Author": "EC-Council"
+      },
+      {
+        "Name": "CompTIA Cybersecurity Analyst (CySA+)",
+        "Link": "https://www.comptia.org/certifications/cybersecurity-analyst",
+        "Author": "CompTIA"
+      },
+      {
+        "Name": "CyberSec-First-Responder (CFR)",
+        "Link": "https://logicaloperations.com/certifications/1/CyberSec-First-Responder/#jump_to_12",
+        "Author": "Logical Operations"
+      },
+      {
+        "Name": "Certified Forensic Security Responder (CFSR)",
+        "Link": "https://www.opentext.com/learning-services/learning-paths-encase-certifications#CFSR",
+        "Author": "EnCase Training and Certifications"
+      },
+      {
+        "Name": "Incident Management: Preparation and Response Certificate - Final Only",
+        "Link": "https://enroll.isc2.org/product?catalog=ISC2-INC-MNGMNT-CERT-FINAL-MBR",
+        "Author": "ISC2"
+      },
+      {
+        "Name": "FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics",
+        "Link": "https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training/",
+        "Author": "SANS Institute"
+      },
+      {
+        "Name": "Certified Incident Responder (eCIR)",
+        "Link": "https://security.ine.com/certifications/ecir-certification/",
+        "Author": "eLearn-Security"
+      },
+      {
+        "Name": "GIAC Response and Industrial Defense (GRID)",
+        "Link": "https://www.giac.org/certifications/response-industrial-defense-grid/",
+        "Author": "Global Information Assurance Certification (GIAC)"
+      }
+    ]
+  }
+  }
+  
