@@ -1,5 +1,5 @@
 {
-    "Incident Response and Computer Forensics Resources": [
+    "Podcasts": [
         {
             "Title": "Applied Incident Response By Steve Anson",
             "Link": "https://archive.org/details/applied-incident-response-by-steve-anson_202107"
@@ -17,6 +17,11 @@
         {
             "Title": "Incident-Response Podcast by Player.fm",
             "Link": "https://player.fm/podcasts/Incident-Response"
+        },
+        {
+            "Title": "Darknetdiaries",
+            "Author": "Jack Rhysider",
+            "Link": "https://darknetdiaries.com/"
         },
         {
             "Title": "Incident-Response Podcast by IMF Security",
