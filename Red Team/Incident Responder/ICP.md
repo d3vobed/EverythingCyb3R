@@ -1,7 +1,12 @@
 # ROADMAP TO MASTERING BUG BOUNTY HUNTING
 
+![Incident Responder](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/3b0bc45d-b924-47bf-a4de-c24a1432311e)
+
+
 OR USE THE PDF :)
 
+
+[Incident Responder.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13035428/Incident.Responder.pdf)
 
 # Our  guide to becoming an Incident Responder specialist     
 
