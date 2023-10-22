@@ -1,4 +1,4 @@
-# ROADMAP TO MASTERING BUG BOUNTY HUNTING
+# ROADMAP TO MASTERING INCIDENT RESPONDING
 
 ![Incident Responder](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/3b0bc45d-b924-47bf-a4de-c24a1432311e)
 
