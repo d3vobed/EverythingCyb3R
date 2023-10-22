@@ -1,0 +1,28 @@
+{
+    "Penetration Tester Skills": {
+      "Networking Fundamentals": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html",
+      "Operating Systems": "https://linuxjourney.com/, https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-security-baselines",
+      "Programming and Scripting": "https://www.codecademy.com/learn/learn-python, https://ryanstutorials.net/bash-scripting-tutorial/, https://docs.microsoft.com/en-us/powershell/",
+      "Web Application Security": "https://owasp.org/www-project-top-ten/, https://portswigger.net/web-security",
+      "Network Security": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html",
+      "Vulnerability Assessment": "https://www.tenable.com/learn/education",
+      "Wireless Security": "https://www.wireshark.org/education.html",
+      "Cryptography": "https://crypto101.io/, https://www.coursera.org/courses?query=cryptography",
+      "Reverse Engineering": "https://www.begin.re/, https://courses.cs.washington.edu/courses/cse484/19sp/",
+      "Exploit Development": "https://www.metasploitunleashed.com/, https://www.corelan-training.com/index.php/training/",
+      "Social Engineering": "https://www.social-engineer.org/",
+      "Penetration Testing Frameworks": "https://www.metasploitunleashed.com/, https://portswigger.net/burp, https://nmap.org/book/",
+      "Web and Mobile App Testing": "https://portswigger.net/web-security, https://www.coursera.org/specializations/mobile-security",
+      "Cloud Security": "https://aws.amazon.com/training/, https://docs.microsoft.com/en-us/learn/certifications/az-900?view=azure-203",
+      "IoT Security": "https://www.coursera.org/courses?query=IoT%20Security",
+      "Physical Security": "https://www.securitymagazine.com/articles/93459-physical-security-concepts-and-principles",
+      "Report Writing": "https://resources.infosecinstitute.com/report-writing-best-practices-for-penetration-testers/",
+      "Legal and Compliance Knowledge": "https://www.coursera.org/courses?query=cybersecurity%20law",
+      "Continuous Learning": "https://www.cyberscoop.com/, https://threatpost.com/",
+      "Communication and Collaboration": "https://www.skillsyouneed.com/communication-skills.html, https://www.atlassian.com/team-playbook",
+      "Problem-Solving": "https://www.skillsyouneed.com/lead/critical-thinking.html",
+      "Ethics and Professionalism": "https://www.eccouncil.org/ceh/code-of-ethics/",
+      "Certifications": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/, https://www.offsec.com/certifications/oscp/, https://www.isc2.org/Certifications/CISSP, https://www.comptia.org/certifications/security+"
+    }
+  }
+  

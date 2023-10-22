@@ -1,0 +1,200 @@
+{
+    "Books": [
+      {
+        "Title": "The Web Application Hacker's Handbook",
+        "Author": "Dafydd Stuttard and Marcus Pinto",
+        "Link": "https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470"
+      },
+      {
+        "Title": "Metasploit: The Penetration Tester's Guide",
+        "Author": "David Kennedy, Jim O'Gorman, Devon Kearns, and Mati Aharoni",
+        "Link": "https://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X"
+      },
+      {
+        "Title": "Black Hat Python: Python Programming for Hackers and Pentesters",
+        "Author": "Justin Seitz",
+        "Link": "https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900"
+      },
+      {
+        "Title": "Penetration Testing: A Hands-On Introduction to Hacking",
+        "Author": "Georgia Weidman",
+        "Link": "https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641"
+      },
+      {
+        "Title": "Hacking: The Art of Exploitation",
+        "Author": "Jon Erickson",
+        "Link": "https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441"
+      },
+      {
+        "Title": "The Hacker Playbook 3: Practical Guide to Penetration Testing",
+        "Author": "Peter Kim",
+        "Link": "https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759"
+      },
+      {
+        "Title": "Red Team Field Manual",
+        "Author": "Ben Clark",
+        "Link": "https://www.amazon.com/Red-Team-Field-Manual-RTFM/dp/1494295504"
+      },
+      {
+        "Title": "Web Hacking 101: How to Make Money Hacking Ethically",
+        "Author": "Peter Yaworski",
+        "Link": "https://www.amazon.com/Web-Hacking-101-Money-Ethically/dp/1593278616"
+      },
+      {
+        "Title": "The Mobile Application Hacker's Handbook",
+        "Author": "Dominic Chell and Tyrone Erasmus",
+        "Link": "https://www.amazon.com/Mobile-Application-Hackers-Handbook-Android/dp/1118958500"
+      },
+      {
+        "Title": "Advanced Penetration Testing: Hacking the World's Most Secure Networks",
+        "Author": "Wil Allsopp",
+        "Link": "https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Secure/dp/1119367689"
+      },
+      {
+        "Title": "Penetration Tester's Open Source Toolkit",
+        "Link": "https://www.sciencedirect.com/book/9781597496278/penetration-testers-open-source-toolkit"
+      },
+      {
+        "Title": "Windows System Internals 7e Part 1 (PDF)",
+        "Link": "https://empyreal96.github.io/nt-info-depot/Windows-Internals-PDFs/Windows%20System%20Internals%207e%20Part%201.pdf"
+      },
+      {
+        "Title": "Hacking Books Repository",
+        "Link": "https://github.com/tanc7/hacking-books/tree/master"
+      },
+      {
+        "Title": "Kali Linux for Beginners: Your Guide to Kali Linux and Hacking Strategies",
+        "Link": "https://www.amazon.com/Kali-Linux-Beginners-Effective-Strategies/dp/B085RQRNJY"
+      },
+      {
+        "Title": "Practical IoT Hacking",
+        "Author": "Fotios Chantzis",
+        "Link": "https://www.bookcity.pl/practical-iot-hacking-fotios-chantzis/pid/A40039910"
+      },
+      {
+        "Title": "The Real-Time Find and Replace (RTFM) Podcast",
+        "Link": "https://www.thertfm.com/"
+      },
+      {
+        "Title": "The Hacker Mind Podcast: So You Want to Be a Pentester?",
+        "Link": "https://securityboulevard.com/2021/02/the-hacker-mind-podcast-so-you-want-to-be-a-pentester/"
+      },
+      {
+        "Title": "Pentester BluePrint: Your Guide to Being a Pentester",
+        "Link": "https://www.amazon.com/Pentester-BluePrint-Starting-Career-Ethical/dp/B08ZG97FQL"
+      },
+      {
+        "Title": "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker",
+        "Link": "https://www.goodreads.com/book/show/10256723-ghost-in-the-wires"
+      },
+      {
+        "Title": "Hackers & Painters: Big Ideas from the Computer Age",
+        "Link": "https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554"
+      },
+      {
+        "Title": "I, Robot",
+        "Author": "Isaac Asimov",
+        "Link": "https://www.barnesandnoble.com/w/i-robot-isaac-asimov/1100302412"
+      },
+      {
+        "Title": "How to Hack Like a PORNSTAR: A Step by Step Process for Breaking Into a BANK",
+        "Link": "https://www.amazon.com/How-Hack-Like-PORNSTAR-breaking/dp/1520478518"
+      },
+      {
+        "Title": "No Place to Hide: Edward Snowden, the NSA, and the U.S. Surveillance State",
+        "Link": "https://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/1250062586"
+      },
+      {
+        "Title": "Real-World Bug Hunting: A Field Guide to Web Hacking",
+        "Link": "https://pdfdrive.com/real-world-bug-hunting-a-field-guide-to-web-hacking-real-world-bug-hunting-a-field-guide-to-web-hacking-e200799600.html"
+      },
+      {
+        "Title": "Hunting Security Bugs",
+        "Author": "Tom Gallagher",
+        "Link": "https://www.abebooks.com/9780735621879/Hunting-Security-Bugs-Tom-Gallagher-073562187X/plp"
+      },
+      {
+        "Title": "Exploiting Software: How to Break Code",
+        "Link": "https://www.amazon.com/Exploiting-Software-How-Break-Code/dp/0201786958"
+      },
+      {
+        "Title": "Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation",
+        "Link": "https://www.amazon.com/Attacking-Network-Protocols-Analysis-Exploitation/dp/1593277504"
+      },
+      {
+        "Title": "Gray Hat Hacking: The Ethical Hacker's Handbook",
+        "Link": "https://www.amazon.com/Gray-Hat-Hacking-Ethical-Handbook/dp/1264268947"
+      },
+      {
+        "Title": "Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali",
+        "Link": "https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551"
+      },
+      {
+        "Title": "Pentester BluePrint: Your Guide to Being a Pentester",
+        "Link": "https://www.amazon.com/Pentester-BluePrint-Your-Guide-Being/dp/1119684307"
+      }
+    ],
+    "Podcasts": [
+      {
+        "Title": "Darknet Diaries",
+        "Link": "https://darknetdiaries.com/"
+      },
+      {
+        "Title": "Security Now",
+        "Link": "https://twit.tv/shows/security-now"
+      },
+      {
+        "Title": "Risky Business",
+        "Link": "https://risky.biz/"
+      },
+      {
+        "Title": "Hackable?",
+        "Link": "https://www.mcafee.com/enterprise/en-us/topics/cybercast.html"
+      },
+      {
+        "Title": "Paul's Security Weekly",
+        "Link": "https://securityweekly.com/shows/pauls-security-weekly/"
+      },
+      {
+        "Title": "Defensive Security Podcast",
+        "Link": "https://defensivesecurity.org/"
+      },
+      {
+        "Title": "The CyberWire",
+        "Link": "https://thecyberwire.com/podcasts/caveat.html"
+      },
+      {
+        "Title": "Malicious Life",
+        "Link": "https://malicious.life/"
+      },
+      {
+        "Title": "Security Weekly",
+        "Link": "https://securityweekly.com/"
+      },
+      {
+        "Title": "Brakeing Down Security",
+        "Link": "https://brakeingsecurity.com/"
+      },
+      {
+        "Title": "Pentester Diaries",
+        "Link": "https://www.listennotes.com/podcasts/pentester-diaries-pentester-diaries-MdVf9Z1xy32/"
+      },
+      {
+        "Title": "Cyberwire daily",
+        "Link": "https://player.fm/series/cyberwire-daily-112238"
+      },
+      {
+        "Title": "Hacking Humans",
+        "Link": "https://player.fm/series/hacking-humans"
+      },
+      {
+        "Title": "Hacking Your ADHD",
+        "Link": "https://player.fm/series/hacking-your-adhd"
+      },
+      {
+        "Title": "The Hacks",
+        "Link": "https://player.fm/series/the-hacks"
+      }
+    ]
+  }
+  

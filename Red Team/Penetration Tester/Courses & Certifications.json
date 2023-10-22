@@ -1,0 +1,105 @@
+{
+    "Courses": [
+      {
+        "Title": "Ethical Hacking Essentials (EHE) by Ec-Council",
+        "Author": "Ec-Council",
+        "Link": "https://codered.eccouncil.org/course/ethical-hacking-essentials"
+      },
+      {
+        "Title": "Ethical Hacking (13hrs) - Youtube Hindi",
+        "Author": "Unknown",
+        "Link": "https://www.youtube.com/watch?v=x3IwvPvDpKE"
+      },
+      {
+        "Title": "Practical Ethical Hacking by TCM Security",
+        "Author": "TCM Security",
+        "Link": "https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course"
+      },
+      {
+        "Title": "Certified Ethical Hacker v12 by Ec-Council",
+        "Author": "Ec-Council",
+        "Link": "https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-v12/"
+      },
+      {
+        "Title": "PEN-200: Penetration Testing with Kali Linux by Offsec",
+        "Author": "Offsec",
+        "Link": "https://www.offsec.com/courses/pen-200/"
+      },
+      {
+        "Title": "CISSP - Certified Information Systems Security Professional by ISC2",
+        "Author": "ISC2",
+        "Link": "https://www.isc2.org/certifications/cissp"
+      },
+      {
+        "Title": "GIAC Penetration Tester Certification (GPEN) by SANS Institute",
+        "Author": "SANS Institute",
+        "Link": "https://www.giac.org/certifications/penetration-tester-gpen/"
+      },
+      {
+        "Title": "Pentest+ by CompTIA",
+        "Author": "CompTIA",
+        "Link": "https://www.comptia.org/certifications/pentest"
+      },
+      {
+        "Title": "Certified Professional Technical Communicator (CPTC™) by APMG International",
+        "Author": "APMG International",
+        "Link": "https://apmg-international.com/product/cptc"
+      },
+      {
+        "Title": "EXP-401: Advanced Windows Exploitation (OSEE Certification) by Offsec",
+        "Author": "Offsec",
+        "Link": "https://www.offsec.com/courses/exp-401/"
+      },
+      {
+        "Title": "Certified Expert Penetration Tester (CEPT) by Infosec Institute",
+        "Author": "Infosec Institute",
+        "Link": "https://www.infosecinstitute.com/skills/learning-paths/certified-expert-penetration-tester-cept/"
+      },
+      {
+        "Title": "Computer Hacking Forensic Investigator (CHFI) by Ec-Council",
+        "Author": "Ec-Council",
+        "Link": "https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/"
+      },
+      {
+        "Title": "Certified Cloud Security Professional (CCSP) by ISC2",
+        "Author": "ISC2",
+        "Link": "https://www.isc2.org/Certifications/CCSP"
+      },
+      {
+        "Title": "Security+",
+        "Author": "CompTIA         ",
+        "Link": "https://www.comptia.org/certifications/security"
+      },
+      {
+        "Title": "Certified Information Systems Auditor (CISA) by ISACA",
+        "Author": "ISACA",
+        "Link": "https://www.isaca.org/certification/cisa"
+      },
+      {
+        "Title": "Certified Information Security Manager (CISM) by ISACA",
+        "Author": "ISACA",
+        "Link": "https://www.isaca.org/certification/cism"
+      },
+      {
+        "Title": "Certified Cloud Security Professional (CCSP) by ISC2",
+        "Author": "ISC2",
+        "Link": "https://www.isc2.org/Certifications/CCSP"
+      },
+      {
+        "Title": "WEB-300: Advanced Web Attacks and Exploitation",
+        "Author": "Offensive Security",
+        "Link": "https://www.offsec.com/courses/web-300/"
+      },
+      {
+        "Title": "Certified Professional Penetration Tester, eCPPTv2",
+        "Author": "eLearnSecurity",
+        "Link": "https://security.ine.com/certifications/ecppt-certification/"
+      },
+      {
+        "Title": "Comptia-advanced-security-practitioner, CASP +",
+        "Author": "CompTIA",
+        "Link": "https://www.comptia.org/certifications/comptia-advanced-security-practitioner"
+      }
+    ]
+  }
+  
