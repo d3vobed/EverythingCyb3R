@@ -1,9 +1,11 @@
 # ROADMAP TO MASTERING PENETRATION TESTING
 
+![Penetration Tester](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/ca415e10-89ff-467c-8dce-b6e395633b89)
 
 
 OR USE THE PDF :)
 
+[Penetration Tester.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13063679/Penetration.Tester.pdf)
 
 
 # Our  guide to becoming an Penetration Tester     
