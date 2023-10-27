@@ -10,7 +10,7 @@ OR USE THE PDF :)
 
     Foundational Knowledge:
 
-    Start with a strong foundation in computer science, networking, and cybersecurity. Consider pursuing a degree or certification in cybersecurity.
+    Start with a strong foundation in computer science, networking, and cybersecurity. 
     Learn the Basics:
 
     Familiarize yourself with the basics of operating systems, programming languages, and network protocols.
