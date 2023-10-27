@@ -1,0 +1,85 @@
+
+
+
+{
+    "Red Team Lead Certifications":[
+       {
+          "Certification":"Certified Information Systems Security Professional (CISSP)",
+          "Authors":[
+             "ISC2"
+          ],
+          "Link":"https://www.isc2.org/Certifications/CISSP"
+       },
+       {
+        "Certification":"Red Team Courses)",
+        "Authors":[
+           "Class Central"
+        ],
+        "Link":"https://www.classcentral.com/subject/red-team"
+     },
+       {
+          "Certification":"Certified Ethical Hacker (CEH)",
+          "Authors":[
+             "EC-Council"
+          ],
+          "Link":"https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+       },
+       {
+          "Certification":"Offensive Security Certified Professional (OSCP)",
+          "Authors":[
+             "Offensive Security"
+          ],
+          "Link":"https://www.offensive-security.com/pwk-oscp/"
+       },
+       {
+          "Certification":"Certified Information Security Manager (CISM)",
+          "Authors":[
+             "ISACA"
+          ],
+          "Link":"https://www.isaca.org/certification/cism-certified-information-security-manager"
+       },
+       {
+          "Certification":"Certified Red Team Operator (CRTOP)",
+          "Authors":[
+             "eLearnSecurity"
+          ],
+          "Link":"https://www.elearnsecurity.com/certification/ertp/"
+       },
+       {
+          "Certification":"GIAC Certified Penetration Tester (GPEN)",
+          "Authors":[
+             "Global Information Assurance Certification (GIAC)"
+          ],
+          "Link":"https://www.giac.org/certification/certified-penetration-tester-gpen"
+       },
+       {
+          "Certification":"GIAC Certified Web Application Penetration Tester (GWAPT)",
+          "Authors":[
+             "Global Information Assurance Certification (GIAC)"
+          ],
+          "Link":"https://www.giac.org/certification/web-application-penetration-tester-gwapt"
+       },
+       {
+          "Certification":"GIAC Certified Forensic Analyst (GCFA)",
+          "Authors":[
+             "Global Information Assurance Certification (GIAC)"
+          ],
+          "Link":"https://www.giac.org/certification/forensics-analyst-gcfa"
+       },
+       {
+          "Certification":"Certified Information Systems Auditor (CISA)",
+          "Authors":[
+             "ISACA"
+          ],
+          "Link":"https://www.isaca.org/certification/cisa"
+       },
+       {
+          "Certification":"Certified Red Team Expert (CRTE)",
+          "Authors":[
+             "eLearnSecurity"
+          ],
+          "Link":"https://www.elearnsecurity.com/certification/certified-red-team-expert/"
+       }
+    ]
+ }
+ 

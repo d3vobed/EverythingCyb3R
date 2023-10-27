@@ -1,0 +1,68 @@
+{
+    "Books":[
+       {
+          "Title":"Red Team Development and Operations: A practical guide",
+          "Format":"Paperback",
+          "Publication Date":"January 20, 2020",
+          "Authors":[
+             "Joe Vest (Author)",
+             "James Tubberville (Author)"
+          ],
+          "URL":"https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633"
+       },
+       {
+          "Title":"Red Team: How to Succeed By Thinking Like the Enemy",
+          "Format":"Audio CD",
+          "Publication Date":"November 1, 2016",
+          "Authors":[
+             "Micah Zenko (Author)",
+             "Christopher Lane (Reader)"
+          ],
+          "URL":"https://www.amazon.com/Red-Team-Succeed-Thinking-Enemy/dp/1501274899"
+       },
+       {
+          "Title":"Red Teaming: How Your Business Can Conquer the Competition by Challenging Everything",
+          "Format":"Hardcover",
+          "Publication Date":"May 16, 2017",
+          "Authors":[
+             "Bryce G. Hoffman (Author)"
+          ],
+          "URL":"https://www.amazon.com/Red-Teaming-Competition-Challenging-Everything/dp/1101905972"
+       }
+    ],
+    "Podcasts":[
+       {
+          "Title":"Red Team Podcast by Redteams.net",
+          "URL":"https://www.podchaser.com/podcasts/red-team-podcast-585628/episodes/recent"
+       },
+       {
+          "Title":"Red Team Podcast by Player Fm Podcasts",
+          "URL":"https://player.fm/podcasts/Red-Team"
+       },
+       {
+          "Title":"True stories from the dark side of the Internet by Jack Rhysider",
+          "URL":"https://darknetdiaries.com/"
+       },
+       {
+          "Title":"Security Episodes by smashingsecurity",
+          "URL":"https://www.smashingsecurity.com/episodes/"
+       },
+       {
+          "Title":"Control Loop: The OT Cybersecurity Podcast by CyberWire",
+          "URL":"https://thecyberwire.com/podcasts/control-loop"
+       },
+       {
+          "Title":"Shadowspeak by Cyber",
+          "URL":"https://thecyberwire.com/podcasts/shadowspeak"
+       },
+       {
+          "Title":"security-weekly  by SCmagazine",
+          "URL":"https://www.scmagazine.com/security-weekly"
+       },
+       {
+          "Title":"Red Team Podcast",
+          "URL":"https://toppodcast.com/podcast_feeds/red-team-podcast/"
+       }
+    ]
+ }
+ 
