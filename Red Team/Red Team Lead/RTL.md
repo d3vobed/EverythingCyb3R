@@ -1,9 +1,10 @@
 # ROADMAP TO MASTERING RED TEAMING
 
-
+![Red Team Lead ](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/57af096b-9b6b-4bb7-b20c-96289b2f7914)
 
 OR USE THE PDF :)
 
+[Red Team Lead .pdf](https://github.com/d3vobed/EverythingCyb3R/files/13195919/Red.Team.Lead.pdf)
 
 
 # Our  guide to becoming a Red Team Lead Expert   
