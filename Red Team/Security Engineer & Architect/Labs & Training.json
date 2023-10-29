@@ -1,0 +1,70 @@
+{
+    "Security Labs and Training Resources": [
+      {
+        "name": "Immersive Labs Hands-On Labs",
+        "link": "https://www.immersivelabs.com/hands-on-labs/",
+        "author": "Cyberanges"
+      },
+      {
+        "name": "Hack The Box Practical Hacking Labs",
+        "link": "https://www.hackthebox.com/hacker/hacking-labs",
+        "author": "Hack The Box"
+      },
+      {
+        "name": "Cloud Security Labs by Blacksky & HTB",
+        "link": "https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky",
+        "author": "Blacksky & Hack The Box"
+      },
+      {
+        "name": "Business Cyber Security Training by HTB",
+        "link": "https://www.hackthebox.com/business-cyber-security-training",
+        "author": "Hack The Box"
+      },
+      {
+        "name": "TryHackMe Security Engineer Training",
+        "link": "https://tryhackme.com/path/outline/security-engineer-training",
+        "author": "TryHackMe"
+      },
+      {
+        "name": "Cybersecurity Labs by Nova Labs",
+        "link": "https://www.pbs.org/wgbh/nova/labs/lab/cyber/",
+        "author": "Nova Labs"
+      },
+      {
+        "name": "Become a Security Engineer by Cybernowlabs",
+        "link": "https://cybernowlabs.com/engineer/",
+        "author": "Cybernowlabs"
+      },
+      {
+        "name": "Google Professional Cloud Security Engineer",
+        "link": "https://cloud.google.com/learn/certification/cloud-security-engineer",
+        "author": "Google"
+      },
+      {
+        "name": "Blue Team Labs by Blue Team Labs",
+        "link": "https://blueteamlabs.online/",
+        "author": "Blue Team Labs"
+      },
+      {
+        "name": "IBM Security Learning Academy",
+        "link": "https://www.securitylearningacademy.com/",
+        "author": "IBM"
+      },
+      {
+        "name": "SANS Institute Cyber Security Training",
+        "link": "https://www.sans.org/cyber-security-courses",
+        "author": "SANS Institute"
+      },
+      {
+        "name": "Cisco Learning Network Security Training",
+        "link": "https://learningnetwork.cisco.com/s/security-training",
+        "author": "Cisco"
+      },
+      {
+        "name": "EC-Council Certified Ethical Hacker (CEH)",
+        "link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+        "author": "EC-Council"
+      }
+    ]
+  }
+  

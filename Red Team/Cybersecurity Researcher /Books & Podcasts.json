@@ -1,77 +1,77 @@
-{
-    "BOOKS": [
-      {
-        "name": "Hacking: The Art of Exploitation",
-        "author": "Jon Erickson",
-        "Description": "This book provides hands-on guidance on hacking techniques and is suitable for those interested in penetration testing and ethical hacking.",
-        "link": "https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf"
-      },
-      {
-        "name": "The Web Application Hacker's Handbook",
-        "author": "Dafydd Stuttard and Marcus Pinto",
-        "Description": "An excellent resource for understanding web application vulnerabilities and security testing.",
-        "link": "https://www.wiley.com/en-us/exportProduct/pdf/9781118026472"
-      },
-      {
-        "name": "Network Security Essentials",
-        "author": "William Stallings",
-        "Description": "This book covers fundamental concepts in network security and is a great starting point for beginners.",
-        "link": "https://www.amazon.com/Network-Security-Essentials-Applications-Standards/dp/013452733X"
-      },
-      {
-        "name": "Cryptography and Network Security: Principles and Practice",
-        "author": "William Stallings",
-        "Description": "A comprehensive book that delves into the principles of cryptography and network security.",
-        "link": "https://dl.ebooksworld.ir/books/Cryptography.and.Network.Security.Global.Edition.8th.Edition.William.Stallings.Pearson.9781292437484.EBooksWorld.ir.pdf"
-      },
-      {
-        "name": "Blue Team Handbook: Incident Response Edition",
-        "author": "Don Murdoch and others",
-        "Description": "A practical guide for incident responders and those interested in cybersecurity defense.",
-        "link": "https://election-tv.standardmedia.co.ke/74737/q/pdf/url?PDF=blue-team-handbook-incident-response-edition-a-co.pdf"
-      },
-      {
-        "name": "Metasploit: The Penetration Tester's Guide",
-        "author": "David Kennedy, Jim O'Gorman, Devon Kearns, and Mati Aharoni",
-        "Description": "Learn how to use Metasploit, a powerful penetration testing framework.",
-        "link": "https://sdss.deltastate.gov.ng/viewcontent?ID=15419&FileName=Metasploit%20Penetration%20Testers%20David%20Kennedy.pdf"
-      }
-    ],
-    "PODCASTS": [
-      {
-        "name": "Security Now!",
-        "Description": "This podcast covers a wide range of security topics, including the latest cybersecurity news, vulnerabilities, and best practices.",
-        "Author": "Steve Gibson and Leo Laporte",
-        "Link": "https://twit.tv/shows/security-now"
-      },
-      {
-        "name": "Darknet Diaries",
-        "Description": "A podcast that shares real-life stories of hacking, data breaches, and cybercrime, offering a glimpse into the world of cybersecurity.",
-        "link": "https://darknetdiaries.com/"
-      },
-      {
-        "name": "Cyber Security Interviews",
-        "Description": "This podcast features interviews with cybersecurity professionals, providing insights into their careers and expertise.",
-        "Link": "https://cybersecurityinterviews.com"
-      },
-      {
-        "name": "Smashing Security",
-        "Description": "A light-hearted yet informative podcast hosted by Graham Cluley and Carole Theriault, discussing cybersecurity news, tips, and advice.",
-        "Author": "Smashing security",
-        "Link": "https://smashingsecurity.com/"
-      },
-      {
-        "name": "The CyberWire",
-        "Description": "This daily podcast offers concise cybersecurity news, analysis, and interviews with experts in the field.",
-        "Author": "The CyberWire",
-        "Link": "https://thecyberwire.com/podcasts"
-      },
-      {
-        "name": "Paul's Security Weekly",
-        "Description": "A collection of podcasts covering various cybersecurity topics, including hacking, vulnerability management, and more.",
-        "Author": "Paul's Security Weekly",
-        "Link": "https://scmagazine.com/podcast-show/pauls-security-weekly"
-      }
-    ]
-  }
-  
+  {
+      "BOOKS": [
+        {
+          "name": "Hacking: The Art of Exploitation",
+          "author": "Jon Erickson",
+          "Description": "This book provides hands-on guidance on hacking techniques and is suitable for those interested in penetration testing and ethical hacking.",
+          "link": "https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf"
+        },
+        {
+          "name": "The Web Application Hacker's Handbook",
+          "author": "Dafydd Stuttard and Marcus Pinto",
+          "Description": "An excellent resource for understanding web application vulnerabilities and security testing.",
+          "link": "https://www.wiley.com/en-us/exportProduct/pdf/9781118026472"
+        },
+        {
+          "name": "Network Security Essentials",
+          "author": "William Stallings",
+          "Description": "This book covers fundamental concepts in network security and is a great starting point for beginners.",
+          "link": "https://www.amazon.com/Network-Security-Essentials-Applications-Standards/dp/013452733X"
+        },
+        {
+          "name": "Cryptography and Network Security: Principles and Practice",
+          "author": "William Stallings",
+          "Description": "A comprehensive book that delves into the principles of cryptography and network security.",
+          "link": "https://dl.ebooksworld.ir/books/Cryptography.and.Network.Security.Global.Edition.8th.Edition.William.Stallings.Pearson.9781292437484.EBooksWorld.ir.pdf"
+        },
+        {
+          "name": "Blue Team Handbook: Incident Response Edition",
+          "author": "Don Murdoch and others",
+          "Description": "A practical guide for incident responders and those interested in cybersecurity defense.",
+          "link": "https://election-tv.standardmedia.co.ke/74737/q/pdf/url?PDF=blue-team-handbook-incident-response-edition-a-co.pdf"
+        },
+        {
+          "name": "Metasploit: The Penetration Tester's Guide",
+          "author": "David Kennedy, Jim O'Gorman, Devon Kearns, and Mati Aharoni",
+          "Description": "Learn how to use Metasploit, a powerful penetration testing framework.",
+          "link": "https://sdss.deltastate.gov.ng/viewcontent?ID=15419&FileName=Metasploit%20Penetration%20Testers%20David%20Kennedy.pdf"
+        }
+      ],
+      "PODCASTS": [
+        {
+          "name": "Security Now!",
+          "Description": "This podcast covers a wide range of security topics, including the latest cybersecurity news, vulnerabilities, and best practices.",
+          "Author": "Steve Gibson and Leo Laporte",
+          "Link": "https://twit.tv/shows/security-now"
+        },
+        {
+          "name": "Darknet Diaries",
+          "Description": "A podcast that shares real-life stories of hacking, data breaches, and cybercrime, offering a glimpse into the world of cybersecurity.",
+          "link": "https://darknetdiaries.com/"
+        },
+        {
+          "name": "Cyber Security Interviews",
+          "Description": "This podcast features interviews with cybersecurity professionals, providing insights into their careers and expertise.",
+          "Link": "https://cybersecurityinterviews.com"
+        },
+        {
+          "name": "Smashing Security",
+          "Description": "A light-hearted yet informative podcast hosted by Graham Cluley and Carole Theriault, discussing cybersecurity news, tips, and advice.",
+          "Author": "Smashing security",
+          "Link": "https://smashingsecurity.com/"
+        },
+        {
+          "name": "The CyberWire",
+          "Description": "This daily podcast offers concise cybersecurity news, analysis, and interviews with experts in the field.",
+          "Author": "The CyberWire",
+          "Link": "https://thecyberwire.com/podcasts"
+        },
+        {
+          "name": "Paul's Security Weekly",
+          "Description": "A collection of podcasts covering various cybersecurity topics, including hacking, vulnerability management, and more.",
+          "Author": "Paul's Security Weekly",
+          "Link": "https://scmagazine.com/podcast-show/pauls-security-weekly"
+        }
+      ]
+    }
+    

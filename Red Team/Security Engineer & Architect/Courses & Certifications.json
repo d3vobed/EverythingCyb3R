@@ -1,0 +1,110 @@
+{
+    "Security Engineer Courses and Certifications": [
+      {
+        "name": "CompTIA Security+",
+        "course": "CompTIA Security+ Certification Training",
+        "provider": "Various online platforms",
+        "link": "https://www.comptia.org/certifications/security",
+        "author": "CompTIA"
+      },
+      {
+        "name": "CISSP (Certified Information Systems Security Professional)",
+        "course": "CISSP Certification Training",
+        "provider": "Various online platforms",
+        "link": "https://www.isc2.org/Certifications/CISSP",
+        "author": "ISC²"
+      },
+      {
+        "name": "CEH (Certified Ethical Hacker)",
+        "course": "CEH Certification Training",
+        "provider": "EC-Council or various online platforms",
+        "link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+        "author": "EC-Council"
+      },
+      {
+        "name": "CISM (Certified Information Security Manager)",
+        "course": "CISM Certification Training",
+        "provider": "ISACA or various online platforms",
+        "link": "https://www.isaca.org/certification/cism",
+        "author": "ISACA"
+      },
+      {
+        "name": "CISA (Certified Information Systems Auditor)",
+        "course": "CISA Certification Training",
+        "provider": "ISACA or various online platforms",
+        "link": "https://www.isaca.org/certification/cisa",
+        "author": "ISACA"
+      },
+      {
+        "name": "CCNA Security (Cisco Certified Network Associate)",
+        "course": "CCNA Security Certification Training",
+        "provider": "Cisco or various online platforms",
+        "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/security.html",
+        "author": "Cisco"
+      },
+      {
+        "name": "SANS Institute Courses",
+        "course": "Various SANS courses (e.g., SEC401, SEC503, SEC560)",
+        "provider": "SANS Institute",
+        "link": "https://www.sans.org/cyber-security-courses",
+        "author": "SANS Institute"
+      },
+      {
+        "name": "OSCP (Offensive Security Certified Professional)",
+        "course": "OSCP Training",
+        "provider": "Offensive Security",
+        "link": "https://www.offensive-security.com/pwk-oscp/",
+        "author": "Offensive Security"
+      },
+      {
+        "name": "AWS Certified Security - Specialty",
+        "course": "AWS Certified Security - Specialty Training",
+        "provider": "AWS",
+        "link": "https://aws.amazon.com/certifications/security/",
+        "author": "Amazon Web Services (AWS)"
+      },
+      {
+        "name": "CCSP (Certified Cloud Security Professional)",
+        "course": "CCSP Training",
+        "provider": "(ISC)²",
+        "link": "https://www.isc2.org/Certifications/CCSP",
+        "author": "(ISC)²"
+      },
+      {
+        "name": "PMP (Project Management Professional)",
+        "course": "PMP Certification Training",
+        "provider": "Project Management Institute (PMI)",
+        "link": "https://www.pmi.org/certifications/project-management-professional-pmp",
+        "author": "Project Management Institute (PMI)"
+      },
+      {
+        "name": "Application Security - EC-Council",
+        "course": "Application Security Training",
+        "provider": "EC-Council",
+        "link": "https://www.eccouncil.org/train-certify/application-security/",
+        "author": "EC-Council"
+      },
+      {
+        "name": "Microsoft Certified: Security Engineer Associate",
+        "course": "Microsoft Certified: Security Engineer Associate",
+        "provider": "Microsoft",
+        "link": "https://learn.microsoft.com/en-us/credentials/certifications/roles/security-engineer",
+        "author": "Microsoft"
+      },
+      {
+        "name": "InfoSec Institute - Cybersecurity Engineer Certifications",
+        "course": "Cybersecurity Engineer Certifications",
+        "provider": "InfoSec Institute",
+        "link": "https://resources.infosecinstitute.com/careers/cybersecurity-engineer/cybersecurity-engineer-certifications/",
+        "author": "InfoSec Institute"
+      },
+      {
+        "name": "DoD 8570 IAT Certification Requirements",
+        "course": "DoD 8570 IAT Certification Requirements",
+        "provider": "InfoSec Institute",
+        "link": "https://resources.infosecinstitute.com/topics/dod-8570/dod-8570-iat-certification-requirements/",
+        "author": "InfoSec Institute"
+      }
+    ]
+  }
+  
