@@ -1,9 +1,11 @@
 # ROADMAP TO MASTERING SECURITY ENGINEERING
 
+![Security Engineer  Architect](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/13c298d0-d668-4160-b33e-06c71b7a52e4)
 
 
 OR USE THE PDF :)
 
+[Security Engineer &Architect.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13196977/Security.Engineer.Architect.pdf)
 
 
 # Our  guide to becoming a Security Engineer/Architect  
