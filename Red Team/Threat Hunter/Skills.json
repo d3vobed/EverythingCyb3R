@@ -1,0 +1,81 @@
+{
+    "Skills": [
+      {
+        "Skill": "Cybersecurity Fundamentals",
+        "Resource": "https://www.cybrary.it/course/cyber-security-fundamentals/"
+      },
+      {
+        "Skill": "Networking",
+        "Resource": "https://www.coursera.org/specializations/computer-networking"
+      },
+      {
+        "Skill": "Firewalls, IDS/IPS",
+        "Resource": "https://www.coursera.org/specializations/cyber-security"
+      },
+      {
+        "Skill": "SIEM (Security Information and Event Management)",
+        "Resource": "https://www.splunk.com/en_us/training.html"
+      },
+      {
+        "Skill": "Endpoint Detection and Response (EDR)",
+        "Resource": "https://www.carbonblack.com/resources/edr-resources/"
+      },
+      {
+        "Skill": "Threat Intelligence",
+        "Resource": "https://www.circl.lu/services/misp-malware-information-sharing-platform-threat-sharing/"
+      },
+      {
+        "Skill": "Behavioral Analysis",
+        "Resource": "https://securityintelligence.com/posts/how-to-identify-malware-through-behavioral-analysis/"
+      },
+      {
+        "Skill": "Indicators of Compromise (IoC)",
+        "Resource": "https://www.us-cert.gov/ncas/tips/ST00086"
+      },
+      {
+        "Skill": "Tactics, Techniques, and Procedures (TTPs)",
+        "Resource": "https://attack.mitre.org/matrices/enterprise/"
+      },
+      {
+        "Skill": "Hunting Methodologies",
+        "Resource": "https://www.sans.org/course/advanced-threat-hunting"
+      },
+      {
+        "Skill": "Data Analysis Tools (Python)",
+        "Resource": "https://www.learnpython.org/"
+      },
+      {
+        "Skill": "Data Visualization",
+        "Resource": "https://www.tableau.com/learn/training"
+      },
+      {
+        "Skill": "Malware Analysis",
+        "Resource": "https://www.malware-traffic-analysis.net/"
+      },
+      {
+        "Skill": "Exploit Techniques",
+        "Resource": "https://owasp.org/www-project-top-ten/"
+      },
+      {
+        "Skill": "Social Engineering",
+        "Resource": "https://www.social-engineer.org/framework/general-discussion/"
+      },
+      {
+        "Skill": "Capture The Flag (CTF) Challenges",
+        "Resource": "https://ctftime.org/"
+      },
+      {
+        "Skill": "Certifications (CISSP, CEH, CTIA)",
+        "Resource": "https://www.isc2.org/Certifications/CISSP"
+      },
+      {
+        "Skill": "Stay Informed",
+        "Resource": "https://www.securityweek.com/"
+      },
+      {
+        "Skill": "Networking (Professional Networking)",
+        "Resource": "https://www.linkedin.com/learning/me"
+      }
+    ]
+  }
+  

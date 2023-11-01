@@ -1,0 +1,70 @@
+{
+    "Books & Podcasts": [
+      {
+        "Resource": "Threat Hunting with Elastic Stack (Packt)",
+        "Author": "Packt",
+        "Link": "https://www.packtpub.com/product/threat-hunting-with-elastic-stack/9781801073783"
+      },
+      {
+        "Resource": "Practical Threat Hunting (Amazon)",
+        "Author": "Unknown",
+        "Link": "https://www.amazon.com/Practical-Threat-Hunting/dp/1838556370"
+      },
+      {
+        "Resource": "Cybersecurity Blue Team Toolkit (Amazon)",
+        "Author": "Nadean Tanner",
+        "Link": "https://www.amazon.com/Cybersecurity-Blue-Toolkit-Nadean-Tanner/dp/1119552931?dchild=1&keywords=Threat+Hunting&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUThMODY4V0RDN1pGJmVuY3J5cHRlZElkPUEwMzAxMjU5M1RSNDA3MklSQVk4WiZlbmNyeXB0ZWRBZElkPUEwMzAyMTMzMzFTRjdCQk5SUkVYOSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU%3D&linkId=61646466942566e3601cc4353f541ce4&language=en_US&ref_=as_li_ss_tl"
+      },
+      {
+        "Resource": "Blue Team Handbook: Incident Response Edition (Amazon)",
+        "Author": "Unknown",
+        "Link": "https://amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898?dchild=1&keywords=Threat+Hunting&sr=8-6&linkId=4f68e4dc59278c84ee6c77edb2c2570a&language=en_US&ref_=as_li_ss_tl"
+      },
+      {
+        "Resource": "Intelligence-Driven Incident Response (Amazon)",
+        "Author": "Unknown",
+        "Link": "https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary/dp/1491934948?dchild=1&keywords=Threat+Hunting&sr=8-11&linkId=660af975b64a1a0ab75c9eb0418359cb&language=en_US&ref_=as_li_ss_tl"
+      },
+      {
+        "Resource": "Malware Analysis and Detection Engineering (Amazon)",
+        "Author": "Unknown",
+        "Link": "https://www.amazon.com/Malware-Analysis-Detection-Engineering-Comprehensive/dp/1484261925?dchild=1&keywords=Threat+Hunting&sr=8-18&linkId=8e31a43b430d1772103c5fb5808144ba&language=en_US&ref_=as_li_ss_tl"
+      },
+      {
+        "Resource": "OTRF Threat Hunter Playbook Papers (GitHub)",
+        "Author": "OTRF",
+        "Link": "https://github.com/OTRF/ThreatHunter-Playbook/tree/master/resources/papers"
+      },
+      {
+        "Resource": "O'Reilly - Threat Hunting",
+        "Author": "O'Reilly",
+        "Link": "https://www.oreilly.com/library/view/threat-hunting/9781492028260/"
+      },
+      {
+        "Resource": "The Foundations of Threat Hunting (Packt)",
+        "Author": "Packt",
+        "Link": "https://www.packtpub.com/product/the-foundations-of-threat-hunting/9781803242996"
+      },
+      {
+        "Resource": "APT Scanning with Loki (RedBlue Team)",
+        "Author": "Unknown",
+        "Link": "https://www.redblue.team/2017/04/automating-apt-scanning-with-loki.html?m=1"
+      },
+      {
+        "Resource": "Cyber Threat Hunting Podcast (Security Boulevard)",
+        "Author": "Unknown",
+        "Link": "https://securityboulevard.com/2019/01/cyber-threat-hunting-identify-and-hunt-down-intruders-cyberspeak-podcast/"
+      },
+      {
+        "Resource": "Darknet Diaries Podcast",
+        "Author": "Unknown",
+        "Link": "https://darknetdiaries.com/"
+      },
+      {
+        "Resource": "Recorded Future Podcast Episode 93",
+        "Author": "Recorded Future",
+        "Link": "https://www.recordedfuture.com/podcast-episode-93"
+      }
+    ]
+  }
+  

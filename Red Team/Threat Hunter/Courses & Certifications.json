@@ -1,0 +1,76 @@
+{
+    "Certifications": [
+      {
+        "Certification": "Certified Threat Intelligence Analyst (CTIA)",
+        "Description": "CTIA focuses on threat intelligence, including how to identify, track, and respond to cyber threats.",
+        "Link": "https://cert.eccouncil.org/certified-threat-intelligence-analyst.html"
+      },
+      {
+        "Certification": "Certified Information Systems Security Professional (CISSP)",
+        "Description": "CISSP is a comprehensive certification that covers various domains in information security, including threat hunting.",
+        "Link": "https://www.isc2.org/Certifications/CISSP"
+      },
+      {
+        "Certification": "Certified Ethical Hacker (CEH)",
+        "Description": "CEH covers ethical hacking and penetration testing, which are crucial skills for threat hunting.",
+        "Link": "https://cert.eccouncil.org/certified-ethical-hacker.html"
+      },
+      {
+        "Certification": "Certified Incident Handler (ECIH)",
+        "Description": "ECIH focuses on incident handling and response, which is essential for effective threat hunting.",
+        "Link": "https://cert.eccouncil.org/certified-incident-handler.html"
+      },
+      {
+        "Certification": "Certified Threat Hunting Professional",
+        "Description": "eCTHP is a professional-level certification that proves your threat hunting and threat identification capabilities",
+        "Link": "https://security.ine.com/certifications/ecthp-certification/"
+      },
+      {
+        "Certification": "Cyber Threat Hunting Training Boot Camp",
+        "Description": "TRANSFORM YOUR CAREER IN 3 DAYS .",
+        "Link": "https://www.infosecinstitute.com/courses/cyber-threat-hunting/"
+      },
+      {
+        "Certification": "Level 1 Threat Hunting Training | March 2023",
+        "Description": "Level 1 Threat Hunting Training | March 2023",
+        "Link": "https://www.youtube.com/watch?v=QcQmG5KTLpo"
+      },
+      {
+        "Certification": "FOR508: GIAC Certified Forensic Analyst (GCFA)",
+        "Description": "FOR508: Advanced Incident Response, Threat Hunting, and Digital Forensics
+        .",
+        "Link": "https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training/"
+      },
+      {
+        "Certification": "Certified Network Defender (CND)",
+        "Description": "CND covers network defense techniques, which are relevant to threat hunting in network security.",
+        "Link": "https://cert.eccouncil.org/certified-network-defender.html"
+      },
+      {
+        "Certification": "Practical Threat Hunting by Mandiant Academy",
+        "Description": "Practical Threat Hunting.",
+        "Link": "https://www.mandiant.com/academy/courses/threat-hunting"
+      },
+      {
+        "Certification": "Cyber Threat Hunting  by Coursera",
+        "Description": "Cyber Threat Hunting.",
+        "Link": "https://www.coursera.org/learn/cyber-threat-hunting"
+      },
+      {
+        "Certification": "Threat Hunter (ICTH)",
+        "Description": "The ISAC Certified Threat Hunter program is a job oriented industry certification.",
+        "Link": "https://isacfoundation.org/isac-certified-threat-hunter-icth/"
+      },
+      {
+        "Certification": "CyberTalents Certified Threat Hunter        ",
+        "Description": "Cyber Threat Hunting.",
+        "Link": "https://cybertalents.com/courses/cybertalents-certified-threat-hunter"
+      },
+      {
+        "Certification": "GIAC Certified Intrusion Analyst (GCIA)",
+        "Description": "GCIA focuses on intrusion detection and response, a core aspect of threat hunting.",
+        "Link": "https://www.giac.org/certification/certified-intrusion-analyst-gcia"
+      }
+    ]
+  }
+  

@@ -1,0 +1,80 @@
+{
+    "Training Resources": [
+      {
+        "Resource": "Active Countermeasures - Threat Hunting Training",
+        "Author": "Active Countermeasures",
+        "Link": "https://www.activecountermeasures.com/hunt-training/#lab-downloads"
+      },
+      {
+        "Resource": "University of North Carolina Charlotte - Cyber Threat Hunting Labs",
+        "Author": "UNC Charlotte",
+        "Link": "https://sites.google.com/uncc.edu/cyberthreathunting/labs?authuser=0"
+      },
+      {
+        "Resource": "Network Defense - Practical Threat Hunting",
+        "Author": "Network Defense",
+        "Link": "https://www.networkdefense.io/library/practical-threat-hunting-29861/87345/about/"
+      },
+      {
+        "Resource": "OTRF Threat Hunter Playbook Papers",
+        "Author": "OTRF",
+        "Link": "https://github.com/OTRF/ThreatHunter-Playbook/tree/master/resources/papers"
+      },
+      {
+        "Resource": "Immersive Labs - Blue Team Training",
+        "Author": "Immersive Labs",
+        "Link": "https://www.immersivelabs.com/platform/blue-team-training-cyberpro/"
+      },
+      {
+        "Resource": "ThreatHuntingProject - Threat Hunting Resources",
+        "Author": "ThreatHuntingProject",
+        "Link": "https://github.com/ThreatHuntingProject/ThreatHunting/tree/master/hunts"
+      },
+      {
+        "Resource": "TryHackMe - Cyber Threat Intelligence Module",
+        "Author": "TryHackMe",
+        "Link": "https://tryhackme.com/module/cyber-threat-intelligence"
+      },
+      {
+        "Resource": "TryHackMe - Threat Hunting Module",
+        "Author": "TryHackMe",
+        "Link": "https://tryhackme.com/module/threat-hunting"
+      },
+      {
+        "Resource": "Hack The Box - Introduction to Threat Hunting",
+        "Author": "Hack The Box",
+        "Link": "https://academy.hackthebox.com/course/preview/introduction-to-threat-hunting--hunting-with-elastic"
+      },
+      {
+        "Resource": "Active Countermeasures - AC Hunter CTF Challenge",
+        "Author": "Active Countermeasures",
+        "Link": "https://www.activecountermeasures.com/ac-hunter-ctf-challenge/"
+      },
+      {
+        "Resource": "Cyber Defenders - Blue Team CTF Challenges",
+        "Author": "Cyber Defenders",
+        "Link": "https://cyberdefenders.org/blueteam-ctf-challenges/"
+      },
+      {
+        "Resource": "Corelight - Hunt from Home",
+        "Author": "Corelight",
+        "Link": "https://go.corelight.com/hunt-from-home"
+      },
+      {
+        "Resource": "Threat Hunt CTF",
+        "Author": "Threat Hunt CTF",
+        "Link": "https://thunt.ctfd.io/"
+      },
+      {
+        "Resource": "JYVSECTEC - Blue Team CTF",
+        "Author": "JYVSECTEC",
+        "Link": "https://jyvsectec.fi/services/exercises/blueteam-ctf/"
+      },
+      {
+        "Resource": "OpenSOC",
+        "Author": "OpenSOC",
+        "Link": "https://opensoc.io/"
+      }
+    ]
+  }
+  
