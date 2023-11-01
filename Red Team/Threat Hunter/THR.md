@@ -1,8 +1,11 @@
 # ROADMAP TO BECOMING A THREAT HUNTER
+![Threat Hunter](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/f65dbd96-236c-4652-9601-21416dfe5eb9)
 
 
 
 OR USE THE PDF:)
+
+[Threat Hunter.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13222584/Threat.Hunter.pdf)
 
 
 # Our Guide to Becoming a Threat Hunting Expert
