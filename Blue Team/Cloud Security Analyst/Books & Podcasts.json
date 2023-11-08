@@ -1,0 +1,82 @@
+{
+    "Books": [
+      {
+        "Title": "Securing the Cloud: Cloud Computer Security Techniques and Tactics",
+        "Authors": ["Vic (J.R.) Winkler"],
+        "Link": "https://www.amazon.com/Securing-Cloud-Computer-Security-Techniques/dp/0470589875"
+      },
+      {
+        "Title": "Cloud Native Security",
+        "Authors": ["Chris Binnie", "Rory McCune"],
+        "Link": "https://www.amazon.com/Cloud-Native-Security-Chris-Binnie/dp/1492057515"
+      },
+      {
+        "Title": "Mastering Azure Security",
+        "Authors": ["Mustafa Toroman", "Tom Janetscheck"],
+        "Link": "https://www.packtpub.com/product/mastering-azure-security/9781789611787"
+      },
+      {
+        "Title": "Cloud Security and Privacy: An Enterprise Perspective on Risks and Compliance",
+        "Authors": ["Tim Mather", "Subra Kumaraswamy", "Shahed Latif"],
+        "Link": "https://www.amazon.com/Cloud-Security-Privacy-Enterprise-Compliance/dp/0596802765"
+      },
+      {
+        "Title": "The Cloud Security Ecosystem: Technical, Legal, Business, and Management Issues",
+        "Authors": ["Ryan Ko", "Kim-Kwang Raymond Choo"],
+        "Link": "https://www.amazon.com/Cloud-Security-Ecosystem-Technical-Management/dp/1119966602"
+      },
+      {
+        "Title": "Cloud Computing Security: Foundations and Challenges",
+        "Authors": ["John R. Vacca"],
+        "Link": "https://www.amazon.com/Cloud-Computing-Security-Foundations-Challenges/dp/1439827376"
+      },
+      {
+        "Title": "Practical Cloud Security: A Guide for Secure Design and Deployment",
+        "Authors": ["Chris Dotson"],
+        "Link": "https://www.amazon.com/Practical-Cloud-Security-Secure-Deployment/dp/1492057019"
+      },
+      {
+        "Title": "Cloud Security Automation",
+        "Authors": ["Prashant Priyam"],
+        "Link": "https://www.amazon.com/Cloud-Security-Automation-Prashant-Priyam-ebook/dp/B08MTGQVQT"
+      },
+      {
+        "Title": "Cloud Security and Governance: Who’s on Your Cloud?",
+        "Authors": ["Sumner Blount", "Rob Zanella"],
+        "Link": "https://www.amazon.com/Cloud-Security-Governance-Whos-Your/dp/1119548575"
+      }
+    ],
+    "Podcasts": [
+      {
+        "Title": "BriefingsDirect",
+        "Link": "https://www.briefingsdirect.com/",
+        "Authors": ["BriefingsDirect"]
+      },
+      {
+        "Title": "Cloud Security Podcast",
+        "Link": "https://www.cloudsecuritypodcast.tv/",
+        "Authors": ["Cloud Security Podcast"]
+      },
+      {
+        "Title": "Deloitte On Cloud",
+        "Link": "https://www2.deloitte.com/us/en/pages/consulting/topics/cloud-podcast.html",
+        "Authors": ["Deloitte On Cloud"]
+      },
+      {
+        "Title": "Intel Chip-Chat",
+        "Link": "https://www.intel.com/content/www/us/en/it-management/chip-chat-library.html",
+        "Authors": ["Intel Chip-Chat"]
+      },
+      {
+        "Title": "Purple Squad Security",
+        "Link": "https://purplesquadsec.com/",
+        "Authors": ["Purple Squad Security"]
+      },
+      {
+        "Title": "The Shared Security Podcast",
+        "Link": "https://sharedsecurity.net/podcast-episodes/",
+        "Authors": ["The Shared Security Podcast"]
+      }
+    ]
+  }
+  

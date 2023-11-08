@@ -1,0 +1,118 @@
+{
+    "Skills": [
+      {
+        "Name": "Cloud Platforms",
+        "Description": "Develop a strong understanding of major cloud platforms such as AWS, Azure, and Google Cloud.",
+        "Resources": [
+          {"Title": "AWS", "Link": "https://aws.amazon.com/"},
+          {"Title": "Azure", "Link": "https://azure.microsoft.com/"},
+          {"Title": "Google Cloud", "Link": "https://cloud.google.com/"}
+        ]
+      },
+      {
+        "Name": "Networking Basics",
+        "Description": "Grasp fundamental networking concepts as they relate to cloud environments.",
+        "Resources": [
+          {"Title": "Networking Basics", "Link": "https://www.cloudflare.com/learning/network-layer/what-is-network-layer/"}
+        ]
+      },
+      {
+        "Name": "Educational Background",
+        "Description": "Pursue a degree in Cybersecurity, Information Technology, or a related field.",
+        "Resources": [
+          {"Title": "Cybersecurity Degrees", "Link": "https://www.cyberdegrees.org/degrees/"}
+        ]
+      },
+      {
+        "Name": "Cloud-specific Certifications",
+        "Description": "Consider certifications like AWS Certified Security – Specialty, Microsoft Certified: Azure Security Engineer, or Google Cloud Certified - Professional Cloud Security Engineer.",
+        "Resources": [
+          {"Title": "AWS Certified Security - Specialty", "Link": "https://aws.amazon.com/certification/certified-security-specialty/"},
+          {"Title": "Microsoft Certified: Azure Security Engineer", "Link": "https://www.microsoft.com/en-us/learning/certification-azure-security-engineer.aspx"},
+          {"Title": "Google Cloud Certified - Professional Cloud Security Engineer", "Link": "https://cloud.google.com/certification/cloud-security-engineer"}
+        ]
+      },
+      {
+        "Name": "Hands-on Experience",
+        "Description": "Set up personal cloud lab environments for hands-on practice. Undertake personal projects to implement security measures in a cloud context.",
+        "Resources": [
+          {"Title": "AWS Free Tier", "Link": "https://aws.amazon.com/free/"},
+          {"Title": "Azure Free Account", "Link": "https://azure.microsoft.com/en-us/free/"},
+          {"Title": "Google Cloud Free Tier", "Link": "https://cloud.google.com/free"}
+        ]
+      },
+      {
+        "Name": "Technical Skills",
+        "Description": "Develop skills in IAM, encryption, security groups, network ACLs, and incident response.",
+        "Resources": [
+          {"Title": "AWS IAM", "Link": "https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html"},
+          {"Title": "AWS Encryption", "Link": "https://docs.aws.amazon.com/encryption/"},
+          {"Title": "Azure Networking Security", "Link": "https://docs.microsoft.com/en-us/azure/security/fundamentals/network-security-groups-overview"},
+          {"Title": "Incident Response in the Cloud", "Link": "https://www.paloaltonetworks.com/cyberpedia/what-is-incident-response"}
+        ]
+      },
+      {
+        "Name": "Security Services",
+        "Description": "Understand security services offered by cloud providers (e.g., AWS GuardDuty, Azure Security Center). Understand the capabilities of Cloud Access Security Brokers (CASBs).",
+        "Resources": [
+          {"Title": "AWS GuardDuty", "Link": "https://aws.amazon.com/guardduty/"},
+          {"Title": "Azure Security Center", "Link": "https://azure.microsoft.com/en-us/services/security-center/"},
+          {"Title": "Cloud Access Security Brokers (CASBs)", "Link": "https://www.gartner.com/en/information-technology/glossary/cloud-access-security-brokers-casb"}
+        ]
+      },
+      {
+        "Name": "Compliance and Legal Aspects",
+        "Description": "Learn about compliance frameworks relevant to cloud security (e.g., GDPR, HIPAA). Understand legal and regulatory aspects impacting cloud security.",
+        "Resources": [
+          {"Title": "GDPR", "Link": "https://gdpr.eu/"},
+          {"Title": "HIPAA", "Link": "https://www.hhs.gov/hipaa/index.html"}
+        ]
+      },
+      {
+        "Name": "Continuous Learning",
+        "Description": "Stay updated on the latest cloud security threats and vulnerabilities. Attend conferences, webinars, and join relevant forums.",
+        "Resources": [
+          {"Title": "Cloud Security Alliance", "Link": "https://cloudsecurityalliance.org/"},
+          {"Title": "AWS Blogs", "Link": "https://aws.amazon.com/blogs/security/"},
+          {"Title": "Azure Security Community", "Link": "https://techcommunity.microsoft.com/t5/azure-security/bd-p/Azure_Security_Blog"}
+        ]
+      },
+      {
+        "Name": "Soft Skills",
+        "Description": "Develop communication and collaboration skills. Stay adaptable and be open to continuous learning in the dynamic cloud security landscape.",
+        "Resources": [
+          {"Title": "Communication Skills for Cybersecurity Professionals", "Link": "https://www.tripwire.com/state-of-security/security-awareness/communication-skills-cybersecurity-professionals/"}
+        ]
+      },
+      {
+        "Name": "Networking",
+        "Description": "Connect with professionals in the field through LinkedIn, local meetups, and industry conferences. Seek mentorship from experienced cloud security analysts.",
+        "Resources": [
+          {"Title": "LinkedIn", "Link": "https://www.linkedin.com/"},
+          {"Title": "Meetup", "Link": "https://www.meetup.com/"}
+        ]
+      },
+      {
+        "Name": "Certifications (Advanced)",
+        "Description": "Pursue advanced certifications as you gain experience, such as Certified Cloud Security Professional (CCSP) or Certified Information Systems Security Professional (CISSP).",
+        "Resources": [
+          {"Title": "CCSP - Certified Cloud Security Professional", "Link": "https://www.isc2.org/Certifications/CCSP"},
+          {"Title": "CISSP - Certified Information Systems Security Professional", "Link": "https://www.isc2.org/Certifications/CISSP"}
+        ]
+      },
+      {
+        "Name": "Bug Bounty Programs",
+        "Description": "Participate in cloud-related bug bounty programs to apply skills in real-world scenarios.",
+        "Resources": [
+          {"Title": "HackerOne", "Link": "https://www.hackerone.com/"},
+          {"Title": "Bugcrowd", "Link": "https://www.bugcrowd.com/"}
+        ]
+      },
+      {
+        "Name": "Build a Portfolio",
+        "Description": "Document your projects, achievements, and skills in an online portfolio or resume.",
+        "Resources": [
+          {"Title": "GitHub", "Link": "https://github.com/"},
+          {"Title": "LinkedIn - Showcase Your Skills", "Link": "https://www.linkedin.com/help/linkedin/answer/92367/showcasing-your-skills-on-your-linkedin-profile?lang=en"}
+       
+  

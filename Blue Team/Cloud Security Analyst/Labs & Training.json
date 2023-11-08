@@ -1,0 +1,40 @@
+{
+    "Resources": [
+      {
+        "Title": "SC-200 Microsoft Security Operations Analyst",
+        "Link": "https://cloudlabs.ai/sc-200/",
+        "Authors": ["SC-200 Microsoft Security Operations Analyst"]
+      },
+      {
+        "Title": "Cloud Security Labs",
+        "Link": "https://github.com/cloud-security-labs",
+        "Authors": ["Cloud Security Labs"]
+      },
+      {
+        "Title": "Hack The Box Professional Labs - Cloud Labs: BlackSky",
+        "Link": "https://www.hackthebox.com/business/professional-labs/cloud-labs-blacksky",
+        "Authors": ["Hack The Box Professional Labs - Cloud Labs: BlackSky"]
+      },
+      {
+        "Title": "Cloud Security - AWS On-Demand",
+        "Link": "https://bootcamps.pentesteracademy.com/course/cloud-security-aws-on-demand",
+        "Authors": ["Cloud Security - AWS On-Demand"]
+      },
+      {
+        "Title": "AWS Well-Architected Labs - Security",
+        "Link": "https://wellarchitectedlabs.com/security/",
+        "Authors": ["AWS Well-Architected Labs - Security"]
+      },
+      {
+        "Title": "Hack The Box Certified Defensive Security Analyst (CDSA) Certification",
+        "Link": "https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst",
+        "Authors": ["Hack The Box Certified Defensive Security Analyst (CDSA) Certification"]
+      },
+      {
+        "Title": "TryHackMe Cloud Hacktivities",
+        "Link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=cloud",
+        "Authors": ["TryHackMe Cloud Hacktivities"]
+      }
+    ]
+  }
+  

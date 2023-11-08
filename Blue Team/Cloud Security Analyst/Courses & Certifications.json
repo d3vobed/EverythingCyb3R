@@ -1,0 +1,71 @@
+{
+    "Courses": [
+      {
+        "Name": "AWS Certified Security - Specialty",
+        "Platform": "AWS",
+        "Description": "Covers advanced security topics and best practices for securing AWS environments.",
+        "Link": "https://aws.amazon.com/certification/certified-security-specialty/"
+      },
+      {
+        "Name": "Azure Security Technologies (AZ-500)",
+        "Platform": "Microsoft Azure",
+        "Description": "Focuses on implementing security controls and threat protection, managing identity and access, and more.",
+        "Link": "https://www.microsoft.com/en-us/learning/certification-azure-security-engineer.aspx"
+      },
+      {
+        "Name": "Google Cloud Certified - Professional Cloud Security Engineer",
+        "Platform": "Google Cloud",
+        "Description": "Demonstrates your ability to design and implement security policies and controls on Google Cloud Platform.",
+        "Link": "https://cloud.google.com/certification/cloud-security-engineer"
+      },
+      {
+        "Name": "Certificate of Cloud Security Knowledge (CCSK)",
+        "Platform": "Cloud Security Alliance",
+        "Description": "Covers fundamental cloud security concepts and best practices.",
+        "Link": "https://cloudsecurityalliance.org/education/ccsk/"
+      },
+      {
+        "Name": "CompTIA Cloud+",
+        "Platform": "CompTIA",
+        "Description": "Covers a broad range of cloud-related skills, including security, in a vendor-neutral way.",
+        "Link": "https://www.comptia.org/certifications/cloud"
+      },
+      {
+        "Name": "GIAC Cloud Security Automation (GCSA)",
+        "Platform": "GIAC",
+        "Description": "Focuses on automating and securing cloud environments.",
+        "Link": "https://www.giac.org/certification/cloud-security-automation-gcsa"
+      },
+      {
+        "Name": "Professional Cloud Security Engineer",
+        "Platform": "Google Cloud",
+        "Description": "Demonstrates your expertise in implementing and managing security on Google Cloud Platform.",
+        "Link": "https://cloud.google.com/certification/cloud-security-engineer"
+      },
+      {
+        "Name": "Certified Kubernetes Security Specialist (CKS)",
+        "Platform": "Cloud Native Computing Foundation (CNCF)",
+        "Description": "Certifies your knowledge in securing containerized applications using Kubernetes.",
+        "Link": "https://www.cncf.io/certification/cks/"
+      },
+      {
+        "Name": "Dark Side Ops Azure - Cloud Pentesting Training",
+        "Platform": "NetSPI",
+        "Description": "Focuses on practical cloud penetration testing in Microsoft Azure.",
+        "Link": "https://www.netspi.com/training/#purchase-tickets"
+      }
+    ],
+    "Certifications": [
+      {
+        "Name": "Certified Cloud Security Professional (CCSP)",
+        "Description": "Recognized globally, the CCSP certifies your knowledge and skills in cloud security architecture, design, operations, and more.",
+        "Link": "https://www.isc2.org/Certifications/CCSP"
+      },
+      {
+        "Name": "Certified Information Systems Security Professional (CISSP)",
+        "Description": "A widely recognized certification covering various domains, including security and risk management, asset security, and more.",
+        "Link": "https://www.isc2.org/Certifications/CISSP"
+      }
+    ]
+  }
+  
