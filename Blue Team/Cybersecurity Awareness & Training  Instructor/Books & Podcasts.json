@@ -1,0 +1,139 @@
+{
+    "podcasts": [
+      {
+        "title": "Darknet Diaries",
+        "link": "https://darknetdiaries.com/"
+      },
+      {
+        "title": "Risky Biz",
+        "link": "https://risky.biz/"
+      },
+      {
+        "title": "Security Now",
+        "link": "https://www.grc.com/securitynow.htm"
+      },
+      {
+        "title": "Hacking Humans",
+        "link": "https://thecyberwire.com/podcasts/hacking-humans"
+      },
+      {
+        "title": "Unsupervised Learning",
+        "link": "https://danielmiessler.com/podcast/"
+      },
+      {
+        "title": "The Social Engineering Podcast",
+        "link": "https://www.social-engineer.org/category/podcast/"
+      },
+      {
+        "title": "7 Minute Security",
+        "link": "https://7ms.us/"
+      },
+      {
+        "title": "Smashing Security",
+        "link": "https://www.smashingsecurity.com/"
+      },
+      {
+        "title": "Down the Security Rabbithole",
+        "link": "https://rabbithole.security.com/"
+      },
+      {
+        "title": "Complete Privacy and Security Podcast",
+        "link": "https://inteltechniques.com/podcast.html"
+      },
+      {
+        "title": "Defensive Security",
+        "link": "https://defensivesecurity.org/"
+      },
+      {
+        "title": "Troy Hunt’s Podcast",
+        "link": "https://www.troyhunt.com/tag/security/"
+      },
+      {
+        "title": "Cyber Security Cafe",
+        "link": "https://beverlyroche.com/"
+      },
+      {
+        "title": "Task Force 7 Podcast",
+        "link": "https://www.taskforce7radio.com/"
+      },
+      {
+        "title": "Defending Digital Podcast",
+        "link": "https://defendingdigital.com/"
+      },
+      {
+        "title": "The Information Security Forum",
+        "link": "https://www.securityforum.org/"
+      },
+      {
+        "title": "The Swansea Cyber Law and Security Podcast",
+        "link": "https://www.swansea.ac.uk/law/research/podcasts/"
+      },
+      {
+        "title": "The Application Security Podcast",
+        "link": "https://www.securityjourney.com/resources/application-security-podcast/"
+      }
+    ],
+    "books": [
+      {
+        "title": "Hacking: The Art of Exploitation",
+        "author": "Jon Erickson",
+        "rating": "4.2/5.0",
+        "buy_link": "https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441"
+      },
+      {
+        "title": "Penetration Testing: A Hands-On Introduction to Hacking",
+        "author": "Georgia Weidman",
+        "rating": "4.2/5.0",
+        "buy_link": "https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641"
+      },
+      {
+        "title": "The Art of Invisibility: The World’s Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data",
+        "author": "Kevin Mitnick",
+        "rating": "4.0/5.0",
+        "buy_link": "https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520"
+      },
+      {
+        "title": "Cyber Wars: Hacks that Shocked the Business World",
+        "author": "Charles Arthur",
+        "rating": "4.1/5.0",
+        "buy_link": "https://www.amazon.com/Cyber-Wars-Hacks-Shocked-Business/dp/0749479062"
+      },
+      {
+        "title": "Metasploit: The Penetration Tester’s Guide",
+        "author": "David Kennedy",
+        "rating": "4.1/5.0",
+        "buy_link": "https://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X"
+      },
+      {
+        "title": "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software",
+        "author": "Michael Sikorski",
+        "rating": "4.5/5.0",
+        "buy_link": "https://www.amazon.com/Practical-Malware-Analysis-Dissecting-Software/dp/1593272901"
+      },
+      {
+        "title": "Social Engineering: The Science of Human Hacking",
+        "author": "Christopher Hadnagy",
+        "rating": "3.8/5.0",
+        "buy_link": "https://www.amazon.com/Social-Engineering-Science-Human-Hacking/dp/0470639539"
+      },
+      {
+        "title": "Applied Cryptography: Protocols, Algorithms, and Source Code in C",
+        "author": "Bruce Schneier",
+        "rating": "4.2/5.0",
+        "buy_link": "https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/1119096723"
+      },
+      {
+        "title": "Ghost in the Wires: My Adventures as the World’s Most Wanted Hacker",
+        "author": "Kevin Mitnick",
+        "rating": "3.9/5.0",
+        "buy_link": "https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729"
+      },
+      {
+        "title": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+        "author": "Simon Singh",
+        "rating": "4.7/5.0",
+        "buy_link": "https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323"
+      }
+    ]
+  }
+  

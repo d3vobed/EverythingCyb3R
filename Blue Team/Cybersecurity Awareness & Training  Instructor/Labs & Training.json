@@ -1,0 +1,33 @@
+{
+    "cybersecurity_training_resources": [
+      {
+        "title": "Hack The Box - Business Cyber Security Training",
+        "link": "https://www.hackthebox.com/business-cyber-security-training"
+      },
+      {
+        "title": "CISA - Cybersecurity Training Exercises",
+        "link": "https://www.cisa.gov/cybersecurity-training-exercises"
+      },
+      {
+        "title": "Hack The Box - Capture The Flag (CTF)",
+        "link": "https://www.hackthebox.com/hacker/ctf"
+      },
+      {
+        "title": "BYU - Capture The Flag (CTF) Training",
+        "link": "https://cybersecurity.byu.edu/ctf-training"
+      },
+      {
+        "title": "TryHackMe - Hacktivities",
+        "link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=info&type=all"
+      },
+      {
+        "title": "Bit Sentinel - Cybersecurity Training and Awareness",
+        "link": "https://bit-sentinel.com/cybersecurity-training-and-awareness/"
+      },
+      {
+        "title": "Cyber Defenders",
+        "link": "https://cyberdefenders.org/"
+      }
+    ]
+  }
+  
