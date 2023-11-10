@@ -1,7 +1,10 @@
 # ROADMAP TO MASTERING CYBER FORENSICS 
 
+![Cyber-ForensicsInvestigator](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/d1f24968-831e-40db-879f-4f9aa73ef506)
+
 
 OR USE THE PDF :)
+[Cyber-ForensicsInvestigator.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13314181/Cyber-ForensicsInvestigator.pdf)
 
 
 
