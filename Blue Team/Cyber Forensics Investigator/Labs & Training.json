@@ -1,0 +1,37 @@
+{
+    "hacktivities": [
+      {
+        "platform": "TryHackMe",
+        "link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=forensics"
+      },
+      {
+        "platform": "Cyber Defenders",
+        "link": "https://cyberdefenders.org/blueteam-ctf-challenges/"
+      },
+      {
+        "platform": "Cyber Talents",
+        "link": "https://cybertalents.com/competitions/digital-forensics-ctf"
+      },
+      {
+        "platform": "Hack The Box",
+        "link": "https://www.hackthebox.com/hacker/ctf"
+      },
+      {
+        "platform": "DFIR Diva",
+        "link": "https://training.dfirdiva.com/listing-category/dfir-blue-team-ctfs"
+      },
+      {
+        "platform": "CSC",
+        "link": "https://www.csc.ac.za/?page_id=249"
+      },
+      {
+        "platform": "Osiris",
+        "link": "https://osiris.cyber.nyu.edu/"
+      },
+      {
+        "platform": "Champlain College Online",
+        "link": "https://online.champlain.edu/blog/top-skills-required-for-computer-forensics-careers"
+      }
+    ]
+  }
+  

@@ -1,0 +1,55 @@
+{
+    "certifications": [
+      {
+        "title": "SANS Cyber Security Courses",
+        "authors": ["SANS"],
+        "link": "https://www.sans.org/cyber-security-courses/?focus-area=digital-forensics"
+      },
+      {
+        "title": "EnCase Certified Examiner",
+        "authors": ["EnCase"],
+        "link": "https://www.digitalforensics.com/certifications/encase-certified-examiner"
+      },
+      {
+        "title": "Computer Hacking Forensic Investigator (CHFI)",
+        "authors": ["EC-Council"],
+        "link": "https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/"
+      },
+      {
+        "title": "Certified Computer Forensics Examiner (CFCE)",
+        "authors": ["IACIS"],
+        "link": "https://www.iacis.com/certification/cfce/"
+      },
+      {
+        "title": "AccessData Certified Examiner",
+        "authors": ["AccessData"],
+        "link": "https://www.digitalforensics.com/certifications/accessdata-certified-examiner"
+      },
+      {
+        "title": "Intella Email Investigation",
+        "authors": ["Intella"],
+        "link": "https://www.digitalforensics.com/certifications/intella-email-investigation"
+      },
+      {
+        "title": "Certified OSForensics Examiner",
+        "authors": ["OSForensics"],
+        "link": "https://www.digitalforensics.com/certifications/certified-osforensics-examiner"
+      },
+      {
+        "title": "AccessData Mobile Examiner",
+        "authors": ["AccessData"],
+        "link": "https://www.digitalforensics.com/certifications/accessdata-mobile-examiner"
+      },
+      {
+        "title": "Cellebrite UFED Physical Pro",
+        "authors": ["Cellebrite"],
+        "link": "https://www.digitalforensics.com/certifications/cellebrite-ufed-physical-pro"
+      },
+      {
+        "title": "MathWorks Image Processing",
+        "authors": ["MathWorks"],
+        "link": "https://www.digitalforensics.com/certifications/mathworks-image-processing"
+      }
+    ]
+  }
+  

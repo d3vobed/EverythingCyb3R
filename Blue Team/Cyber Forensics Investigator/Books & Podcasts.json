@@ -1,0 +1,115 @@
+{
+    "books": [
+      {
+        "title": "The Web Application Hacker's Handbook",
+        "link": "https://www.amazon.com/dp/B01BIH1UB6?tag=uuid10-20"
+      },
+      {
+        "title": "Hands-On Incident Response and Digital Forensics",
+        "link": "https://www.amazon.com/dp/0262044005?tag=uuid10-20"
+      },
+      {
+        "title": "Digital Forensics: Computer Crime Scene Investigation",
+        "link": "https://www.amazon.com/dp/1697526349?tag=uuid10-20"
+      },
+      {
+        "title": "The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory",
+        "link": "https://www.amazon.com/dp/1717294472?tag=uuid10-20"
+      },
+      {
+        "title": "Practical Forensic Imaging: Securing Digital Evidence with Linux Tools",
+        "link": "https://www.amazon.com/dp/1803238305?tag=uuid10-20"
+      },
+      {
+        "title": "Computer Forensics: Investigating File and Operating Systems, Wireless Networks, and Storage",
+        "link": "https://www.amazon.com/dp/3319462784?tag=uuid10-20"
+      },
+      {
+        "title": "File System Forensic Analysis",
+        "link": "https://www.amazon.com/dp/1635497159?tag=uuid10-20"
+      },
+      {
+        "title": "Hacking: The Art of Exploitation",
+        "link": "https://www.amazon.com/dp/0367360063?tag=uuid10-20"
+      },
+      {
+        "title": "Investigating Cryptocurrencies: Understanding, Extracting, and Analyzing Blockchain Evidence",
+        "link": "https://www.amazon.com/dp/1803238674?tag=uuid10-20"
+      },
+      {
+        "title": "Digital Forensics: Threatscape and Best Practices",
+        "link": "https://www.amazon.com/dp/9811232407?tag=uuid10-20"
+      },
+      {
+        "title": "The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws",
+        "link": "https://www.amazon.com/dp/1119053285?tag=uuid10-20"
+      },
+      {
+        "title": "Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases",
+        "link": "https://www.amazon.com/dp/B01JKJAN0S?tag=uuid10-20"
+      },
+      {
+        "title": "Malware Analysis and Detection Engineering",
+        "link": "https://www.amazon.com/dp/183864752X?tag=uuid10-20"
+      },
+      {
+        "title": "The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler",
+        "link": "https://www.amazon.com/dp/171850196X?tag=uuid10-20"
+      },
+      {
+        "title": "Digital Forensics Basics: A Practical Guide Using Windows OS",
+        "link": "https://www.amazon.com/dp/0789759918?tag=uuid10-20"
+      },
+      {
+        "title": "The Web Application Defender's Cookbook: Battling Hackers and Protecting Users",
+        "link": "https://www.amazon.com/dp/B011DB4IAW?tag=uuid10-20"
+      },
+      {
+        "title": "Practical Mobile Forensics",
+        "link": "https://www.amazon.com/dp/1484238370?tag=uuid10-20"
+      },
+      {
+        "title": "Mastering Windows Network Forensics and Investigation",
+        "link": "https://www.amazon.com/dp/1484245032?tag=uuid10-20"
+      },
+      {
+        "title": "Investigating Internet Crimes: An Introduction to Solving Crimes in Cyberspace",
+        "link": "https://www.amazon.com/dp/1838640800?tag=uuid10-20"
+      },
+      {
+        "title": "Incident Response and Computer Forensics, Second Edition",
+        "link": "https://www.amazon.com/Incident-Response-Computer-Forensics-Second/dp/007222696X"
+      }
+    ],
+    "podcasts": [
+      {
+        "title": "Digital Forensic Survival Podcast",
+        "link": "https://podcasts.apple.com/us/podcast/digital-forensic-survival-podcast/id1085119221?mt=2"
+      },
+      {
+        "title": "Computer Forensics",
+        "link": "https://player.fm/podcasts/Computer-Forensics"
+      },
+      {
+        "title": "Darknet Diaries - Episode 11",
+        "link": "https://darknetdiaries.com/transcript/11/"
+      },
+      {
+        "title": "Darknet Diaries - Episode 96",
+        "link": "https://darknetdiaries.com/transcript/96/"
+      },
+      {
+        "title": "Darknet Diaries - Episode 103",
+        "link": "https://darknetdiaries.com/transcript/103/"
+      },
+      {
+        "title": "Darknet Diaries - Episode 44",
+        "link": "https://darknetdiaries.com/transcript/44/"
+      },
+      {
+        "title": "Darknet Diaries - Episode 15",
+        "link": "https://darknetdiaries.com/transcript/15/"
+      }
+    ]
+  }
+  

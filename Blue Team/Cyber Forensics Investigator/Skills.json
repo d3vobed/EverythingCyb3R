@@ -1,0 +1,145 @@
+{
+    "roadmap": [
+      {
+        "step": "1",
+        "description": "Build a Strong Foundation in Computer Science",
+        "resources": [
+          {
+            "title": "Codecademy - Learn Python",
+            "link": "https://www.codecademy.com/learn/learn-python"
+          },
+          {
+            "title": "edX - Introduction to Computer Science and Programming Using Python",
+            "link": "https://www.edx.org/professional-certificate/introduction-to-computer-science"
+          }
+        ]
+      },
+      {
+        "step": "2",
+        "description": "Learn Networking Basics",
+        "resources": [
+          {
+            "title": "Cisco Networking Basics Specialization on Coursera",
+            "link": "https://www.coursera.org/specializations/computer-networking"
+          },
+          {
+            "title": "CompTIA Network+ Certification",
+            "link": "https://www.comptia.org/certifications/network"
+          }
+        ]
+      },
+      {
+        "step": "3",
+        "description": "Understand Operating Systems",
+        "resources": [
+          {
+            "title": "Introduction to Operating Systems on Coursera",
+            "link": "https://www.coursera.org/learn/os"
+          },
+          {
+            "title": "CompTIA A+ Certification",
+            "link": "https://www.comptia.org/certifications/a"
+          }
+        ]
+      },
+      {
+        "step": "4",
+        "description": "Learn Cybersecurity Fundamentals",
+        "resources": [
+          {
+            "title": "Cybersecurity Basics on edX",
+            "link": "https://www.edx.org/professional-certificate/cybersecurity-basics"
+          },
+          {
+            "title": "CompTIA Security+ Certification",
+            "link": "https://www.comptia.org/certifications/security"
+          }
+        ]
+      },
+      {
+        "step": "5",
+        "description": "Specialize in Digital Forensics",
+        "resources": [
+          {
+            "title": "SANS Digital Forensics Training",
+            "link": "https://www.sans.org/cyber-security-courses/?focus-area=digital-forensics"
+          },
+          {
+            "title": "CHFI - Computer Hacking Forensic Investigator Certification",
+            "link": "https://www.eccouncil.org/train-certify/computer-hacking-forensic-investigator-chfi/"
+          }
+        ]
+      },
+      {
+        "step": "6",
+        "description": "Gain Practical Experience",
+        "resources": [
+          {
+            "title": "TryHackMe Forensics Hacktivities",
+            "link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=forensics"
+          },
+          {
+            "title": "Hack The Box CTFs",
+            "link": "https://www.hackthebox.com/hacker/ctf"
+          }
+        ]
+      },
+      {
+        "step": "7",
+        "description": "Earn Relevant Certifications",
+        "resources": [
+          {
+            "title": "EnCase Certified Examiner",
+            "link": "https://www.digitalforensics.com/certifications/encase-certified-examiner"
+          },
+          {
+            "title": "Certified Forensic Computer Examiner (CFCE)",
+            "link": "https://www.iacis.com/certification/cfce/"
+          }
+        ]
+      },
+      {
+        "step": "8",
+        "description": "Stay Informed through Podcasts",
+        "resources": [
+          {
+            "title": "Digital Forensic Survival Podcast",
+            "link": "https://podcasts.apple.com/us/podcast/digital-forensic-survival-podcast/id1085119221?mt=2"
+          },
+          {
+            "title": "Darknet Diaries",
+            "link": "https://darknetdiaries.com/"
+          }
+        ]
+      },
+      {
+        "step": "9",
+        "description": "Participate in Cybersecurity Competitions",
+        "resources": [
+          {
+            "title": "Cyber Talents Digital Forensics CTF",
+            "link": "https://cybertalents.com/competitions/digital-forensics-ctf"
+          },
+          {
+            "title": "Hack The Box",
+            "link": "https://www.hackthebox.com/"
+          }
+        ]
+      },
+      {
+        "step": "10",
+        "description": "Continue Learning and Stay Updated",
+        "resources": [
+          {
+            "title": "DFIR Diva Blue Team CTFs",
+            "link": "https://training.dfirdiva.com/listing-category/dfir-blue-team-ctfs"
+          },
+          {
+            "title": "Champlain College Online Blog",
+            "link": "https://online.champlain.edu/blog/top-skills-required-for-computer-forensics-careers"
+          }
+        ]
+      }
+    ]
+  }
+  
