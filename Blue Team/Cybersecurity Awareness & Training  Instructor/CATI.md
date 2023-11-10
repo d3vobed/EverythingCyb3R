@@ -1,9 +1,11 @@
-# ROADMAP TO MASTERING CYBERSECURITY AWARENESS & TRAINING SPECIALIST
 
+# ROADMAP TO MASTERING CYBERSECURITY AWARENESS & TRAINING SPECIALIST
+![Cybersecurity Awareness   Training Instructor](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/71156ae9-d5be-49a3-9d4a-b14555b44bef)
  
 
 OR USE THE PDF :)
 
+[Cybersecurity Awareness & Training Instructor.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13322396/Cybersecurity.Awareness.Training.Instructor.pdf)
 
 
 # Our  guide to becoming a cybersecurity training and awareness instructor
