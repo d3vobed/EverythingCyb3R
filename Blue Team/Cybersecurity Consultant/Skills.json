@@ -18,4 +18,58 @@
       "ProjectManagement": "Acquire project management skills to handle consulting projects."
     }
   }
+
+  
+
+  {
+    "Technical Skills": [
+      {
+        "Title": "Network Security",
+        "Source": "CISCO",
+        "Link": "https://www.netacad.com/courses/cybersecurity/network-security"
+      },
+      {
+        "Title": "Malware Analysis",
+        "Source": "Udemy - Nikola Milosevic",
+        "Link": "https://www.udemy.com/course/malware-analysis-and-reverse-engineering/"
+      },
+      {
+        "Title": "Cryptography",
+        "Source": "Udemy - Logix Academy",
+        "Link": "https://www.udemy.com/course/cybersecurity-from-beginner-to-expert/"
+      },
+      {
+        "Title": "Penetration Testing",
+        "Source": "eJPT",
+        "Link": "https://security.ine.com/certifications/ejpt-certification/"
+      },
+      {
+        "Title": "Incident Response",
+        "Source": "Coursera",
+        "Link": "https://www.coursera.org/learn/incident-response"
+      }
+    ],
+    "Soft Skills": [
+      {
+        "Title": "Analytical Thinking",
+        "Source": "Coursera",
+        "Link": "https://www.coursera.org/courses?query=critical%20thinking"
+      },
+      {
+        "Title": "Problem Solving",
+        "Source": "Coursera - University of California, Irvine",
+        "Link": "https://www.coursera.org/learn/problem-solving"
+      },
+      {
+        "Title": "Communication Skills",
+        "Source": "Coursera - Imperial College London",
+        "Link": "https://www.coursera.org/learn/creative-thinking-techniques-and-tools-for-success"
+      },
+      {
+        "Title": "Teamwork and Collaboration",
+        "Source": "Udemy - Athena e-learn",
+        "Link": "https://www.udemy.com/course/learn-teamwork-collaboration-and-relationship-development"
+      }
+    ]
+  }
   
