@@ -1,0 +1,43 @@
+[
+    {
+      "title": "CISSP. Certified Information Systems Security Professional",
+      "link": "https://www.isc2.org/certifications/cissp",
+      "authors": "isc2"
+    },
+    {
+      "title": "CPP. Certified Protection Professional",
+      "link": "https://www.asisonline.org/certification/certified-protection-professional-cpp/",
+      "authors": "ASIS Homepage"
+    },
+    {
+      "title": "CSC. Certified Security Consultant",
+      "link": "https://iapsc.org/about/certification/",
+      "authors": "IAPSC"
+    },
+    {
+      "title": "GIAC. Security Certification",
+      "link": "https://www.giac.org/certifications/security-essentials-gsec/",
+      "authors": "SANS"
+    },
+    {
+      "title": "IAPSC. International Association of Professional Security Consultants",
+      "link": "https://iapsc.org/about/certification/",
+      "authors": "IAPSC"
+    },
+    {
+      "title": "OSCP. Offensive Security Certified Professional",
+      "link": "https://www.offsec.com/courses/pen-200/",
+      "authors": "Offensive Sec"
+    },
+    {
+      "title": "PSP. Physical Security Professional",
+      "link": "https://www.asisonline.org/certification/physical-security-professional/",
+      "authors": "ASIS"
+    },
+    {
+      "title": "GIAC Information Security Professional Certification (GISP)",
+      "link": "https://www.giac.org/certifications/information-security-professional-gisp/",
+      "authors": "SANS"
+    }
+  ]
+  
