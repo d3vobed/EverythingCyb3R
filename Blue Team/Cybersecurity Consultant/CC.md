@@ -1,9 +1,11 @@
 # ROADMAP TO MASTERING CYBERSECURITY CONSULTING
 
+![Cybersecurity Consultant](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/0d12c4c2-0319-4524-b867-831a8326f07d)
 
 
 OR USE THE PDF :)
 
+[Cybersecurity Consultant.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13342890/Cybersecurity.Consultant.pdf)
 
 
 # Our  guide to becoming a cybersecurity consultant
