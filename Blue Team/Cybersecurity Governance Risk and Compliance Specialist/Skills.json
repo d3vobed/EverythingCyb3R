@@ -1,0 +1,61 @@
+{
+    "Knowledge": {
+      "Applicable": {
+        "InformationSecurityManagement": "Information security management principles, practices, laws, rules, and regulations",
+        "ITSystemsAndProcesses": "Information technology systems and processes, network infrastructure, data architecture, data processes, and protocols",
+        "CyberAndCloudSecurity": "Cyber and cloud security standard frameworks, architecture, design, operations, controls, technology, solutions, and service orchestration",
+        "InformationSystemsAuditing": "Information systems auditing, monitoring, controlling, and assessment process",
+        "IncidentResponseManagement": "Incident response management",
+        "RiskAssessmentAndManagement": "Risk assessment and management methodology"
+      }
+    },
+    "Skills": {
+      "DevelopingAndImplementing": "Developing and implementing enterprise governance, risk, and compliance strategy and solutions",
+      "Researching": "Researching and locating information related to internal and external organizations using online and other sources",
+      "SecurityProjectManagement": "Security project management and planning",
+      "MaintainingConfidentiality": "Maintaining confidentiality",
+      "Troubleshooting": "Troubleshooting and operating a computer and various software packages",
+      "DefiningProblems": "Defining problems, collecting and analyzing data, establishing facts and drawing valid conclusions",
+      "UsingJudgmentAndIngenuity": "Using judgment and ingenuity in maintaining objectives and technical standards",
+      "WorkingWithDiverseBackgrounds": "Working with diverse academic, cultural and ethnic backgrounds of community college students and staff"
+    },
+    "Ability": {
+      "CommunicateEffectively": "Effectively communicate technical issues to diverse audiences, both in writing and verbally",
+      "ApplyRiskBasedApproach": "Apply a risk-based approach to planning, executing, and reporting on audit engagements and auditing process",
+      "EvaluateAndUpdate": "Evaluate and update and/or revise program materials",
+      "LearnQuickly": "Learn quickly and apply knowledge to new situations",
+      "HandleSensitiveAndConfidentialMatters": "Handle sensitive and confidential matters, situations, and data",
+      "UnderstandAndFollowInstructions": "Understand and follow broad and complex instructions",
+      "InteractPositively": "Interact positively with staff, the Board, the public, and regulatory agencies in order to enhance effectiveness and to promote quality service",
+      "ComprehendTechnicalLanguage": "Comprehend technical language and to confer, analyze and write in an objective, lucid manner",
+      "WorkIndependently": "Work independently and prioritize multiple tasks and adapt to needed changes",
+      "RemainCalmUnderPressure": "Remain calm under high pressure/difficult situations"
+    },
+    "Resources": [
+      {
+        "title": "Information Security Management",
+        "link": "https://informationsecuritymanagement.co.uk/"
+      },
+      {
+        "title": "Check Point - What is Cloud Security?",
+        "link": "https://www.checkpoint.com/cyber-hub/cloud-security/what-is-cloud-security/"
+      },
+      {
+        "title": "British Safety Council - Risk Assessments: What They Are, Why They're Important, and How to Complete Them",
+        "link": "https://www.britsafe.org/training-and-learning/informational-resources/risk-assessments-what-they-are-why-they-re-important-and-how-to-complete-them"
+      },
+      {
+        "title": "Karen C. Wilson - How to Start Creating Systems and Processes for Your Business",
+        "link": "https://www.karencwilson.me/blog/how-to-start-creating-systems-and-processes-for-your-business"
+      },
+      {
+        "title": "CrowdStrike - Cybersecurity 101: Incident Response",
+        "link": "https://www.crowdstrike.com/cybersecurity-101/incident-response/"
+      },
+      {
+        "title": "Coursera - Information Systems Audit",
+        "link": "https://www.coursera.org/learn/information-systems-audit"
+      }
+    ]
+  }
+  

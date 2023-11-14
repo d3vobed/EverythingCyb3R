@@ -1,0 +1,65 @@
+{
+    "Certifications": [
+      {
+        "title": "GIAC Strategic Planning, Policy, and Leadership (GSTRT)",
+        "author": "SANS",
+        "link": "https://www.giac.org/certifications/strategic-planning-policy-leadership-gstrt/"
+      },
+      {
+        "title": "CISSP - Certified Information Systems Security Professional",
+        "author": "isc2",
+        "link": "https://www.isc2.org/certifications/cissp"
+      },
+      {
+        "title": "CGRC – Governance, Risk and Compliance Certification",
+        "author": "isc2",
+        "link": "https://www.isc2.org/Certifications/CGRC"
+      },
+      {
+        "title": "How to integrate GRC best practices into cybersecurity strategies",
+        "author": "travasecurity",
+        "link": "https://travasecurity.com/learn-with-trava/articles/governance-risk-compliance-grc-cybersecurity"
+      },
+      {
+        "title": "GRC Analyst Master Class",
+        "author": "TCM security",
+        "link": "https://academy.tcm-sec.com/p/grc"
+      },
+      {
+        "title": "Governance, Risk, & Compliance (GRC) Training",
+        "author": "trutekacademy",
+        "link": "https://www.trutekacademy.com/home/course/cybersecurity-third-party-risk-management-compliance-tprm-training/45"
+      },
+      {
+        "title": "CMMC 2.1",
+        "author": "grcacademy",
+        "link": "https://grcacademy.io/cmmc/"
+      },
+      {
+        "title": "ISAC CERTIFIED Cybersecurity Governance Professional",
+        "author": "ISAC",
+        "link": "https://www.isacindia.org/isac-certified-cyber-security-governance-professional-nccsgp/"
+      },
+      {
+        "title": "SANS GIAC Information Security Fundamentals (GISF)",
+        "author": "SANS",
+        "link": "https://www.giac.org/certifications/information-security-fundamentals-gisf/"
+      },
+      {
+        "title": "GIAC Security Leadership (GSLC)",
+        "author": "SANS",
+        "link": "https://www.giac.org/certifications/security-leadership-gslc/"
+      },
+      {
+        "title": "Certified Six Sigma Black Belt™ (CSSBB™) Certification Program",
+        "author": "sixsigma",
+        "link": "https://www.sixsigma-institute.org/Certified_Six_Sigma_Black_Belt_CSSBB_Program.php"
+      },
+      {
+        "title": "The GRC Approach to Managing Cybersecurity",
+        "author": "University System of Georgia Courses",
+        "link": "https://www.classcentral.com/course/grc-approach-to-managing-cybersecurity-20793"
+      }
+    ]
+  }
+  
