@@ -1,0 +1,32 @@
+[
+  {
+    "title": "TryHackMe",
+    "author": "TryHackMe",
+    "link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=policy"
+  },
+  {
+    "title": "Lighthouse Labs - Cyber Security",
+    "author": "Lighthouse Labs - Cyber Security",
+    "link": "https://www.lighthouselabs.ca/en/cyber-security"
+  },
+  {
+    "title": "Cyber Defenders - Blue Team CTF Challenges",
+    "author": "Cyber Defenders - Blue Team CTF Challenges",
+    "link": "https://cyberdefenders.org/blueteam-ctf-challenges/"
+  },
+  {
+    "title": "GRC eLearning - Cyber Security",
+    "author": "GRC eLearning - Cyber Security",
+    "link": "https://www.grcelearning.com/category/cyber-security"
+  },
+  {
+    "title": "Practice Labs",
+    "author": "Practice Labs",
+    "link": "https://store.practice-labs.com/"
+  },
+  {
+    "title": "Association of Certified Fraud Examiners - Training Events and Products",
+    "author": "Association of Certified Fraud Examiners - Training Events and Products",
+    "link": "https://www.acfe.com/training-events-and-products/all-events/virtual-events-and-webinars"
+  }
+]
