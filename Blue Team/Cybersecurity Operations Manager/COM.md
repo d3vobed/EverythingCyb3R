@@ -11,11 +11,6 @@ OR USE THE PDF :)
     Develop a strong understanding of computer networks, operating systems, and cybersecurity fundamentals.
     Learn about programming languages, scripting, and automation to enhance technical skills.
 
-    Security Certifications:
-    Acquire foundational certifications:
-    CompTIA Security+.
-    Certified Information Systems Security Professional (CISSP).
-    Certified Information Security Manager (CISM).
 
     Network and Systems Administration:
     Gain experience in network and systems administration to understand the infrastructure you'll be securing.
