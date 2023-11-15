@@ -1,0 +1,57 @@
+{
+    "certifications": [
+      {
+        "title": "Project Management Professional (PMP)",
+        "provider": "PMI",
+        "link": "https://www.pmi.org/certifications/project-management-pmp"
+      },
+      {
+        "title": "Cisco Certified Network Associate (CCNA)",
+        "provider": "Cisco",
+        "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html"
+      },
+      {
+        "title": "Physical Security Certification (PSC)",
+        "provider": "Center for Development of Security Excellence",
+        "link": "https://www.cdse.edu/Certification/About-SP%C4%93D-Certification/Physical-Security-Certification/"
+      },
+      {
+        "title": "Information Technology Infrastructure Library (ITIL)",
+        "provider": "IBM",
+        "link": "https://www.ibm.com/topics/it-infrastructure-library"
+      },
+      {
+        "title": "Certified Protection Professional (CPP)",
+        "provider": "ASIS International",
+        "link": "https://www.asisonline.org/certification/certified-protection-professional-cpp/"
+      },
+      {
+        "title": "Certified in Cybersecurity (CC)",
+        "provider": "ISC2",
+        "link": "https://www.isc2.org/certifications/cc"
+      },
+      {
+        "title": "Security5 Certification",
+        "provider": "PracticeTests",
+        "link": "https://www.practicetests.info/infowiki/index.php?title=Security5-Certification"
+      },
+      {
+        "title": "Blue Team Level 2 Advanced Security Operations Certification",
+        "provider": "SecurityBlue",
+        "link": "https://www.securityblue.team/btl2"
+      },
+      {
+        "Certification":"Certified Information Security Manager (CISM)",
+        "Authors":[
+           "ISACA"
+        ],
+        "Link":"https://www.isaca.org/certification/cism-certified-information-security-manager"
+     },
+      {
+        "title": "Cybersecurity Certifications",
+        "provider": "National Initiative for Cybersecurity Careers and Studies (NICCS)",
+        "link": "https://niccs.cisa.gov/education-training/cybersecurity-certifications"
+      }
+    ]
+  }
+  

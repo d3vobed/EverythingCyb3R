@@ -1,0 +1,179 @@
+{
+    "Cybersecurity Knowledge": [
+      {
+        "title": "Introduction to Cyber Security",
+        "source": "Great Learning",
+        "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security"
+      },
+      {
+        "title": "Introduction To Cyber Security | Cyber Security Training For Beginners",
+        "source": "Simplilearn",
+        "link": "https://www.youtube.com/watch?v=njPY7pQTRWg"
+      },
+      {
+        "title": "Complete Introduction to Cybersecurity 2023",
+        "source": "Grant Collins (Udemy)",
+        "link": "https://www.udemy.com/course/complete-introduction-to-cybersecurity/"
+      }
+    ],
+    "Adversary Tactics and Techniques": [
+      {
+        "title": "What is MITRE ATT&CK? MITRE ATT&CK Framework | ATT&CK Tactics and Techniques Understanding ATT&CK",
+        "source": "INFOSEC TRAIN",
+        "link": "https://www.youtube.com/watch?v=IsPArM8xKAM"
+      },
+      {
+        "title": "ICS ATT&CK Framework: Adversary Tactics and Techniques",
+        "source": "S$ Events",
+        "link": "https://www.youtube.com/watch?v=QU1ZR0c5x6A"
+      },
+      {
+        "title": "Advanced Adversary Tactics",
+        "source": "infosecinstitute",
+        "link": "https://www.infosecinstitute.com/skills/learning-paths/advanced-adversary-tactics/"
+      }
+    ],
+    "Penetration Testing": [
+      {
+        "title": "Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)",
+        "source": "FreeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=3Kq1MIfTWCE"
+      },
+      {
+        "title": "Ethical Hacking in 15 Hours - 2023 Edition - Learn to Hack! (Part 1)",
+        "source": "The Cyber Mentor",
+        "link": "https://www.youtube.com/watch?v=3FNYvj2U0HM&pp=ygUicGVuZXRyYXRpb24gdGVzdGluZyBjeWJlciBzZWN1cml0eQ%3D%3D"
+      },
+      {
+        "title": "Ethical Hacking 101: Web App Penetration Testing - a full course for beginners",
+        "source": "FreeCodeCamp",
+        "link": "https://www.youtube.com/watch?v=2_lswM1S264"
+      },
+      {
+        "title": "Penetration Testing Tutorial | Penetration Testing Tools | Cyber Security Training",
+        "source": "Edureka",
+        "link": "https://www.youtube.com/watch?v=CktYFft7K8Q"
+      },
+      {
+        "title": "Complete Pentester Course",
+        "source": "Udemy",
+        "link": "https://www.udemy.com/course/complete-pentester-course/"
+      },
+      {
+        "title": "Jr Penetration Tester",
+        "source": "TryHackMe",
+        "link": "https://tryhackme.com/paths"
+      },
+      {
+        "title": "HackTheBox Path for Pentesting",
+        "source": "HackTheBox",
+        "link": "https://academy.hackthebox.com/catalogue/paths"
+      },
+      {
+        "title": "INE eCPPTv2 courses",
+        "source": "INE",
+        "link": "https://ine.com/learning/paths/penetration-testing-professional"
+      }
+    ],
+    "MITRE ATT&CK Framework": [
+      {
+        "title": "MITRE ATT&CK Framework for Beginners",
+        "source": "Cyber Gray Matter",
+        "link": "https://www.youtube.com/watch?v=GYyLnff2XRo"
+      },
+      {
+        "title": "MITRE ATT&CK Live Framework",
+        "source": "Vipul Dahbi",
+        "link": "https://www.udemy.com/course/mitre-attck-live-framework/"
+      },
+      {
+        "title": "MITRE TRAM MAPPING THREAT REPORTS TO ATTACKS",
+        "source": "Vipul Dahbi",
+        "link": "https://www.udemy.com/course/mitre-tram-mapping-threat-reports-to-attck/"
+      }
+    ],
+    "Red Team Techniques": [
+      {
+        "title": "SANS Cyber Security Webinars",
+        "source": "SANS",
+        "link": "https://www.sans.org/webcasts/?focus-area=penetration-testing-red-teaming"
+      },
+      {
+        "title": "Physical Red Teaming",
+        "source": "Jeremiah Talamantes",
+        "link": "https://www.udemy.com/course/learn-physical-red-team-operations/"
+      },
+      {
+        "title": "Red Team Ethical Hacking - Intermediate",
+        "source": "Chris Sikes",
+        "link": "https://www.udemy.com/course/red-team-ethical-hacking-intermediate/"
+      },
+      {
+        "title": "Red Team Playlist",
+        "source": "Hackersploit",
+        "link": "https://www.youtube.com/playlist?list=PLBf0hzazHTGMjSlPmJ73Cydh9vCqxukCu"
+      }
+    ],
+    "Threat Intelligence Analysis": [
+      {
+        "title": "Advanced Cyber Security - Threats and Governance",
+        "source": "Great Learning",
+        "link": "https://www.mygreatlearning.com/academy/learn-for-free/courses/advanced-cyber-security-threats-and-governance"
+      },
+      {
+        "title": "Adversary Threat Emulation",
+        "source": "CyberLegion",
+        "link": "https://www.crowdstrike.com/services/prepare/adversary-emulation-exercise/"
+      }
+    ],
+    "Programming and Scripting": [
+      {
+        "title": "C++",
+        "source": "Codecademy",
+        "link": "https://www.codecademy.com/learn/learn-c-plus-plus"
+      },
+      {
+        "title": "PowerShell",
+        "source": "Codecademy",
+        "link": "https://www.codecademy.com/learn/learn-powershell"
+      },
+      {
+        "title": "Ruby",
+        "source": "Codecademy",
+        "link": "https://www.codecademy.com/learn/learn-ruby"
+      },
+      {
+        "title": "Python",
+        "source": "Codecademy",
+        "link": "https://try.codecademy.com/learn-python-3?g_network=g&g_productchannel=&g_adid=624951457624&g_locinterest=&g_keyword=codecademy%20python&g_acctid=243-039-7011&g_adtype=&g_keywordid=kwd-295813001496&g_ifcreative=&g_campaign=account&g_locphysical=1010283&g_adgroupid=128133970308&g_productid=&g_source={sourceid}&g_merchantid=&g_placement=&g_partition=&g_campaignid=1726903838&g_ifproduct=&utm_id=t_kwd-295813001496:ag_128133970308:cp_1726903838:n_g:d_c&utm_source=google&utm_medium=paid-search&utm_term=codecademy%20python&utm_campaign=INTL_Brand_Exact&utm_content=624951457624&g_adtype=search&g_acctid=243-039-7011&gclid=Cj0KCQjwho-lBhC_ARIsAMpgModd6o1GFYWeuabKjpClXGlFT4jtGe9t92xKr05unYsSFuUjxi-deLMaAp5YEALw_wcB"
+      },
+      {
+        "title": "JavaScript",
+        "source": "Codecademy",
+        "link": "https://www.codecademy.com/learn/introduction-to-javascript"
+      },
+      {
+        "title": "Bash",
+        "source": "Codecademy",
+        "link": "https://www.codecademy.com/learn/bash-scripting"
+      }
+    ],
+    "Communication and Reporting": [
+      {
+        "title": "How to write a cybersecurity report",
+        "source": "Michael McDonnell",
+        "link": "https://www.youtube.com/playlist?list=PLYx2E3TyAceFI1mWqb1nxEQryrK9XEcf9"
+      },
+      {
+        "title": "A Practical Guide to Risk-Based Cybersecurity Reporting",
+        "source": "BitSight",
+        "link": "https://www.bitsight.com/resources/a-practical-guide-risk-based-cybersecurity-reporting"
+      },
+      {
+        "title": "Effective Communication in Cybersecurity Law: Best Practices for Organizations",
+        "source": "EC-Council",
+        "link": "https://www.eccu.edu/blog/technology/how-to-effectively-communicate-cybersecurity-best-practices/"
+      }
+    ]
+  }
+  
