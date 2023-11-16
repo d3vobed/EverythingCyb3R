@@ -1,8 +1,9 @@
 # ROADMAP TO MASTERING CYBERSECURITY OPERATIONS MANAGEMENT
 
+![CybersecurityOperationsManager](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/21129d92-2227-404d-a473-841bc9770965)
 
 OR USE THE PDF :)
-
+[CybersecurityOperationsManager.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13385116/CybersecurityOperationsManager.pdf)
 
 
 # Our roadmap to becoming a cybersecurity operations manager
