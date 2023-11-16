@@ -1,0 +1,41 @@
+{
+    "certifications": [
+      {
+        "title": "Certified Security Project Manager (CSPM) Certification",
+        "organization": "Security Industry",
+        "link": "https://www.securityindustry.org/professional-development/cspm-certification/"
+      },
+      {
+        "title": "Applying Project Management to Cybersecurity",
+        "organization": "CompTIA",
+        "link": "https://www.comptia.org/certifications/project"
+      },
+      {
+        "title": "Certified in Risk and Information Systems Control® (CRISC®)",
+        "organization": "ISACA",
+        "link": "https://www.isaca.org/credentialing/crisc"
+      },
+      {
+        "title": "Project Management in IT Security Certification Preparation (PMITS)",
+        "organization": "National Initiative for Cybersecurity Careers and Studies (NICCS)",
+        "link": "https://niccs.cisa.gov/education-training/catalog/institute-information-technology/project-management-it-security"
+      },
+      {
+        "title": "Certified Protection Professional (CPP)",
+        "organization": "ASIS",
+        "link": "https://specifiermvc2.azurewebsites.net/Resource/ResourcesCertsProf"
+      },
+      {
+        "title": "GIAC Certified Project Manager (GCPM)",
+        "organization": "SANS",
+        "link": "https://www.giac.org/certifications/certified-project-manager-gcpm/"
+      }
+    ],
+    "additional_resources": [
+      {
+        "title": "Full Certifications by SANS (Management Focus)",
+        "link": "https://www.giac.org/focus-areas/management/"
+      }
+    ]
+  }
+  

@@ -1,0 +1,113 @@
+{
+    "podcasts": [
+      {
+        "title": "Darknet Diaries",
+        "link": "https://darknetdiaries.com/"
+      },
+      {
+        "title": "Risky Biz",
+        "link": "https://risky.biz/"
+      },
+      {
+        "title": "Security Now",
+        "link": "https://www.grc.com/securitynow.htm"
+      },
+      {
+        "title": "Hacking Humans",
+        "link": "https://thecyberwire.com/podcasts/hacking-humans"
+      },
+      {
+        "title": "Unsupervised Learning",
+        "link": "https://danielmiessler.com/podcast/"
+      },
+      {
+        "title": "The Social Engineering Podcast",
+        "link": "https://www.social-engineer.org/category/podcast/"
+      },
+      {
+        "title": "7 Minute Security",
+        "link": "https://7ms.us/"
+      },
+      {
+        "title": "Smashing Security",
+        "link": "https://www.smashingsecurity.com/"
+      },
+      {
+        "title": "Down the Security Rabbithole",
+        "link": "https://rabbithole.security.com/"
+      },
+      {
+        "title": "Complete Privacy and Security Podcast",
+        "link": "https://inteltechniques.com/podcast.html"
+      },
+      {
+        "title": "Defensive Security",
+        "link": "https://defensivesecurity.org/"
+      },
+      {
+        "title": "Troy Hunt’s Podcast",
+        "link": "https://www.troyhunt.com/tag/security/"
+      },
+      {
+        "title": "Cyber Security Cafe",
+        "link": "https://beverlyroche.com/"
+      },
+      {
+        "title": "Task Force 7 Podcast",
+        "link": "https://www.taskforce7radio.com/"
+      },
+      {
+        "title": "Defending Digital Podcast",
+        "link": "https://defendingdigital.com/"
+      },
+      {
+        "title": "The Information Security Forum",
+        "link": "https://www.securityforum.org/"
+      },
+      {
+        "title": "The Swansea Cyber Law and Security Podcast",
+        "link": "https://www.swansea.ac.uk/law/research/podcasts/"
+      },
+      {
+        "title": "The Application Security Podcast",
+        "link": "https://www.securityjourney.com/resources/application-security-podcast/"
+      }
+    ],
+    "books": [
+      {
+        "title": "Hacking: The Art of Exploitation",
+        "author": "Jon Erickson",
+        "rating": "4.2/5.0",
+        "buy_link": "https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441"
+      },
+      {
+        "title": "The Cybersecurity Manager's Guide",
+        "author": "Todd Barnum",
+        "buy_link": "https://www.oreilly.com/library/view/the-cybersecurity-managers/9781492076209/"
+      },
+      {
+        "title": "Cybersecurity Operations Handbook",
+        "author": "John W. Rittinghouse and William M. Hancock",
+        "buy_link": "https://www.sciencedirect.com/book/9781555583064/cybersecurity-operations-handbook"
+      },
+      {
+        "title": "Certified Cyber Security Operations Manager",
+        "buy_link": "https://www.amazon.com/Certified-Cyber-Security-Operations-Manager/dp/1734064056"
+      },
+      {
+        "title": "A.G.I.L.E. Thinking Demystified: Mindset Over Mechanics",
+        "buy_link": "https://www.businessexpertpress.com/books/a-g-i-l-e-thinking-demystified-mindset-over-mechanics/"
+      },
+      {
+        "title": "Introduction to Cyber Security",
+        "author": "Gregory J. Skulmoski",
+        "buy_link": "https://www.amazon.com/Gregory-J-Skulmoski-ebook/dp/B0B2HF4C1N/ref=sr_1_1?keywords=9781637422892&sr=8-1"
+      },
+      {
+        "title": "Adversary Threat Emulation",
+        "author": "Yakubu Olawale",
+        "buy_link": "https://www.amazon.com/Yakubu-Olawale-ebook/dp/B0B2H2NNS1/ref=sr_1_1?keywords=9781637422991&sr=8-1"
+      }
+    ]
+  }
+  
