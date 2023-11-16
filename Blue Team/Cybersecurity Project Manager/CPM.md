@@ -1,8 +1,11 @@
 # ROADMAP TO MASTERING CYBERSECURITY PROJECT MANAGEMENT
 
+![Cybersecurity Project Manager ](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/de03bcf1-834c-4b8b-bd67-0bde9cc77966)
+
 
 OR USE THE PDF :)
 
+[Cybersecurity Project Manager .pdf](https://github.com/d3vobed/EverythingCyb3R/files/13385096/Cybersecurity.Project.Manager.pdf)
 
 
 # Our roadmap to becoming a cybersecurity project manager
