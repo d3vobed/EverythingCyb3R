@@ -1,7 +1,10 @@
 # ROADMAP TO MASTERING CYBERSECURITY CONSULTING
 
+![Cybersecurity Governance Risk   Compliance Specialist](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/8326616b-3ca5-406c-82aa-71683052b0b1)
+
 
 OR USE THE PDF :)
+[Cybersecurity Governance Risk & Compliance Specialist.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13385121/Cybersecurity.Governance.Risk.Compliance.Specialist.pdf)
 
 
 
