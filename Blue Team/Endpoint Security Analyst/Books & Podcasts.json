@@ -1,0 +1,88 @@
+[
+    {
+      "site": "https://podcasts.apple.com/us/podcast/the-security-analysis-podcast/id1683347145",
+      "title": "The Security Analysis Podcast",
+      "author": "The Security Analysis Podcast"
+    },
+    {
+      "site": "https://www.grc.com/securitynow.htm",
+      "title": "Security Now",
+      "author": "Security Now"
+    },
+    {
+      "site": "https://isc.sans.edu/podcast.html",
+      "title": "isc.sans.edu podcast",
+      "author": "isc.sans.edu"
+    },
+    {
+      "site": "https://threatpost.com/category/podcasts/",
+      "title": "podcasts",
+      "author": "threatpost.com"
+    },
+    {
+      "site": "https://www.brakeingsecurity.com/",
+      "title": "brakeingsecurity podcasts",
+      "author": "brakeingsecurity"
+    },
+    {
+      "site": "https://risky.biz/",
+      "title": "risky.biz podcasts",
+      "author": "risky.biz"
+    },
+    {
+      "site": "https://datadrivensecurity.info/podcast/",
+      "title": "datadrivensecurity.info podcast/",
+      "author": "datadrivensecurity.info"
+    },
+    {
+      "site": "https://www.tripwire.com/state-of-security",
+      "title": "state-of-security podcasts",
+      "author": "tripwire"
+    },
+    {
+      "site": "https://podcasts.apple.com/us/podcast/defensive-security-podcast-malware-hacking-cyber-security/id585914973",
+      "title": "Defensive Security Podcast",
+      "author": "Defensive Security Podcast"
+    },
+    {
+      "site": "https://podcasts.apple.com/us/podcast/security-weekly-podcast-network-audio/id91472687?mt=2",
+      "title": "Security Weekly Podcast Network Audio",
+      "author": "Security Weekly Podcast Network Audio"
+    },
+    {
+      "site": "https://owasp.org/www-project-podcast/",
+      "title": "www-project-podcast",
+      "author": "www-project-podcast"
+    },
+    {
+      "site": "https://www.amazon.com/Endpoint-Security-Paradox-Realising-Implementation/dp/1326796836/ref=as_li_ss_tl?_encoding=UTF8&qid=1600361292&sr=8-2&linkCode=sl1&tag=solutionsre04-20&linkId=85d99a2a54c36591d6384430568c7c94&language=en_US",
+      "title": "Endpoint Security Paradox: Realising Implementation",
+      "author": "Endpoint Security Paradox: Realising Implementation"
+    },
+    {
+      "site": "https://www.amazon.com/Defensive-Security-Handbook-Practices-Infrastructure/dp/1491960388/ref=as_li_ss_tl?dchild=1&keywords=endpoint+security&qid=1600361292&sr=8-3&linkCode=sl1&tag=solutionsre04-20&linkId=071dd7ae353486d45a745b25c18591a6&language=en_US",
+      "title": "Defensive Security Handbook: Best Practices for Securing Infrastructure",
+      "author": "Defensive Security Handbook: Best Practices for Securing Infrastructure"
+    },
+    {
+      "site": "https://www.amazon.com/Digital-Privacy-Security-Using-Windows/dp/1484227980/ref=as_li_ss_tl?dchild=1&keywords=endpoint+security&qid=1600361292&sr=8-14&linkCode=sl1&tag=solutionsre04-20&linkId=c55e7d506928afc9c3a7f1d5e5083686&language=en_US",
+      "title": "Digital Privacy and Security Using Windows: A Practical Guide",
+      "author": "Digital Privacy and Security Using Windows: A Practical Guide"
+    },
+    {
+      "site": "https://www.amazon.com/Preventing-Ransomware-Understand-remediate-ransomware/dp/1788620607/ref=as_li_ss_tl?_encoding=UTF8&qid=1600361422&sr=8-4&linkCode=sl1&tag=solutionsre04-20&linkId=3fe167d0fee93cf15a8b89d057c3ab31&language=en_US",
+      "title": "Preventing Ransomware: Understand, mitigate, and remediate ransomware attacks",
+      "author": "Preventing Ransomware: Understand, mitigate, and remediate ransomware attacks"
+    },
+    {
+      "site": "https://www.amazon.com/Ransomware-Revealed-Beginners-Protecting-Recovering/dp/1484242548/ref=as_li_ss_tl?dchild=1&keywords=ransomware&sr=8-1&linkId=acfb5a00f1e1837ff61f769934aa9352&language=en_US",
+      "title": "Ransomware Revealed: A Beginner's Guide to Protecting and Recovering from Ransomware Attacks",
+      "author": "Ransomware Revealed: A Beginner's Guide to Protecting and Recovering from Ransomware Attacks"
+    },
+    {
+      "site": "https://www.amazon.com/Preventing-Ransomware-Understand-remediate-ransomware/dp/1788620607/ref=as_li_ss_tl?_encoding=UTF8&sr=8-4&linkId=3fe167d0fee93cf15a8b89d057c3ab31&language=en_US",
+      "title": "Preventing Ransomware: Understand, mitigate, and remediate ransomware attacks",
+      "author": "Preventing Ransomware: Understand, mitigate, and remediate ransomware attacks"
+    }
+  ]
+  
