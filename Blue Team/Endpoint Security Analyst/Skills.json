@@ -1,0 +1,49 @@
+{
+    "endpoint_security_analyst_skills": [
+      {
+        "skill": "Foundational Networking",
+        "sites": ["https://www.coursera.org/learn/computer-networking", "https://www.udemy.com/course/networking-fundamentals/"]
+      },
+      {
+        "skill": "Operating Systems Knowledge",
+        "sites": ["https://www.udacity.com/course/introduction-to-operating-systems--ud923"]
+      },
+      {
+        "skill": "Security Protocols and Encryption",
+        "sites": ["https://www.tutorialspoint.com/cryptography/index.htm"]
+      },
+      {
+        "skill": "Fundamental Security Concepts",
+        "sites": ["https://www.sans.org/cyber-security-courses/security-essentials-network-endpoint-cloud/"]
+      },
+      {
+        "skill": "Endpoint Security Technologies",
+        "sites": ["https://www.opswat.com/partners/certification"]
+      },
+      {
+        "skill": "Incident Response",
+        "sites": ["https://www.sans.org/cyber-security-courses/incident-handlers-developers"]
+      },
+      {
+        "skill": "Network Security",
+        "sites": ["https://www.coursera.org/learn/network-security", "https://www.udemy.com/course/learn-computer-networking/"]
+      },
+      {
+        "skill": "Scripting and Automation",
+        "sites": ["https://www.codecademy.com/learn/learn-python"]
+      },
+      {
+        "skill": "Advanced Endpoint Security",
+        "sites": ["https://codered.eccouncil.org/learning-path/Endpoint-Security-Professional"]
+      },
+      {
+        "skill": "Security Certifications",
+        "sites": ["https://www.comptia.org/certifications/security", "https://www.isc2.org/certifications/cissp"]
+      },
+      {
+        "skill": "Hands-On Practice",
+        "sites": ["https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=Endpoint+Security+Analyst"]
+      }
+    ]
+  }
+  

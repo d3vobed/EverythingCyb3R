@@ -1,0 +1,85 @@
+{
+    "labs_and_training": [
+      {
+        "name": "Penetration Testing Lab",
+        "url": "https://www.virtualhackinglabs.com/labs/penetration-testing-lab/"
+      },
+      {
+        "name": "Virtual Beginner/Advanced Lab",
+        "url": "https://www.virtualhackinglabs.com/beginner-advanced-lab/"
+      },
+      {
+        "name": "Ethical Hacking",
+        "url": "https://www.netdevgroup.com/online/courses/cybersecurity/ndg-ethical-hacking-v2"
+      },
+      {
+        "name": "Network Security Fundamentals",
+        "url": "https://www.netdevgroup.com/online/courses/cybersecurity/network-security-fundamentals"
+      },
+      {
+        "name": "Security Operations Fundamentals",
+        "url": "https://www.netdevgroup.com/online/courses/cybersecurity/security-operations-fundamentals"
+      },
+      {
+        "name": "Cloud Security Fundamentals",
+        "url": "https://www.netdevgroup.com/online/courses/cybersecurity/cloud-security-fundamentals"
+      },
+      {
+        "name": "CyberOps Associate",
+        "url": "https://www.netdevgroup.com/online/courses/cybersecurity/cisco-cyberops-associate"
+      }, 
+      {
+        "name": "SecureNinja",
+        "url": "https://secureninja.com"
+      },
+      {
+        "name": "Global Information Assurance Certification",
+        "url": "https://www.giac.org/"
+      },
+      {
+        "name": "FedVTE (Federal Virtual Training Environment)",
+        "url": "https://fedvte.usalearning.gov/"
+      },
+      {
+        "name": "TryHackMe - Endpoint Security Analyst",
+        "url": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=Endpoint+Security+Analyst"
+      },
+      {
+          "Title": "HBH Ctfs",
+          "Link": "https://hbh.sh/home"
+      },
+      {
+          "Title": "Wargames by Overthewire",
+          "Link": "https://overthewire.org/wargames/"
+      },
+      {
+          "Title": "SecurityShepherd by OWASP",
+          "Link": "https://github.com/OWASP/SecurityShepherd"
+      },
+      {
+          "Title": "Game of Hacks",
+          "Link": "https://www.gameofhacks.com/"
+      },
+      {
+          "Title": "Root me Vulnerable machines and ctfs by Rootme",
+          "Link": "https://www.root-me.org/?lang=en"
+      },
+      {
+          "Title": "CTFs for learning cybersecurity by CTFlearn",
+          "Link": "https://ctflearn.com/"
+      },
+      {
+          "Title": "PicoGym by Picoctf",
+          "Link": "https://picoctf.org/index.html#picogym"
+      },
+      {
+          "Title": "2023 SANS Holiday Hack Challenge & KringleCon by SANS",
+          "Link": "https://www.sans.org/mlp/holiday-hack-challenge-2023/"
+      },
+      {
+          "Title": "Hacker101 by Hacker1",
+          "Link": "https://www.hacker101.com/"
+      }
+    ]
+  }
+  

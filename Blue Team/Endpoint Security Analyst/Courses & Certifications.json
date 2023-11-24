@@ -1,0 +1,57 @@
+{
+    "CoursesAndCertifications": [
+      {
+        "title": "OPSWAT Certification",
+        "site": "https://www.opswat.com/partners/certification"
+      },
+      {
+        "title": "The Complete Cyber Security Course - Endpoint Protection",
+        "site": "https://www.udemy.com/course/the-complete-cyber-security-course-end-point-protection/"
+      },
+      {
+        "title": "Qualys EDR Foundation",
+        "site": "https://www.qualys.com/training/course/edr-foundation/"
+      },
+      {
+        "title": "SANS Security Essentials Network, Endpoint, Cloud",
+        "site": "https://www.sans.org/cyber-security-courses/security-essentials-network-endpoint-cloud/"
+      },
+      {
+        "title": "Certified SOC Analyst (CSA)",
+        "site": "https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/"
+      },
+      {
+        "title": "Certified Network Security Course",
+        "site": "https://www.eccouncil.org/train-certify/certified-network-security-course/"
+      },
+      {
+        "title": "Endpoint Security Professional Learning Path",
+        "site": "https://codered.eccouncil.org/learning-path/Endpoint-Security-Professional"
+      },
+      {
+        "title": "Microsoft Certified: Security Operations Analyst Associate",
+        "site": "https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/"
+      },
+      {
+        "title": "CompTIA Network+ Certification",
+        "site": "https://www.comptia.org/certifications/network"
+      },
+      {
+        "title": "CompTIA Cybersecurity Analyst (CySA+)",
+        "site": "https://www.comptia.org/certifications/cybersecurity-analyst"
+      },
+      {
+        "title": "CompTIA Advanced Security Practitioner (CASP+)",
+        "site": "https://www.comptia.org/certifications/comptia-advanced-security-practitioner"
+      },
+      {
+        "title": "GIAC Information Security Fundamentals (GISF)",
+        "site": "https://www.giac.org/certifications/information-security-fundamentals-gisf/"
+      },
+      {
+        "title": "ISC2 Certified Information Systems Security Professional (CISSP)",
+        "site": "https://www.isc2.org/certifications/cissp"
+      }
+    ]
+  }
+  
