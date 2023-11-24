@@ -1,9 +1,11 @@
 # ROADMAP TO MASTERING ENDPOINT SECURITY ANALSYT
+![Endpoint Security Analyst](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/a0001df8-4e15-40d9-afb8-92f354ec5014)
 
 
 OR USE THE PDF ;)
 
 
+[Endpoint Security Analyst.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13457971/Endpoint.Security.Analyst.pdf)
 
 # Our roadmap to becoming a Endpoint Security Analyst
 
