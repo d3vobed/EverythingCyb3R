@@ -1,0 +1,65 @@
+{
+    "sites": [
+      {
+        "url": "https://www.amazon.com/Industrial-Cybersecurity-Efficiently-critical-infrastructure/dp/1788395158",
+        "author": "Author Name"
+      },
+      {
+        "url": "https://github.com/PacktPublishing/Industrial-Cybersecurity-Second-Edition",
+        "author": "Packt Publishing"
+      },
+      {
+        "url": "https://books.google.com.ng/books/about/Practical_Industrial_Cybersecurity.html?id=EYm2zgEACAAJ&redir_esc=y",
+        "author": "Author Name"
+      },
+      {
+        "url": "https://www.amazon.fr/Cybersecurity-Industrial-Control-Systems-English-ebook/dp/B0071ART60",
+        "author": "Author Name"
+      },
+      {
+        "url": "https://www.pdfdrive.com/guide-to-industrial-control-systems-ics-security-cyber-security-e7011845.html",
+        "author": "Author Name"
+      },
+      {
+        "url": "https://shop.elsevier.com/books/applied-cyber-security-and-the-smart-grid/knapp/978-1-59749-998-9",
+        "author": "Knapp"
+      },
+      {
+        "url": "https://shop.elsevier.com/books/industrial-network-security/knapp/978-0-12-420114-9",
+        "author": "Knapp"
+      },
+      {
+        "url": "https://www.amazon.com/Hacking-Exposed-Industrial-Control-Systems/dp/1259589714/",
+        "author": "Author Name"
+      },
+      {
+        "url": "https://www.amazon.com/Pentesting-Industrial-Control-Systems-compromising/dp/1800202385",
+        "author": "Author Name"
+      },
+      {
+        "url": "https://www.amazon.com/Industrial-Cybersecurity-Efficiently-cybersecurity-environment/dp/1800202091",
+        "author": "Author Name"
+      },
+      {
+        "url": "https://iclass.eccouncil.org/product/ics-scada-textbook/",
+        "author": "Author Name"
+      },
+      {
+        "url": "https://waterfall-security.com/ot-insights-center/",
+        "author": "Waterfall Security"
+      },
+      {
+        "url": "https://isc.sans.edu/podcast.html",
+        "author": "SANS Internet Storm Center"
+      },
+      {
+        "url": "https://www.infosecinstitute.com/podcast/",
+        "author": "Infosec Institute"
+      },
+      {
+        "url": "https://podcasts.apple.com/us/podcast/beerisac-ot-ics-security-podcast-playlist/id1459741251",
+        "author": "BeerISAC"
+      }
+    ]
+  }
+  

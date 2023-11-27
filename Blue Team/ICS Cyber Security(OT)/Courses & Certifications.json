@@ -1,0 +1,20 @@
+{
+    "resources": [
+      {"url": "https://www.eccouncil.org/train-certify/ics-scada-cybersecurity/", "author": "EC-Council"},
+      {"url": "https://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity", "author": "Robert M. Lee"},
+      {"url": "https://www.giac.org/focus-areas/industrial-control-systems/", "author": "Global Information Assurance Certification (GIAC)"},
+      {"url": "https://www.cisa.gov/ics-training-available-through-cisa", "author": "Cybersecurity and Infrastructure Security Agency (CISA)"},
+      {"url": "https://www.sans.org/cyber-security-courses/ics-scada-cyber-security-essentials/", "author": "SANS Institute"},
+      {"url": "https://www.isc2.org/certifications/sscp", "author": "International Information System Security Certification Consortium (ISC)²"},
+      {"url": "https://ics-cybersecurity.academy/our-trainings/custom-training/", "author": "ICS Cybersecurity Academy"},
+      {"url": "https://www.isc2.org/certifications/issap", "author": "International Information System Security Certification Consortium (ISC)²"},
+      {"url": "https://instrumentationtools.com/free-industrial-control-system-ics-cyber-security-training-course/", "author": "Instrumentation Tools"},
+      {"url": "https://www.isc2.org/certifications/cissp", "author": "International Information System Security Certification Consortium (ISC)²"},
+      {"url": "https://www.isaca.org/credentialing/cism", "author": "ISACA"},
+      {"url": "https://www.offsec.com/courses/pen-300/", "author": "Offensive Security"},
+      {"url": "https://comptia.org/certifications/comptia-advanced-security-practitioner", "author": "CompTIA"},
+      {"url": "https://www.comptia.org/certifications/cybersecurity-analyst", "author": "CompTIA"},
+      {"url": "https://www.comptia.org/certifications/security", "author": "CompTIA"}
+    ]
+  }
+  

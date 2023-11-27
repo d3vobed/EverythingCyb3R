@@ -1,0 +1,97 @@
+{
+    "resources": {
+      "scenarios": [
+        {
+          "name": "Malware/Forensics",
+          "essentialSkills": ["Malware analysis", "Forensic analysis on Windows systems", "Email security"],
+          "links": [
+            {"name": "Malware Traffic Analysis", "url": "https://www.malware-traffic-analysis.net/", "author": "Brad Duncan"},
+            {"name": "Windows Forensic Analysis", "url": "https://www.amazon.com/Windows-Forensic-Analysis-DVD-Toolkit/dp/0321268172", "author": "Harlan Carvey"}
+          ]
+        },
+        {
+          "name": "IoT/Web Vulnerability Forensics",
+          "essentialSkills": ["IoT security", "Web vulnerability analysis", "Wireless LAN security"],
+          "links": [
+            {"name": "OWASP Internet of Things Project", "url": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project", "author": "OWASP"},
+            {"name": "Web Application Hacker's Handbook", "url": "https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470", "author": "Dafydd Stuttard, Marcus Pinto"}
+          ]
+        },
+        {
+          "name": "Bypass Airgap/Network/Cryptosystem",
+          "essentialSkills": ["Airgap bypass techniques", "Network security", "Cryptosystem knowledge"],
+          "links": [
+            {"name": "Industrial Wireless Security and Network Management", "url": "https://www.isa.org/store/industrial-wireless-security-and-network-management/252577", "author": "Daniel E. Capano"},
+            {"name": "Applied Cryptography", "url": "https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/0471117099", "author": "Bruce Schneier"}
+          ]
+        },
+        {
+          "name": "Bypass Airgap/HMI",
+          "essentialSkills": ["HMI security", "USB security", "Understanding mouse and keyboard vulnerabilities"],
+          "links": [
+            {"name": "HMI Security Best Practices", "url": "https://www.sans.org/reading-room/whitepapers/ics/hmi-security-practices-37792", "author": "SANS Institute"},
+            {"name": "USB Hacks and Forensic Analysis", "url": "https://www.cyberpratibha.com/usb-hacks-forensic-analysis/", "author": "Cyber Pratibha"}
+          ]
+        },
+        {
+          "name": "ICS Vulnerability in PLC",
+          "essentialSkills": ["PLC security", "Exploiting 0-day vulnerabilities"],
+          "links": [
+            {"name": "Exploiting PLCs", "url": "https://www.blackhat.com/us-18/briefings/schedule/index.html#exploiting-plcs-10120", "author": "Paul Coggin"},
+            {"name": "Zero-Day Exploits: Impact and Mitigation", "url": "https://www.amazon.com/Zero-Day-Exploits-Mitigation-Understanding-Preventing/dp/1597491375", "author": "Rob Shein"}
+          ]
+        },
+        {
+          "name": "ICS Infrastructure/Real-World",
+          "essentialSkills": ["ICS infrastructure knowledge", "Real-world simulation experience"],
+          "links": [
+            {"name": "Cyber Range Labs", "url": "https://cyberrange-labs.com/", "author": "Cyber Range Labs"},
+            {"name": "ICS Village", "url": "https://www.icsvillage.com/", "author": "ICS Village"}
+          ]
+        }
+      ],
+      "challengeCategories": [
+        {
+          "name": "Bypass Airgap",
+          "essentialSkills": ["Industrial WiFi hacking", "Bluetooth hacking", "RF (Radio Frequency) hacking", "USB-based Microcontroller exploitation"],
+          "links": [
+            {"name": "Industrial Control Systems (ICS) Security", "url": "https://www.sans.org/cyber-security-courses/industrial-control-systems", "author": "SANS Institute"},
+            {"name": "Radio Frequency Hacking", "url": "https://www.amazon.com/Radio-Frequency-Hacking-Software-Defined-Everything/dp/1983295842", "author": "Alan Bensky"}
+          ]
+        },
+        {
+          "name": "ICS Protocol",
+          "essentialSkills": ["Understanding ICS protocols", "Incident response for SOC"],
+          "links": [
+            {"name": "Industrial Network Security: Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems", "url": "https://www.amazon.com/Industrial-Network-Security-Infrastructure-Understand-ebook/dp/B0787HQZVB", "author": "Eric D. Knapp, Joel Langill"},
+            {"name": "Modbus Protocol Guide", "url": "https://www.scribd.com/doc/14097802/Modbus-Protocol-Guide", "author": "Schneider Electric"}
+          ]
+        },
+        {
+          "name": "PLC & HMI",
+          "essentialSkills": ["Exploiting well-known vulnerabilities", "Password cracking", "Handling 0-day vulnerabilities"],
+          "links": [
+            {"name": "Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions", "url": "https://www.amazon.com/Hacking-Exposed-Industrial-Control-Systems/dp/1259589714/", "author": "Clint Bodungen, Bryan Singer, Aaron Shbeeb"},
+            {"name": "Password Cracking Techniques & Algorithms", "url": "https://www.elcomsoft.com/help/en/archpr/password_cracking_techniques.html", "author": "ElcomSoft"}
+          ]
+        },
+        {
+          "name": "Forensics",
+          "essentialSkills": ["Industrial network capture forensics", "Document forensics"],
+          "links": [
+            {"name": "Network Forensics: Tracking Hackers through Cyberspace", "url": "https://www.amazon.com/Network-Forensics-Tracking-Hackers-Cyberspace-ebook/dp/B00HFS9VK0", "authors": "Sherri Davidoff, Jonathan Ham"},
+            {"name": "Digital Forensics Basics", "url": "https://digital-forensics.sans.org/blog/2012/04/24/digital-forensics-basics/", "author": "SANS Institute"}
+          ]
+        },
+        {
+          "name": "Misc.",
+          "essentialSkills": ["Shodan & IoT manipulation", "Searching for SCADA equipment using ZoomEye", "OSINT for Critical Infrastructure"],
+          "links": [
+            {"name": "Shodan: The IoT Search Engine", "url": "https://www.shodan.io/", "author": "Shodan"},
+            {"name": "ZoomEye", "url": "https://www.zoomeye.org/", "author": "ZoomEye"}
+          ]
+        }
+      ]
+    }
+  }
+  

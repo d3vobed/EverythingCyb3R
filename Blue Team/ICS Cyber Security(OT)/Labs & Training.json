@@ -1,0 +1,77 @@
+{
+    "cyberLabsAndTraining": [
+      {
+        "url": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=ot",
+        "author": "TryHackMe"
+      },
+      {
+        "url": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=industrial",
+        "author": "TryHackMe"
+      },
+      {
+        "url": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=red+team+",
+        "author": "TryHackMe"
+      },
+      {
+        "url": "https://www.sans.org/cyber-security-courses/ics-scada-cyber-security-essentials/",
+        "author": "SANS Institute"
+      },
+      {
+        "url": "https://www.cisa.gov/ics-training-available-through-cisa",
+        "author": "CISA"
+      },
+      {
+        "url": "https://ics-cybersecurity.academy/next-trainings/online-training/",
+        "author": "ICS Cybersecurity Academy"
+      },
+      {
+        "url": "https://www.dragos.com/resource/dragos-ics-ot-cybersecurity-training-datasheet/",
+        "author": "Dragos"
+      },
+      {
+        "url": "https://www.udemy.com/course/ics-scada-cyber-security/",
+        "author": "Udemy"
+      },
+      {
+        "url": "https://scadahacker.com/training.html",
+        "author": "SCADAhacker"
+      },
+      {
+        "url": "https://icscsi.org/",
+        "author": "ICSCSI"
+      },
+      {
+        "url": "https://www.icscybersecurityconference.com/training/",
+        "author": "ICS Cybersecurity Conference"
+      },
+      {
+        "url": "https://www.cybrary.it/course/ics-scada-fundamentals",
+        "author": "Cybrary"
+      },
+      {
+        "url": "https://www.hackthebox.com/hacker/ctf",
+        "author": "Hack The Box"
+      },
+      {
+        "url": "https://biplav.xyz/posts/lighttheway/",
+        "author": "Author Name"
+      },
+      {
+        "url": "http://icssecurity.net/ctf",
+        "author": "ICS Security"
+      },
+      {
+        "url": "https://www.infosec-city.com/post/sin18-ctf-ics-scada",
+        "author": "Infosec City"
+      },
+      {
+        "url": "https://www.securonix.com/wp-content/uploads/2021/09/RSAC_2019_Scada_Attack_Detection_101.pdf",
+        "author": "Securonix"
+      },
+      {
+        "url": "https://archive.conference.hitb.org/hitbsecconf2018dxb/scada-ctf-village-by-nshc/",
+        "author": "NSHC"
+      }
+    ]
+  }
+  
