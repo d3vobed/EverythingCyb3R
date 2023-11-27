@@ -1,8 +1,11 @@
-# ROADMAP TO MASTERING INDUSTRIAL CONTROL SYSTEM (ICS) CYBERSECURITY
+# ROADMAP TO MASTERING INDUSTRIAL CONTROL SYSTEM (ICS) IN CYBERSECURITY
+
+![CybersecurityIndustrial Control Systems Expert](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/478ed353-f0e8-4aa6-b17d-481bf09a9680)
 
 
 OR USE THE PDF ;)
 
+[CybersecurityIndustrial Control Systems Expert.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13481206/CybersecurityIndustrial.Control.Systems.Expert.pdf)
 
 # Our roadmap to becoming an Industrial Control System (ICS) Cybersecurity Expert
 
