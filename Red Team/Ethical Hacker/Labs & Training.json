@@ -89,6 +89,320 @@
             "Link": "https://picoctf.org/index.html#picogym"
         },
         {
+            "ResourceName": "Cybrary - Fundamentals of Vulnerability Management",
+            "Link": "https://www.cybrary.it/course/fundamentals-vulnerability-management",
+            "Author": "Cybrary",
+            "Description": "Learn the fundamentals of vulnerability management."
+        },
+        {
+            "ResourceName": "NICCS - Certified Vulnerability Assessor (CVA)",
+            "Link": "https://niccs.cisa.gov/education-training/catalog/mile2/certified-vulnerability-assessor-cva",
+            "Author": "Mile2",
+            "Description": "Get certified as a Vulnerability Assessor with this training."
+        },
+        {
+            "ResourceName": "Qualys - Vulnerability Management Training",
+            "Link": "https://www.qualys.com/training/course/vulnerability-management/",
+            "Author": "Qualys",
+            "Description": "Learn about vulnerability management with Qualys."
+        },
+        {
+            "ResourceName": "SpecterOps - Vulnerability Research for Operators",
+            "Link": "https://specterops.io/training/vulnerability-research-for-operators/",
+            "Author": "SpecterOps",
+            "Description": "Enhance your skills in vulnerability research."
+        },
+        {
+            "ResourceName": "GuidePoint Security - CTF Services",
+            "Link": "https://www.guidepointsecurity.com/ctf-services/",
+            "Author": "GuidePoint Security",
+            "Description": "Explore Capture The Flag services for hands-on experience."
+        },
+        {
+            "ResourceName": "VulnHub - Vulnerable Machines for Testing",
+            "Link": "https://www.vulnhub.com/",
+            "Author": "VulnHub Community",
+            "Description": "Download and test vulnerable virtual machines."
+        },
+        {
+            "ResourceName": "CTF Academy - Capture The Flag Challenges",
+            "Link": "https://ctfacademy.github.io/web/index.htm",
+            "Author": "CTF Academy",
+            "Description": "Participate in Capture The Flag challenges."
+        },
+        {
+            "ResourceName": "GitHub Security Lab - Capture The Flag Challenges",
+            "Link": "https://securitylab.github.com/ctf/go-and-dont-return/",
+            "Author": "GitHub Security Lab",
+            "Description": "Join GitHub's CTF challenges."
+        },
+        {
+            "ResourceName": "Hack The Box - Penetration Testing Labs",
+            "Link": "https://www.hackthebox.eu/",
+            "Author": "Hack The Box",
+            "Description": "Access penetration testing labs and challenges."
+        },
+        {
+            "ResourceName": "Pentester Academy - Cybersecurity Training",
+            "Link": "https://www.pentesteracademy.com/",
+            "Author": "Pentester Academy",
+            "Description": "Explore various cybersecurity training courses."
+        },
+        {
+            "ResourceName": "eLearnSecurity - Practical Training Courses",
+            "Link": "https://elearnsecurity.com/training/",
+            "Author": "eLearnSecurity",
+            "Description": "Access practical training courses for security professionals."
+        },
+        {
+            "ResourceName": "Sans Institute - Cybersecurity Training",
+            "Link": "https://www.sans.org/cyber-security-courses/vulnerability-management",
+            "Author": "Sans Institute",
+            "Description": "Join Sans Institute for cybersecurity training."
+        },
+       {
+          "Course":"Red Team LAB by OpenTechFund",
+          "Link":"https://www.opentech.fund/labs/red-team-lab/"
+       },
+       {
+          "Course":"Adversary Simulation & Red Team Operations by zeropointsecurity",
+          "Link":"https://training.zeropointsecurity.co.uk/courses/red-team-ops"
+       },
+       {
+          "Course":"Train on real enterprise infrastructures by hackthebox",
+          "Link":"https://www.hackthebox.com/hacker/pro-labs"
+       },
+       {
+          "Course":"Advanced Red Team Operations by John Stigerwalt",
+          "Link":"https://www.antisyphontraining.com/advanced-red-team-operations/"
+       },
+       {
+          "Course":"Adversary Simulation Service by AT&T Cybersecurity",
+          "Link":"https://cybersecurity.att.com/products/adversary-simulation-service"
+       },
+       {
+          "Course":"Caldera Labs Attack/Defense",
+          "Link":"https://caldera.mitre.org/"
+       },
+       {
+          "Course":"Dark Side Ops Adversary Simulation by NetSpi",
+          "Link":"https://www.netspi.com/training/dark-side-ops-adversary-simulation/"
+       },
+       {
+          "Course":"AtomicRed Team Training",
+          "Link":"https://atomicredteam.io/"
+       },
+       {
+          "Course":"Building Red and Blue Team Infrastructure for Adversary Emulation by DarkRelay",
+          "Link":"https://www.darkrelay.com/post/red-and-blue-team-labs"
+       },
+       {
+          "Course":"Windows Red Team Labs by Altered Security",
+          "Link":"https://www.alteredsecurity.com/redteamlab"
+       },
+       {
+          "Course":"Red Team Labs Training",
+          "Link":"https://theredteamlabs.com/"
+       },
+       {
+          "Course":"Advanced Threat Actor Simulation and Red Team Training by Netitude Labs",
+          "Link":"https://labs.nettitude.com/training/advanced-threat-actor-simulation-and-red-team-training/"
+       },
+       {
+          "Course":"Cyber Ranges Threat Emulation",
+          "Link":"https://www.cyberranges.com/threat-emulation/"
+       },
+       {
+          "Course":"Red Team Training by Offensive Security",
+          "Link":"https://www.offsec.com/labs/individual/"
+       },
+        {
+              "Course":"Red Team LAB by OpenTechFund",
+              "Link":"https://www.opentech.fund/labs/red-team-lab/"
+           },
+           {
+              "Course":"Adversary Simulation & Red Team Operations by zeropointsecurity",
+              "Link":"https://training.zeropointsecurity.co.uk/courses/red-team-ops"
+           },
+           {
+              "Course":"Train on real enterprise infrastructures by hackthebox",
+              "Link":"https://www.hackthebox.com/hacker/pro-labs"
+           },
+           {
+              "Course":"Advanced Red Team Operations by John Stigerwalt",
+              "Link":"https://www.antisyphontraining.com/advanced-red-team-operations/"
+           },
+           {
+              "Course":"Adversary Simulation and Red Team Tactics by mdsec",
+              "Link":"https://www.mdsec.co.uk/training/adversary-simulation-red-team-tactics/"
+           },
+           {
+              "Course":"Red Team Operator by TryHackme",
+              "Link":"https://tryhackme.com/path/outline/redteaming"
+           },     
+       {
+          "Course":"Adversary Emulation Labs by Obscurity Labs",
+          "Link":"https://obscuritylabs.com/adversary-emulation/"
+       },
+       {
+          "Course":"Top 10 Open Source Adversary Emulation Tools by FourCore.io",
+          "Link":"https://fourcore.io/blogs/top-10-open-source-adversary-emulation-tools"
+       },
+       {
+        "Title": "VHL PENETRATION TESTING COURSE & LAB by VHL",
+        "Link": "https://www.virtualhackinglabs.com/"
+    },
+    {
+        "Title": "DeFiHackLabs by Sunweb3sec (github)",
+        "Link": "https://github.com/SunWeb3Sec/DeFiHackLabs"
+    },
+    {
+        "Title": "Practical Ethical Hacking Labs 🗡🛡 by Samsar4",
+        "Link": "https://github.com/Samsar4/Ethical-Hacking-Labs"
+    },
+    {
+        "Title": "NYU Tandon's OSIRIS Lab's Hack Night by OSIRIS Lab's",
+        "Link": "https://github.com/osirislab/Hack-Night"
+    },
+    {
+        "Title": "Learn Ethical Hacking by HTB",
+        "Link": "https://www.hackthebox.com/"
+    },
+    {
+        "Title": "Web for Pentester by PentesterLabs",
+        "Link": "https://pentesterlab.com/exercises/web_for_pentester/course"
+    },
+    {
+        "Title": "Damn Vulnerable Web Application (DVWA) by digininja",
+        "Link": "https://github.com/digininja/DVWA"
+    },
+    {
+        "Title": "XVWA by s4n7h0",
+        "Link": "https://github.com/s4n7h0/xvwa"
+    },
+    {
+        "Title": "Vulnerable machines for pentesting by vulnhub",
+        "Link": "https://www.vulnhub.com/"
+    },
+    {
+        "Title": "Web Security Dojo by Maven Security",
+        "Link": "https://www.mavensecurity.com/resources/web-security-dojo"
+    },
+    {
+        "Title": "0l4bs(XSS labs) by tegal1337",
+        "Link": "https://github.com/tegal1337/0l4bs"
+    },
+    {
+        "Title": "WebGoatPHP by shivamdixit",
+        "Link": "https://github.com/shivamdixit/WebGoatPHP"
+    },
+    {
+        "Title": "WebGoat by WebGoat",
+        "Link": "https://github.com/WebGoat/WebGoat"
+    },
+    {
+        "Title": "Ethical Hacking Competitions by Hackthissite",
+        "Link": "https://www.hackthissite.org/"
+    },
+    {
+        "Title": "Tryhackme Hacktivites by Tryhackme",
+        "Link": "https://tryhackme.com/hacktivities"
+    },
+    {
+        "Title": "HBH Ctfs",
+        "Link": "https://hbh.sh/home"
+    },
+    {
+        "Title": "Wargames by Overthewire",
+        "Link": "https://overthewire.org/wargames/"
+    },
+    {
+        "Title": "SecurityShepherd by OWASP",
+        "Link": "https://github.com/OWASP/SecurityShepherd"
+    },
+    {
+        "Title": "Game of Hacks",
+        "Link": "https://www.gameofhacks.com/"
+    },
+    {
+        "Title": "Root me Vulnerable machines and ctfs by Rootme",
+        "Link": "https://www.root-me.org/?lang=en"
+    },
+    {
+        "Title": "CTFs for learning cybersecurity by CTFlearn",
+        "Link": "https://ctflearn.com/"
+    },
+    {
+        "Title": "PicoGym by Picoctf",
+        "Link": "https://picoctf.org/index.html#picogym"
+    },
+    {
+        "Title": "2023 SANS Holiday Hack Challenge & KringleCon by SANS",
+        "Link": "https://www.sans.org/mlp/holiday-hack-challenge-2023/"
+    },
+    {
+        "Title": "Hacker101 by Hacker1",
+        "Link": "https://www.hacker101.com/"
+    },
+    {
+        "Title": "exploit.courses by exploit.courses",
+        "Link": "https://exploit.courses/#/index"
+    },
+    {
+        "Title": "Tryhackme Exploit Development by Tryhackme",
+        "Link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=exploit+development"
+    },
+    {
+        "Title": "Corelan Training by Corelan",
+        "Link": "https://www.corelan-training.com/index.php/training/"
+    },
+    {
+        "Title": "Setting Up The Exploit Development Lab by Admin (Skynettools)",
+        "Link": "https://skynettools.com/setting-up-the-exploit-development-lab/"
+    },
+    {
+        "Title": "Trainings & Tutorials by azeria-labs",
+        "Link": "https://azeria-labs.com/"
+    },
+    {
+        "Title": "The Exploit Laboratory hands-on exploit development training - worldwide! by ExploitLab",
+        "Link": "https://blog.exploitlab.net/"
+    },
+    {
+        "Title": "Curated Awesome Exploit Development Resource by Fabio Baroni",
+        "Link": "https://github.com/FabioBaroni/awesome-exploit-development"
+    },
+    {
+        "Title": "OpenSecurityTraining2 Exploit Development Training by OpenSecurityTraining2",
+        "Link": "https://opensecuritytraining.info/"
+    },
+    {
+        "Title": "EXPLOIT RESEARCH MEGAPRIMER by securityTube",
+        "Link": "http://www.securitytube.net/groups?operation=view&groupId=7"
+    },
+    {
+        "Title": "Windows Exploit Development – Part 1: The Basics by Mike Czumak",
+        "Link": "https://www.securitysift.com/windows-exploit-development-part-1-basics/"
+    },
+    {
+        "Title": "0day Today is the ultimate database of exploits and vulnerabilities",
+        "Link": "https://0day.today/"
+    },
+    {
+        "Title": "Stack-Based Buffer Overflows on Linux x86 by HTBAcademy",
+        "Link": "https://academy.hackthebox.com/course/preview/stack-based-buffer-overflows-on-linux-x86/exploit-development-introduction"
+    },
+    {
+        "Title": "Cybersecurity Courses by HTBAcademy",
+        "Link": "https://academy.hackthebox.com/catalogue"
+    },
+        {
+            "ResourceName": "INE (Institute of Networking) - Cybersecurity Courses",
+            "Link": "https://ine.com/",
+            "Author": "INE (Institute of Networking)",
+            "Description": "Explore various cybersecurity courses from INE."
+        },
+        {
             "Title": "2023 SANS Holiday Hack Challenge & KringleCon by SANS",
             "Link": "https://www.sans.org/mlp/holiday-hack-challenge-2023/"
         },
