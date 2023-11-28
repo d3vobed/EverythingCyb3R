@@ -1,10 +1,10 @@
-# ROADMAP TO MASTERING
+# ROADMAP TO MASTERING IDENTITY & ACCESS MANAGEMENT ANALYST
 
 OR USE THE PDF ;)
 
 
 
-# Our roadmap to becoming
+# Our roadmap to becoming an Identity and Access Management (IAM) Analyst
 
          Foundational Knowledge:
         Learn Cybersecurity Fundamentals:
