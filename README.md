@@ -1,4 +1,4 @@
-![gif](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/508285f1-fb30-4982-a14f-d28dc6bc9b53)
+![gif](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/371b3748-e832-42b2-a57e-8c15207bf9da)
 
 # EverythingCyb3R
 
