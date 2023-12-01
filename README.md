@@ -1,4 +1,4 @@
-![upx](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/e23dad66-7e34-48a6-973b-a3e33d275968)
+![EverythingCyberLogo](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/a41cdd36-50f6-4b83-b0b9-d527fb90165e)
 
 # EverythingCyb3R
 
