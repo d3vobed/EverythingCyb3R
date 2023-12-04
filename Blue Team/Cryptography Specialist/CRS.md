@@ -1,3 +1,7 @@
+# ROADMAP TO MASTERING CRYPTOGRAPHY
+    
+    
+    
     Foundational Knowledge:
         Mathematics Fundamentals:
             Focus on discrete mathematics, number theory, and algebra.
