@@ -1,7 +1,9 @@
 # ROADMAP TO MASTERING CRYPTOGRAPHY
     
     
-    
+
+
+# Our guide to becoming a Cryptography Specialist
     Foundational Knowledge:
         Mathematics Fundamentals:
             Focus on discrete mathematics, number theory, and algebra.
