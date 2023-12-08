@@ -1,7 +1,10 @@
 # ROADMAP TO MASTERING IDENTITY & ACCESS MANAGEMENT ANALYST
 
+![Identity and Access Management (IAM) Analyst](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/2b222ce0-2ff2-4090-8bcf-b6e242ada9a9)
+
 OR USE THE PDF ;)
 
+[Identity and Access Management (IAM) Analyst.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13617089/Identity.and.Access.Management.IAM.Analyst.pdf)
 
 
 # Our roadmap to becoming an Identity and Access Management (IAM) Analyst
