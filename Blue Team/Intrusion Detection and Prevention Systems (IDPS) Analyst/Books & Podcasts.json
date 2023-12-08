@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Network Intrusion Detection",
+        "site": "https://www.amazon.com/Network-Intrusion-Detection-Stephen-Northcutt/dp/0735712654",
+        "author": "Stephen Northcutt"
+    },
+    {
+        "title": "Intrusion Detection Systems: A Complete Guide (2021 Edition)",
+        "site": "https://www.everand.com/book/484873016/Intrusion-Detection-Systems-A-Complete-Guide-2021-Edition",
+        "author": "EVERANDs"
+    },
+    {
+        "title": "Intrusion Detection",
+        "site": "https://www.amazon.com/Intrusion-Detection-Rebecca-Gurley-Bace/dp/1578701856",
+        "author": "Rebecca Gurley Bace"
+    },
+    {
+        "title": "Network Intrusion Detection (O'Reilly)",
+        "site": "https://www.oreilly.com/library/view/network-intrusion-detection/0735712654/",
+        "author": "O'Reilly"
+    },
+    {
+        "title": "Practical Intrusion Analysis: Prevention and Detection for the Twenty-First Century",
+        "site": "https://www.abebooks.com/9780321591807/Practical-Intrusion-Analysis-Prevention-Detection-0321591801/plp",
+        "author": "ABEBOOKS"
+    },
+    {
+        "title": "Practical Intrusion Analysis (O'Reilly)",
+        "site": "https://www.oreilly.com/library/view/practical-intrusion-analysis/9780321591890/",
+        "author": "O'Reilly"
+    },
+    {
+        "title": "Intrusion Detection Systems: Technologies and Challenges",
+        "site": "https://dl.acm.org/doi/abs/10.5555/1394397",
+        "author": "DL.ACM"
+    },
+    {
+        "title": "Intrusion Detection in Wireless Sensor Networks: A Comprehensive Review",
+        "site": "https://pubs.sciepub.com/jcn/4/1/5/index.html",
+        "author": "SCIEPUBS"
+    },
+    {
+        "title": "Intrusion Detection Systems in Cloud Computing: A Comprehensive Review",
+        "site": "https://www.intechopen.com/chapters/14370",
+        "author": "INTECHOPEN"
+    },
+    {
+        "title": "OSSEC SIEM Logging LIDS",
+        "site": "https://atomicorp.com/ossec-siem-logging-lids/",
+        "author": "Atomicorp"
+    },
+    {
+        "title": "Living at the Edge: Visibility into Edge Devices (Episode 98)",
+        "site": "https://waterfall-security.com/ot-insights-center/power/living-at-the-edge-visibility-into-edge-devices-episode-98/",
+        "author": "Waterfall Security"
+    },
+    {
+        "title": "Intrusion Detection Evasion: Current and Future Trends",
+        "site": "https://www.sans.org/white-papers/366/?show=366.php&cat=detection",
+        "author": "SANS Institute"
+    }
+]
