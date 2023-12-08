@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Google Data Analytics Professional Certificate",
+        "site": "https://www.coursera.org/professional-certificates/google-data-analytics",
+        "author": "Coursera"
+    },
+    {
+        "title": "GIAC Certified Intrusion Analyst (GCIA)",
+        "site": "https://www.giac.org/certifications/certified-intrusion-analyst-gcia/",
+        "author": "GIAC"
+    },
+    {
+        "title": "CREST Certified Network Intrusion Analyst",
+        "site": "https://www.crest-approved.org/skills-certifications-careers/crest-certified-network-intrusion-analyst/",
+        "author": "CREST"
+    },
+    {
+        "title": "GIAC Certified Intrusion Analyst (GCIA) - Cool.osd.mil",
+        "site": "https://www.cool.osd.mil/usn/credential/index.html?cert=gcia3238&nav=examprep",
+        "author": "Cool.osd.mil"
+    },
+    {
+        "title": "GIAC Experienced Intrusion Analyst (GXIA)",
+        "site": "https://www.giac.org/certifications/experienced-intrusion-analyst-gxia/",
+        "author": "GIAC"
+    },
+    {
+        "title": "Network Monitoring and Threat Detection - SANS Institute",
+        "site": "https://www.sans.org/cyber-security-courses/network-monitoring-threat-detection/",
+        "author": "SANS Institute"
+    },
+    {
+        "title": "Certified Threat Intelligence Analyst (CTIA) - EC-Council",
+        "site": "https://www.eccouncil.org/train-certify/certified-threat-intelligence-analyst-ctia/",
+        "author": "EC-Council"
+    },
+    {
+        "title": "Intrusion Detection & Intrusion Prevention - LightCyberCents",
+        "site": "https://niccs.cisa.gov/education-training/catalog/light-cybercents/intrusion-detection-intrusion-prevention",
+        "author": "LightCyberCents"
+    },
+    {
+        "title": "Intrusion Detection and Prevention Systems (IDPS) Fundamentals - Rapid7",
+        "site": "https://www.rapid7.com/fundamentals/intrusion-detection-and-prevention-systems-idps/",
+        "author": "Rapid7"
+    },
+    {
+        "title": "Certified Cybersecurity Analyst (C-CSA)",
+        "site": "https://www.netec.com/product-page/c-csa-certified-cybersecurity-analyst",
+        "author": "Netec"
+    },
+    {
+        "title": "SOC Analyst Level 1 Career Path",
+        "site": "https://www.cybrary.it/career-path/soc-analyst-level-1",
+        "author": "Cybrary"
+    },
+    {
+        "title": "Cisco Network Security: Intrusion Detection and Prevention - LinkedIn Learning",
+        "site": "https://www.classcentral.com/course/linkedin-learning-cisco-network-security-intrusion-detection-and-prevention-29744",
+        "author": "LinkedIn Learning"
+    }
+]
