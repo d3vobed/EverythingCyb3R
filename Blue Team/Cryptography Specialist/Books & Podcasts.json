@@ -1,0 +1,77 @@
+{
+  "Books": [
+    {
+      "title": "Code by Charles Petzold",
+      "link": "https://www.barnesandnoble.com/w/code-charles-petzold/1100324884;jsessionid=5DD3524B3899F4D5C1A577C323AAE12C.prodny_store01-atgap08?ean=9780137909100",
+      "author": "Charles Petzold"
+    },
+    {
+      "title": "Alan Turing by Andrew Hodges",
+      "link": "https://www.barnesandnoble.com/w/alan-turing-andrew-hodges/1129970869;jsessionid=5DD3524B3899F4D5C1A577C323AAE12C.prodny_store01-atgap08?ean=9780691164724",
+      "author": "Andrew Hodges"
+    },
+    {
+      "title": "Cryptography: A Very Short Introduction",
+      "link": "https://www.amazon.com/Cryptography-A-Very-Short-Introduction/dp/B094SSLQKG",
+      "author": "Fred Piper"
+    },
+    {
+      "title": "The Secret War by Max Hastings",
+      "link": "https://www.barnesandnoble.com/w/the-secret-war-max-hastings/1121516424;jsessionid=5DD3524B3899F4D5C1A577C323AAE12C.prodny_store01-atgap08?ean=9780062259288",
+      "author": "Max Hastings"
+    },
+    {
+      "title": "Break the Code: Cryptography for Beginners",
+      "link": "https://www.amazon.com/Break-Code-Cryptography-Beginners-Childrens/dp/0486291464",
+      "author": "Bud Johnson"
+    },
+    {
+      "title": "Cryptography Made Simple",
+      "link": "https://www.amazon.com/Cryptography-Made-Simple-Information-Security/dp/3319219359",
+      "author": "Nigel Smart"
+    },
+    {
+      "title": "Bent Functions: Results and Applications in Cryptography",
+      "link": "https://www.amazon.com/Bent-Functions-Results-Applications-Cryptography/dp/012802318X",
+      "author": "Sihem Mesnager"
+    },
+    {
+      "title": "Serious Cryptography: A Practical Introduction to Modern Encryption",
+      "link": "https://www.amazon.com/Serious-Cryptography-Practical-Introduction-Encryption/dp/1593278268?dplnkId=04c0f7fd-313d-4445-8d85-cd3ba4fa2511&nodl=1",
+      "author": "Jean-Philippe Aumasson"
+    },
+    {
+      "title": "BigNum Math: Implementing Cryptographic Arithmetic",
+      "link": "https://www.amazon.com/BigNum-Math-Implementing-Cryptographic-Arithmetic/dp/1597491128",
+      "author": "Tom St Denis"
+    },
+    {
+      "title": "Cryptography for Kids Who Want to Code: Breaking the Code",
+      "link": "https://www.amazon.com/Cryptography-Kids-want-Code-Breaking/dp/B08JDTP2MP",
+      "author": "Hrayr Shahbazyan"
+    },
+    {
+      "title": "Go Cryptography by Anish Nath",
+      "link": "https://www.amazon.com/Go-Cryptography-Anish-Nath/dp/1790681073",
+      "author": "Anish Nath"
+    },
+    {
+      "title": "Post-Quantum Cryptography by Daniel J. Bernstein",
+      "link": "https://www.amazon.com/Post-Quantum-Cryptography-Daniel-J-Bernstein/dp/3540887016",
+      "author": "Daniel J. Bernstein"
+    }
+  ],
+  "Podcasts": {
+    "Web3 Galaxy Brain": "https://player.fm/series/web3-galaxy-brain",
+    "How Hacks Happen": "https://player.fm/series/how-hacks-happen",
+    "Web3 with a16z Crypto": "https://player.fm/series/web3-with-a16z-crypto",
+    "The Quantum Divide": "https://player.fm/series/the-quantum-divide",
+    "Zero Knowledge": "https://player.fm/series/zero-knowledge-2435247",
+    "Energy Bytes": "https://player.fm/series/energy-bytes",
+    "Series": "https://player.fm/series/series-2797583",
+    "Monero Talk": "https://player.fm/series/monero-talk-2984479",
+    "Software Engineering Radio": "https://player.fm/series/software-engineering-radio",
+    "Real World Cryptographers Podcast": "https://player.fm/series/real-world-cryptographers-podcast",
+    "Cryptography for Beginners with Christof Paar": "https://podcasts.apple.com/us/podcast/cryptography-for-beginners-with-christof-paar/id1564328073?i=1000525176683"
+  }
+}
