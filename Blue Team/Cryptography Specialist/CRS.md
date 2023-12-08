@@ -1,6 +1,7 @@
 # ROADMAP TO MASTERING CRYPTOGRAPHY
     
-    
+
+Or you can use the pdf ;)
 
 
 # Our guide to becoming a Cryptography Specialist
