@@ -1,8 +1,10 @@
 # ROADMAP TO MASTERING INTRUSION DETECTION AND PREVENTION SYSTEM 
 
-
+![Identity and Access Management (IAM) Analyst](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/c941402f-d1e6-45f5-93e7-7dac9a9d3916)
 
 OR USE THE PDF ;)
+
+[Identity and Access Management (IAM) Analyst.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13617291/Identity.and.Access.Management.IAM.Analyst.pdf)
 
 
 # Our roadmap to becoming an Intrusion Detection And Prevention System (IDPS) Analyst
