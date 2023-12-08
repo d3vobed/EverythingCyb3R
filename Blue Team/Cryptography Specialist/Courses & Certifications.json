@@ -1,0 +1,87 @@
+[
+  {
+    "title": "EC-Council Certified Encryption Specialist (ECES)",
+    "author": "EC-COUNCIL",
+    "site": "https://www.eccouncil.org/train-certify/ec-council-certified-encryption-specialist-eces/"
+  },
+  {
+    "title": "CompTIA Security+ Certification",
+    "author": "COMPTIA+",
+    "site": "https://www.comptia.org/certifications/security"
+  },
+  {
+    "title": "Cryptography Courses on Coursera",
+    "author": "COURSEA",
+    "site": "https://www.coursera.org/courses?query=cryptography"
+  },
+  {
+    "title": "ISC2-Crypto-CERT-PUB",
+    "author": "ISC2",
+    "site": "https://enroll.isc2.org/product?catalog=ISC2-Crypto-CERT-PUB"
+  },
+  {
+    "title": "Certified Cryptocurrency Expert",
+    "author": "BLOCKCHAIN COUNCIL",
+    "site": "https://www.blockchain-council.org/certifications/certified-cryptocurrency-expert/"
+  },
+  {
+    "title": "Certified Encryption Specialist (ECES)",
+    "author": "(ECES) NICCS BY CISA",
+    "site": "https://niccs.cisa.gov/education-training/catalog/justone-solutions-llc/certified-encryption-specialist-eces"
+  },
+  {
+    "title": "Microsoft Cryptography Certification",
+    "author": "MICROSOFT",
+    "site": "https://learn.microsoft.com/en-us/windows/security/operating-system-security/system-security/cryptography-certificate-mgmt"
+  },
+  {
+    "title": "Cryptographer Career Information",
+    "author": "cybersecurityeducation",
+    "site": "https://www.cybersecurityeducation.org/careers/cryptographer/"
+  },
+  {
+    "title": "Certified Crypto Asset Anti-Financial Crime Specialist (CCAS)",
+    "author": "ACAMS ORG",
+    "site": "https://www.acams.org/en/certifications/certified-cryptoasset-anti-financial-crime-specialist-certification-ccas#overview-6d8431e2"
+  },
+  {
+    "title": "NCSC certification in cryptography",
+    "author": "NCSC",
+    "site": "https://www.ncsc.gov.uk/section/products-services/ncsc-certification"
+  },
+  {
+    "title": "EITC IS ACC Advanced Classical Cryptography",
+    "author": "EITCA",
+    "site": "https://eitca.org/certification/eitc-is-acc-advanced-classical-cryptography/"
+  },
+  {
+    "title": "GIAC Security Essentials (GSEC) Certification",
+    "author": "SANS INSTITUTE",
+    "site": "https://www.giac.org/certifications/security-essentials-gsec/"
+  },
+  {
+    "title": "GIAC Certified Enterprise Defender (GCED) Certification",
+    "author": "SANS INSTITUTE",
+    "site": "https://www.giac.org/certifications/certified-enterprise-defender-gced/"
+  },
+  {
+    "title": "GIAC Critical Controls Certification (GCCC)",
+    "author": "SANS INSTITUTE",
+    "site": "https://www.giac.org/certifications/critical-controls-certification-gccc/"
+  },
+  {
+    "title": "Blockchain Fundamentals Certificate",
+    "author": "ISACA ",
+    "site": "https://www.isaca.org/credentialing/blockchain-fundamentals-certificate"
+  },
+  {
+    "title": "Certified In Cybersecurity",
+    "author": "ISC2",
+    "site": "https://www.isc2.org/certifications/cc"
+  },
+  {
+    "title": "Certified Information Systems Security Professional (CISSP)",
+    "author": "ISC2",
+    "site": "https://www.isc2.org/certifications/cissp"
+  }
+]
