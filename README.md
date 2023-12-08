@@ -1,6 +1,6 @@
-![EverythingCyberLogo](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/deb2a309-175f-4cb5-84b4-4afd7773ec77)
+   ![EverythingCyberLogo](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/deb2a309-175f-4cb5-84b4-4afd7773ec77)
 
-# EverythingCyb3R
+   # EverythingCyb3R
 
 Welcome to EverythingCyb3R, the GitHub repository that paves the way for your journey into the captivating world of cybersecurity. We've created an engaging and user-friendly framework that simplifies the complexities of the industry, making it fun and easy to understand.
 
