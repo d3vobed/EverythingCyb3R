@@ -1,0 +1,72 @@
+[
+    {
+        "title": "IAA - Identity and Access Management in AWS",
+        "site": "https://tryhackme.com/room/iaaaidm",
+        "author": "TryHackMe"
+    },
+    {
+        "title": "IAM Hacktivities on TryHackMe",
+        "site": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=iam",
+        "author": "TryHackMe"
+    },
+    {
+        "title": "Capture The Flag (CICDont) - AWS",
+        "site": "https://github.com/Hacking-the-Cloud/htc-ctfs/tree/main/aws/cicdont",
+        "author": "Hacking the Cloud"
+    },
+    {
+        "title": "Virginia Cyber Range - Getting Started for Instructors",
+        "site": "https://kb.virginiacyberrange.org/getting-started/virginia-instructors-getting-instructor-account.html",
+        "author": "Virginia Cyber Range"
+    },
+    {
+        "title": "Hacker Associate Challenges",
+        "site": "https://hackerassociate.com/challenges/",
+        "author": "Hacker Associate"
+    },
+    {
+        "title": "Capture The Flag (CICDont) - AWS",
+        "site": "https://hackingthe.cloud/aws/capture_the_flag/cicdont/",
+        "author": "Hacking the Cloud"
+    },
+    {
+        "title": "Cloud Village",
+        "site": "https://cloud-village.org/",
+        "author": "Cloud Village"
+    },
+    {
+        "title": "Cyber Ranges",
+        "site": "https://www.cyberranges.com/",
+        "author": "Cyber Ranges"
+    },
+    {
+        "title": "Access Control, Identity Management, and Public Key Infrastructure",
+        "site": "https://www.amazon.com/Access-Control-Identity-Management-Cloud/dp/1284214753",
+        "author": "Amazon"
+    },
+    {
+        "title": "Implement Identity and Access Management - Cybrary",
+        "site": "https://www.cybrary.it/practice-lab/implement-identity-and-access-management",
+        "author": "Cybrary"
+    },
+    {
+        "title": "AWS Identity and Access Management (IAM) - Digital Cloud Training",
+        "site": "https://digitalcloud.training/aws-identity-and-access-management/",
+        "author": "Digital Cloud Training"
+    },
+    {
+        "title": "Blue Team CTF Challenges - Cyber Defenders",
+        "site": "https://cyberdefenders.org/blueteam-ctf-challenges/?status=&difficulty=&categories=&mitre_tactics=&sort=&labtype=&q=",
+        "author": "Cyber Defenders"
+    },
+    {
+        "title": "Hack The Box Challenges",
+        "site": "https://app.hackthebox.com/challenges",
+        "author": "Hack The Box"
+    },
+    {
+        "title": "Multi-Cloud Security - c0c0n",
+        "site": "https://india.c0c0n.org/2022/multi-cloud-security",
+        "author": "c0c0n"
+    }
+]
