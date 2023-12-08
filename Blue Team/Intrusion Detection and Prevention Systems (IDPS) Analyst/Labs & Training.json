@@ -16,6 +16,11 @@
         "Author": "TryHackMe"
       },
       {
+        "Name": "Hacktivities(Intrusion Detection) by THM"
+        "Link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=intrusion"
+         "Author": "TryHackMe"
+      },
+        {
         "Name": "Incident Responder Training by Group IB",
         "Link": "https://www.group-ib.com/cybersecurity-education/technical-training-programs/incident-responder/",
         "Author": "Group IB"
