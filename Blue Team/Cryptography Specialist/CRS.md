@@ -1,7 +1,10 @@
 # ROADMAP TO MASTERING CRYPTOGRAPHY
     
+![Cryptography Specialist](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/b3745c45-6bcc-4590-900a-0b6d62bc848a)
 
 Or you can use the pdf ;)
+
+[Cryptography Specialist.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13616686/Cryptography.Specialist.pdf)
 
 
 # Our guide to becoming a Cryptography Specialist
