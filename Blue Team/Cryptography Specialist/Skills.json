@@ -1,0 +1,71 @@
+{
+  "programming_languages": [
+    {
+      "language": "C#",
+      "learning_site": "https://www.codecademy.com/learn/learn-c-sharp"
+    },
+    {
+      "language": "C++",
+      "learning_site": "https://www.codecademy.com/catalog/language/c-plus-plus"
+    },
+    {
+      "language": ".NET",
+      "learning_site": "https://dotnet.microsoft.com/en-us/learn"
+    },
+    {
+      "language": "Java",
+      "learning_site": "https://www.codecademy.com/catalog/language/java"
+    },
+    {
+      "language": "R",
+      "learning_site": "https://www.codecademy.com/catalog/language/r"
+    },
+    {
+      "language": "PHP",
+      "learning_site": "https://www.codecademy.com/catalog/language/php"
+    },
+    {
+      "language": "Python",
+      "learning_site": "https://www.codecademy.com/catalog/language/python"
+    }
+  ],
+  "it_security": {
+    "software_hardware_solutions": "Knowledge of IT security software, hardware, and solutions",
+    "learning_site": "https://www.cybrary.it/"
+  },
+  "operating_systems": [
+    {
+      "os": "MS Windows",
+      "learning_site": "https://www.microsoft.com/en-us/itpro/windows"
+    },
+    {
+      "os": "Linux",
+      "learning_site": "https://linuxjourney.com/"
+    },
+    {
+      "os": "UNIX",
+      "learning_site": "https://www.tutorialspoint.com/unix/"
+    }
+  ],
+  "source_code_development": {
+    "skill": "Source Code Development",
+    "learning_site": "https://www.udemy.com/topic/source-code/"
+  },
+  "cryptography": {
+    "skills": [
+      "Fluency in symmetric cryptography, such as hash functions and message authentication codes",
+      "Understanding of number theories",
+      "Knowledge of public key and private key encryption",
+      "Knowledge of linear and matrix algebra"
+    ],
+    "learning_site": "https://www.coursera.org/courses?query=cryptography"
+  },
+  "additional_qualities": [
+    "Excellent written and verbal communication",
+    "Ability to multitask",
+    "Interest in solving puzzles",
+    "Critical thinking",
+    "Problem-solving",
+    "Interest in working in a team setting"
+  ]
+}
