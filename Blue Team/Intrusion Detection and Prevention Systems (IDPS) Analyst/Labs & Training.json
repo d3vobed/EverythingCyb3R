@@ -1,0 +1,61 @@
+{
+    "Simulation Labs": [
+      {
+        "Name": "Cyber Practice Labs and Games by Circadence",
+        "Link": "https://circadence.com/project-ares-lab-and-game-formats/",
+        "Author": "Circadence"
+      },
+      {
+        "Name": "Free Cyber Ranging Experience by Cyberranges",
+        "Link": "https://www.cyberranges.com/free-access/",
+        "Author": "Cyberranges"
+      },
+      {
+        "Name": "Hacktivities(Incident Response) by THM",
+        "Link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=incident+response",
+        "Author": "TryHackMe"
+      },
+      {
+        "Name": "Incident Responder Training by Group IB",
+        "Link": "https://www.group-ib.com/cybersecurity-education/technical-training-programs/incident-responder/",
+        "Author": "Group IB"
+      },
+      {
+        "Name": "2 Day - Incident Response Training by AWSN",
+        "Link": "https://www.awsn.org.au/initiatives/2-day-incident-response-training/",
+        "Author": "AWSN"
+      },
+      {
+        "Name": "Digital Forensics and Incident Response (DFIR) Content Series by Cybrary",
+        "Link": "https://www.cybrary.it/cybrary-select/digital-forensics-and-incident-response-dfir-content-series",
+        "Author": "Cybrary"
+      },
+      {
+        "Name": "Training by DFIR",
+        "Link": "https://dfirdiva.com/training/",
+        "Author": "DFIR"
+      },
+      {
+        "Name": "Cyber Training Labs by Cyber Stronger",
+        "Link": "https://www.cyberstronger.com/cyber-training-labs",
+        "Author": "Cyber Stronger"
+      },
+      {
+        "Name": "Incident Response by infosecinstitute",
+        "Link": "https://www.infosecinstitute.com/skills/learning-paths/incident-response/",
+        "Author": "InfoSec Institute"
+      },
+      {
+        "Name": "Find a Scholarship by Cyversity",
+        "Link": "https://www.cyversity.org/develop-your-skills/find-a-scholarship/",
+        "Author": "Cyversity"
+      },
+      {
+        "Name": "free-incident-response-training-plan by DFIR",
+        "Link": "https://dfirdiva.com/free-incident-response-training-plan/",
+        "Author": "DFIR"
+      }
+    ]
+  }
+  
+  
