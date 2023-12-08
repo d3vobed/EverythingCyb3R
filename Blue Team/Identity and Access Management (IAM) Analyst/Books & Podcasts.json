@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Digital Identity and Access Management",
+        "site": "https://www.igi-global.com/book/digital-identity-access-management/55281",
+        "author": "IGI Global"
+    },
+    {
+        "title": "Identity and Access Management",
+        "site": "https://www.amazon.com/Identity-Access-Management-Amar-Zulejhic/dp/B0BCNX9359",
+        "author": "Amar Zulejhic"
+    },
+    {
+        "title": "Top 5 Identity Access Management Books to Read in 2022",
+        "site": "https://www.zluri.com/blog/identity-access-management-books/",
+        "author": "Zluri"
+    },
+    {
+        "title": "Focus on IAM: Identity and Access Management Simplified",
+        "site": "https://www.amazon.com/Focus-IAM-Identity-Access-Management/dp/0991320530",
+        "author": "  Kiran Kumar Pabbathi "  
+    },
+    {
+        "title": "An Advanced Guide to Identity Management and Security",
+        "site": "https://www.jamf.com/resources/e-books/an-advanced-guide-to-identity-management-and-security/",
+        "author": "Jamf"
+    },
+    {
+        "title": "Zero Trust and the Evolving Role of Identity and Access Management",
+        "site": "https://securityintelligence.com/media/podcast-zero-trust-and-the-evolving-role-of-identity-and-access-management/",
+        "author": "Security Intelligence"
+    },
+    {
+        "title": "Let's Talk About Digital Identity Podcast",
+        "site": "https://www.ubisecure.com/lets-talk-about-digital-identity-podcast/",
+        "author": "Ubisecure"
+    },
+    {
+        "title": "Identity & Access Management Best Practices, with Stuart Powell | GRC & Cyber Leaders",
+        "site": "https://podcasts.apple.com/za/podcast/podcast/id1610565744?i=1000627717429",
+        "author": "GRC & Cyber Leaders"  
+    },
+    {
+        "title": "Identity Governance and Administration Podcast",
+        "site": "https://www.oneidentity.com/identity-governance-and-administration-podcast/",
+        "author": "One Identity"
+    },
+    {
+        "title": "Is IAM Really Fun? And How to Stay Ahead of the Curve in Cloud IAM",
+        "site": "https://cloud.withgoogle.com/cloudsecurity/podcast/ep127-is-iam-really-fun-and-how-to-stay-ahead-of-the-curve-in-cloud-iam/",
+        "author": "Google Cloud"
+    },
+    {
+        "title": "Manage Engine Identity & Access MAnagement Podcast",
+        "site": "https://open.spotify.com/show/0BoPdoRktOX2KjFmNh4Q9o?si=c4515fd05f7e42c4",
+        "author": "ManageEngine"  
+    }
+]
