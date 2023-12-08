@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Hack The Box Challenges",
+        "site": "https://app.hackthebox.com/challenges",
+        "author": "Hack The Box"
+    },
+    {
+        "title": "Cryptography Unlocked Level 1 - Hack The Box",
+        "site": "https://ctf.hackthebox.com/pack/cryptography-unlocked-level-1",
+        "author": "Hack The Box"
+    },
+    {
+        "title": "Hacker101 CTF",
+        "site": "https://ctf.hacker101.com/",
+        "author": "HackerOne"
+    },
+    {
+        "title": "Cryptographic Challenges - CyberTalents",
+        "site": "https://cybertalents.com/competitions/cryptography-ctf",
+        "author": "CyberTalents"
+    },
+    {
+        "title": "Crypto Challenges - CTF Academy",
+        "site": "https://ctfacademy.github.io/crypto/index.htm",
+        "author": "CTF Academy"
+    },
+    {
+        "title": "Cryptography Challenges - 42CTF",
+        "site": "https://www.42ctf.org/en/ctfs/crypto/",
+        "author": "42CTF"
+    },
+    {
+        "title": "Cryptohack",
+        "site": "https://cryptohack.org/",
+        "author": "Cryptohack"
+    },
+    {
+        "title": "WeChall Cryptography Challenges",
+        "site": "https://www.wechall.net/challs",
+        "author": "WeChall"
+    },
+    {
+        "title": "HackMyVM Challenges",
+        "site": "https://hackmyvm.eu/challenges/",
+        "author": "HackMyVM"
+    },
+    {
+        "title": "Internet Cryptography - BJC EDU",
+        "site": "https://bjc.edc.org/March2019/bjc-r/cur/programming/4-internet/3-cybersecurity/1-cryptography.html?topic=nyc_bjc%2F4-internet.topic&course=bjc4nyc.html&novideo&noassignment",
+        "author": "BJC EDU"
+    },
+    {
+        "title": "Infosec Institute - Cryptographic Algorithms Lab",
+        "site": "https://resources.infosecinstitute.com/topics/cryptography/cryptographic-algorithms-lab/",
+        "author": "Infosec Institute"
+    },
+    {
+        "title": "Codio - Cryptography Resources",
+        "site": "https://www.codio.com/resources/cryptography",
+        "author": "Codio"
+    },
+    {
+        "title": "Uni Bonn - Cryptography Lab",
+        "site": "https://crypto.bit.uni-bonn.de/teaching/18ss/lab",
+        "author": "University of Bonn"
+    },
+    {
+        "title": "Quantum Cryptography Simulator - UNO",
+        "site": "https://www.unomaha.edu/college-of-information-science-and-technology/research-labs/labs/quantum-cryptography-simulator.php",
+        "author": "University of Nebraska Omaha"
+    },
+    {
+        "title": "Applied Python Cryptography - EC-Council",
+        "site": "https://codered.eccouncil.org/course/applied-python-cryptography?logged=false",
+        "author": "EC-Council"
+    },
+    {
+        "title": "CTF101 Cryptography Overview",
+        "site": "https://ctf101.org/cryptography/overview/",
+        "author": "CTF101"
+    },
+    {
+        "title": "Cryptohack Challenges",
+        "site": "https://cryptohack.org/",
+        "author": "Cryptohack"
+    },
+    {
+        "title": "HackSussex Events - PwnSussex",
+        "site": "https://www.hacksussex.com/events/pwnsussex",
+        "author": "HackSussex"
+    },
+    {
+        "title": "TryHackMe - Crypto Challenges",
+        "site": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=crypto",
+        "author": "TryHackMe"
+    },
+    {
+        "title": "TryHackMe - Encryption Challenges",
+        "site": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=encryption",
+        "author": "TryHackMe"
+    },
+    {
+        "title": "Hack Tricks - Crypto CTF Tricks",
+        "site": "https://book.hacktricks.xyz/crypto-and-stego/crypto-ctfs-tricks",
+        "author": "Hack Tricks"
+    },
+    {
+        "title": "Cryptography Challenges - Cryptography Competitions",
+        "site": "https://cybertalents.com/competitions/cryptography-ctf",
+        "author": "CyberTalents"
+    }
+]
