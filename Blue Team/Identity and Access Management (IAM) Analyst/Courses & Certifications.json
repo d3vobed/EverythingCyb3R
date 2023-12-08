@@ -1,0 +1,92 @@
+[
+    {
+        "title": "CompTIA Cloud+ Certification",
+        "site": "https://www.comptia.org/certifications/cloud",
+        "author": "CompTIA"
+    },
+    {
+        "title": "Certified Identity and Access Manager (CIAM) Certification",
+        "site": "https://identitymanagementinstitute.org/ciam-certification/",
+        "author": "Identity Management Institute"
+    },
+    {
+        "title": "Microsoft Certified: Identity and Access Administrator Associate",
+        "site": "https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/",
+        "author": "Microsoft"
+    },
+    {
+        "title": "ISACA Certified Identity and Access Management Course (ICIAM)",
+        "site": "https://isacfoundation.org/isac-certified-identity-and-access-management-course-iciam/",
+        "author": "ISACA Foundation"
+    },
+    {
+        "title": "Identity and Access Management",
+        "site": "https://codered.eccouncil.org/course/identity-and-access-management?logged=false",
+        "author": "EC-Council"
+    },
+    {
+        "title": "Identity and Access Management Courses on Udemy",
+        "site": "https://www.udemy.com/topic/identity-access-management/",
+        "author": "Udemy"
+    },
+    {
+        "title": "Certified Identity and Access Manager (CIAM)",
+        "site": "https://www.cybersecuritytrainingcourses.com/course-details/9887/certified-identity-and-access-manager-ciam-/",
+        "author": "Cybersecurity Training Courses"
+    },
+    {
+        "title": "Identity and Access Management Training",
+        "site": "https://www.learningtree.com/courses/identity-and-access-management/",
+        "author": "Learning Tree"
+    },
+    {
+        "title": "AWS Identity and Access Management (IAM) Blog",
+        "site": "https://aws.amazon.com/blogs/training-and-certification/category/security-identity-compliance/aws-identity-and-access-management-iam/",
+        "author": "Amazon Web Services (AWS)"
+    },
+    {
+        "title": "Microsoft Exam SC-300: Identity and Access Administrator Associate",
+        "site": "https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-300/",
+        "author": "Microsoft"
+    },
+    {
+        "title": "Salesforce Identity and Access Management Architect",
+        "site": "https://trailhead.salesforce.com/en/credentials/identityandaccessmanagementarchitect",
+        "author": "Salesforce"
+    },
+    {
+        "title": "Certified Access Management Specialist (CAMS)",
+        "site": "https://identity-management-institute.teachable.com/p/certified-access-management-specialist-cams",
+        "author": "Identity Management Institute"
+    },
+    {
+        "title": "ForgeRock Certification",
+        "site": "https://backstage.forgerock.com/university/certification",
+        "author": "ForgeRock"
+    },
+    {
+        "title": "GIAC Cloud Security Essentials (GCLD) Certification",
+        "site": "https://www.giac.org/certifications/cloud-security-essentials-gcld/",
+        "author": "GIAC"
+    },
+    {
+        "title": "GIAC Public Cloud Security (GPCS) Certification",
+        "site": "https://www.giac.org/certifications/public-cloud-security-gpcs/",
+        "author": "GIAC"
+    },
+    {
+        "title": "Google Cloud Certification",
+        "site": "https://cloud.google.com/learn/certification",
+        "author": "Google Cloud"
+    },
+    {
+        "title": "ISC² Certified Information Systems Security Professional (CISSP)",
+        "site": "https://www.isc2.org/certifications/cissp",
+        "author": "ISC²"
+    },
+    {
+        "title": "ISC² Certified Cloud Security Professional (CCSP)",
+        "site": "https://www.isc2.org/certifications/ccsp",
+        "author": "ISC²"
+    }
+]
