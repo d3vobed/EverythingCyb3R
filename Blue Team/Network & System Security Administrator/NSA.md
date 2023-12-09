@@ -1,8 +1,11 @@
+# ROADMAP TO MASTERING NETWORK & SYSTEM SECURITY SECURITY ADMINISTRATOR
 
-    
-    
-    
-    
+
+OR USE THE PDF ;)
+
+
+
+# Our roadmap to becoming a Network & System Security Administrator
     
     Foundation in IT:
         Objective: Build a strong foundation in IT concepts.
