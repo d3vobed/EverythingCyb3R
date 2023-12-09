@@ -1,0 +1,74 @@
+{
+  "certifications": [
+    {
+      "title": "Certified Network Security Course",
+      "link": "https://www.eccouncil.org/train-certify/certified-network-security-course/",
+      "author": "EC-Council"
+    },
+    {
+      "title": "VMware Certified Technical Associate - Data Center Virtualization",
+      "link": "https://www.vmware.com/learning/certification/vcta-dcv.html",
+      "author": "VMware"
+    },
+    {
+      "title": "Cisco Certified Network Associate (CCNA)",
+      "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html",
+      "author": "Cisco"
+    },
+    {
+      "title": "CompTIA Network+",
+      "link": "https://www.comptia.org/certifications/network",
+      "author": "CompTIA"
+    },
+    {
+      "title": "Juniper Networks Certified Associate - Junos (JNCIA-Junos)",
+      "link": "https://www.juniper.net/us/en/training/certification/tracks/junos/jncia-junos.html",
+      "author": "Juniper Networks"
+    },
+    {
+      "title": "SolarWinds Certified Professional",
+      "link": "https://support.solarwinds.com/solarwinds-certified-professional-program",
+      "author": "SolarWinds"
+    },
+    {
+      "title": "Aruba Certified Mobility Associate",
+      "link": "https://www.arubanetworks.com/support-services/training-services/certified-mobility-associate/",
+      "author": "Aruba Networks"
+    },
+    {
+      "title": "Network Security Courses for Your Cyber Security Career",
+      "link": "https://www.simplilearn.com/network-security-courses-for-your-cyber-security-career-article",
+      "author": "Simplilearn"
+    },
+    {
+      "title": "GIAC Certified Enterprise Defender (GCED)",
+      "link": "https://www.giac.org/certifications/certified-enterprise-defender-gced/",
+      "author": "GIAC"
+    },
+    {
+      "title": "Certified Information Systems Security Professional (CISSP)",
+      "link": "https://www.isc2.org/certifications/cissp",
+      "author": "ISC²"
+    },
+    {
+      "title": "Information Systems Security Engineering Professional (ISSEP)",
+      "link": "https://www.isc2.org/certifications/issep",
+      "author": "ISC²"
+    },
+    {
+      "title": "Information Systems Security Architecture Professional (ISSAP)",
+      "link": "https://www.isc2.org/certifications/issap",
+      "author": "ISC²"
+    },
+    {
+      "title": "ISACA Networks and Infrastructure Fundamentals Certificate",
+      "link": "https://www.isaca.org/credentialing/networks-and-infrastructure-fundamentals-certificate",
+      "author": "ISACA"
+    },
+    {
+      "title": "Network Defense and Network Security",
+      "link": "https://ine.com/learning/courses/network-defense-network-security",
+      "author": "INE"
+    }
+  ]
+}
