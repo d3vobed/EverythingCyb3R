@@ -1,0 +1,64 @@
+{
+  "resources": [
+    {
+      "title": "TryHackMe Paths",
+      "link": "https://tryhackme.com/paths",
+      "author": "TryHackMe"
+    },
+    {
+      "title": "TryHackMe Network Hacktivities",
+      "link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=network",
+      "author": "TryHackMe"
+    },
+    {
+      "title": "OWASP Juice Shop",
+      "link": "https://owasp.org/www-project-juice-shop/",
+      "author": "OWASP"
+    },
+    {
+      "title": "Cyber Defenders Blue Team CTF Challenges",
+      "link": "https://cyberdefenders.org/blueteam-ctf-challenges/?status=&difficulty=&categories=&mitre_tactics=&sort=&labtype=&q=",
+      "author": "Cyber Defenders"
+    },
+    {
+      "title": "Blue Team Labs Online",
+      "link": "https://blueteamlabs.online/",
+      "author": "Blue Team Labs"
+    },
+    {
+      "title": "PicoCTF Practice",
+      "link": "https://play.picoctf.org/practice/",
+      "author": "PicoCTF"
+    },
+    {
+      "title": "Security Blue Team",
+      "link": "https://www.securityblue.team/",
+      "author": "Security Blue Team"
+    },
+    {
+      "title": "Let's Defend Training",
+      "link": "https://app.letsdefend.io/training",
+      "author": "Let's Defend"
+    },
+    {
+      "title": "SANS Cyber Ranges",
+      "link": "https://www.sans.org/cyber-ranges/",
+      "author": "SANS Institute"
+    },
+    {
+      "title": "MemLabs CTF Using Volatility Labs 4-6",
+      "link": "https://ellisstannard.medium.com/memlabs-ctf-using-volatility-labs-4-6-bf4ddf19e7fd",
+      "author": "Ellis Stannard"
+    },
+    {
+      "title": "Wireshark Sample Captures",
+      "link": "https://wiki.wireshark.org/SampleCaptures",
+      "author": "Wireshark"
+    },
+    {
+      "title": "Netresec Pcap Files",
+      "link": "https://www.netresec.com/?page=PcapFiles",
+      "author": "Netresec"
+    }
+  ]
+}
