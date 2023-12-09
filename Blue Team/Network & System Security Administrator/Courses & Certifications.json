@@ -1,0 +1,67 @@
+[
+    {
+        "title": "EC-Council Product Job Role Sheet",
+        "link": "https://cert.eccouncil.org/images/doc/EC-Council-Product-Job-Role-Sheet.pdf",
+        "author": "EC-Council"
+    },
+    {
+        "title": "Microsoft Certified: Azure Security Engineer Associate",
+        "link": "https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/",
+        "author": "Microsoft"
+    },
+    {
+        "title": "Microsoft Certified: Microsoft 365 Certified: Modern Desktop Administrator Associate",
+        "link": "https://learn.microsoft.com/en-us/credentials/certifications/m365-administrator-expert/",
+        "author": "Microsoft"
+    },
+    {
+        "title": "Microsoft Certified: Azure Solutions Architect Expert",
+        "link": "https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/",
+        "author": "Microsoft"
+    },
+    {
+        "title": "Cisco Certified Technician (CCT)",
+        "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/technician-cct.html",
+        "author": "Cisco"
+    },
+    {
+        "title": "Cisco Certified Network Associate (CCNA)",
+        "link": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html",
+        "author": "Cisco"
+    },
+    {
+        "title": "Computer Network Support Specialists - O*NET",
+        "link": "https://www.onetonline.org/link/certinfo/3037-A",
+        "author": null
+    },
+    {
+        "title": "CompTIA Network+",
+        "link": "https://www.comptia.org/certifications/network",
+        "author": "CompTIA"
+    },
+    {
+        "title": "GIAC Systems and Network Auditor (GSNA)",
+        "link": "https://www.giac.org/certifications/systems-network-auditor-gsna/",
+        "author": "GIAC"
+    },
+    {
+        "title": "ISC² Certified Information Systems Security Professional (CISSP)",
+        "link": "https://www.isc2.org/Certifications/CISSP",
+        "author": "ISC²"
+    },
+    {
+        "title": "ISACA Certified in Risk and Information Systems Control (CRISC)",
+        "link": "https://www.isaca.org/credentialing/crisc",
+        "author": "ISACA"
+    },
+    {
+        "title": "CompTIA Advanced Security Practitioner (CASP+)",
+        "link": "https://www.comptia.org/certifications/comptia-advanced-security-practitioner",
+        "author": "CompTIA"
+    },
+    {
+        "title": "VMware Certification",
+        "link": "https://www.vmware.com/learning/certification.html",
+        "author": "VMware"
+    }
+]
