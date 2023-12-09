@@ -1,197 +1,244 @@
 {
-    "skills": {
-      "Computer Code Understanding": {
-        "links": [
-          {
-            "source": "https://www.cybrary.it/course/comptia-it-fundamentals/",
-            "author": "Cybrary"
-          },
-          {
-            "source": "https://www.udemy.com/course/learn-malware-analysis-fundamentals/",
-            "author": "Udemy"
-          },
-          {
-            "source": "https://www.coursera.org/specializations/cyber-security",
-            "author": "Coursera"
-          }
-        ]
-      },
-      "Risk Assessment": {
-        "links": [
-          {
-            "source": "https://www.sans.org/cyber-security-courses/penetration-testing-ethical-hacking",
-            "author": "SANS Institute"
-          },
-          {
-            "source": "https://www.isaca.org/certification/certified-in-risk-and-information-systems-control-cris",
-            "author": "ISACA"
-          },
-          {
-            "source": "https://www.cbtnuggets.com/it-training/certifications/cissp",
-            "author": "CBT Nuggets"
-          }
-        ]
-      },
-      "Computer Forensics": {
-        "links": [
-          {
-            "source": "https://www.enrollware.com/vistech/121131",
-            "author": "Vistech"
-          },
-          {
-            "source": "https://www.sans.org/cyber-security-courses/computer-forensics",
-            "author": "SANS Institute"
-          },
-          {
-            "source": "https://www.udemy.com/course/computer-forensics-basics-beginners/",
-            "author": "Udemy"
-          }
-        ]
-      },
-      "Security Risk Assessments": {
-        "links": [
-          {
-            "source": "https://www.isaca.org/certification/certified-information-security-manager-cism",
-            "author": "ISACA"
-          },
-          {
-            "source": "https://www.udemy.com/course/certified-information-systems-auditor-cisa-2021/",
-            "author": "Udemy"
-          },
-          {
-            "source": "https://www.pmi.org/certifications/risk-management-professional-rmp",
-            "author": "Project Management Institute"
-          }
-        ]
-      },
-      "Cybersecurity Best Practices": {
-        "links": [
-          {
-            "source": "https://www.cisco.com/c/en/us/products/security/security-best-practices.html",
-            "author": "Cisco"
-          },
-          {
-            "source": "https://www.ncsc.gov.uk/guidance/cyber-security-collection",
-            "author": "National Cyber Security Centre (NCSC)"
-          },
-          {
-            "source": "https://www.csoonline.com/article/2982672/top-cyber-security-facts-figures-and-statistics.html",
-            "author": "CSO Online"
-          }
-        ]
-      },
-      "Security Procedures and Policies": {
-        "links": [
-          {
-            "source": "https://www.sans.org/cyber-security-courses/security-policies-standards-procedures",
-            "author": "SANS Institute"
-          },
-          {
-            "source": "https://www.coursera.org/learn/security-innovative-cyber-security-approaches",
-            "author": "Coursera"
-          },
-          {
-            "source": "https://resources.infosecinstitute.com/category/policies-procedures/",
-            "author": "InfoSec Institute"
-          }
-        ]
-      },
-      "Anti-Virus Software and Firewall": {
-        "links": [
-          {
-            "source": "https://www.av-test.org/en/antivirus/",
-            "author": "AV-TEST Institute"
-          },
-          {
-            "source": "https://www.av-comparatives.org/",
-            "author": "AV-Comparatives"
-          },
-          {
-            "source": "https://www.firewall.cx/",
-            "author": "Firewall.cx"
-          }
-        ]
-      },
-      "Container Security": {
-        "links": [
-          {
-            "source": "https://kubernetes.io/docs/concepts/security/pod-security-standards/",
-            "author": "Kubernetes"
-          },
-          {
-            "source": "https://docs.docker.com/engine/security/",
-            "author": "Docker"
-          },
-          {
-            "source": "https://www.redhat.com/en/topics/security",
-            "author": "Red Hat"
-          }
-        ]
-      },
-      "Cloud Security": {
-        "links": [
-          {
-            "source": "https://aws.amazon.com/security/",
-            "author": "Amazon Web Services (AWS)"
-          },
-          {
-            "source": "https://azure.microsoft.com/en-us/resources/cloud-computing-security-best-practices/",
-            "author": "Microsoft Azure"
-          },
-          {
-            "source": "https://cloud.google.com/security",
-            "author": "Google Cloud"
-          }
-        ]
-      },
-      "Comprehensive Software Security": {
-        "links": [
-          {
-            "source": "https://www.owasp.org/",
-            "author": "Open Web Application Security Project (OWASP)"
-          },
-          {
-            "source": "https://cwe.mitre.org/",
-            "author": "Common Weakness Enumeration (CWE)"
-          },
-          {
-            "source": "https://www.synopsys.com/blogs/software-security/top-5-software-security-trends-for-2021/",
-            "author": "Synopsys"
-          }
-        ]
-      },
-      "Privileged Account Security": {
-        "links": [
-          {
-            "source": "https://www.cyberark.com/solutions/threat-research/",
-            "author": "CyberArk"
-          },
-          {
-            "source": "https://www.beyondtrust.com/",
-            "author": "BeyondTrust"
-          },
-          {
-            "source": "https://www.thycotic.com/solutions/privileged-access-management/",
-            "author": "Thycotic"
-          }
-        ]
-      },
-      "SaaS Application Security": {
-        "links": [
-          {
-            "source": "https://www.microsoft.com/security/blog/2021/01/20/best-practices-for-naming-conventions-and-microsoft-365-app-identities/",
-            "author": "Microsoft Security Blog"
-          },
-          {
-            "source": "https://docs.microsoft.com/en-us/mem/portal/protected-apps",
-            "author": "Microsoft Docs"
-          },
-          {
-            "source": "https://www.zscaler.com/products/cloud-security/zscaler-workplace",
-            "author": "Zscaler"
-          }
-        ]
-      }
+  "skills": {
+    "Networking Fundamentals": {
+      "links": [
+        {
+          "source": "https://www.coursera.org/learn/computer-networking",
+          "author": "Coursera"
+        },
+        {
+          "source": "https://www.udemy.com/course/networking-fundamentals/",
+          "author": "Udemy"
+        },
+        {
+          "source": "https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU",
+          "author": "YouTube Playlist"
+        }
+      ]
+    },
+    "Firewalls and IDS/IPS": {
+      "links": [
+        {
+          "source": "https://www.cbtnuggets.com/it-training/cisco-ccna-security-210-260",
+          "author": "CBT Nuggets"
+        },
+        {
+          "source": "https://www.youtube.com/watch?v=9zJpvBJJcmY",
+          "author": "YouTube"
+        },
+        {
+          "source": "https://www.geeksforgeeks.org/intrusion-detection-systems-ids-and-intrusion-prevention-systems-ips/",
+          "author": "GeeksforGeeks"
+        }
+      ]
+    },
+    "VPNs": {
+      "links": [
+        {
+          "source": "https://www.cybrary.it/course/virtual-private-networks-vpn/",
+          "author": "Cybrary"
+        },
+        {
+          "source": "https://www.youtube.com/watch?v=Wq6lzPdGpNs",
+          "author": "YouTube"
+        },
+        {
+          "source": "https://www.openvpn.net/",
+          "author": "OpenVPN"
+        }
+      ]
+    },
+    "Web Application Security": {
+      "links": [
+        {
+          "source": "https://www.w3schools.in/category/web-security/",
+          "author": "W3schools"
+        },
+        {
+          "source": "https://owasp.org/www-project-web-security-testing-guide/",
+          "author": "OWASP"
+        },
+        {
+          "source": "https://www.acunetix.com/blog/web-security-zone/web-application-security-testing-cheat-sheet/",
+          "author": "Acunetix"
+        }
+      ]
+    },
+    "Wireless Security": {
+      "links": [
+        {
+          "source": "https://www.tutorialspoint.com/wireless_security/index.htm",
+          "author": "TutorialsPoint"
+        },
+        {
+          "source": "https://www.geeksforgeeks.org/cyber-security-wireless-communication/",
+          "author": "GeeksforGeeks"
+        },
+        {
+          "source": "https://www.cisco.com/c/en/us/support/docs/wireless/wireless-lan-wlan/71783-wlan-security-faqs.html",
+          "author": "Cisco"
+        }
+      ]
+    },
+    "Network Access Control (NAC)": {
+      "links": [
+        {
+          "source": "https://www.sans.org/cyber-security-courses/network-access-control/",
+          "author": "SANS Institute"
+        },
+        {
+          "source": "https://www.cisco.com/c/en/us/solutions/enterprise-networks/trustsec.html",
+          "author": "Cisco"
+        },
+        {
+          "source": "https://www.forescout.com/company/blog/what-is-nac/",
+          "author": "Forescout"
+        }
+      ]
+    },
+    "SIEM": {
+      "links": [
+        {
+          "source": "https://www.splunk.com/",
+          "author": "Splunk"
+        },
+        {
+          "source": "https://www.ibm.com/security/siem",
+          "author": "IBM"
+        },
+        {
+          "source": "https://www.alienvault.com/solutions/siem",
+          "author": "AlienVault"
+        }
+      ]
+    },
+    "Incident Response and Forensics": {
+      "links": [
+        {
+          "source": "https://www.sans.org/cyber-security-courses/incident-handlers-handbook",
+          "author": "SANS Institute"
+        },
+        {
+          "source": "https://www.forensicscolleges.com/",
+          "author": "Forensics Colleges"
+        },
+        {
+          "source": "https://www.udemy.com/course/computer-forensics-basics-beginners/",
+          "author": "Udemy"
+        }
+      ]
+    },
+    "Penetration Testing and Ethical Hacking": {
+      "links": [
+        {
+          "source": "https://www.offensive-security.com/metasploit-unleashed/",
+          "author": "Metasploit Unleashed"
+        },
+        {
+          "source": "https://www.udemy.com/course/complete-ethical-hacking-bootcamp/",
+          "author": "Udemy"
+        },
+        {
+          "source": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+          "author": "EC-Council"
+        }
+      ]
+    },
+    "Security Policies and Compliance": {
+      "links": [
+        {
+          "source": "https://www.sans.org/cyber-security-courses/security-policies-standards-procedures",
+          "author": "SANS Institute"
+        },
+        {
+          "source": "https://www.iso.org/isoiec-27001-information-security.html",
+          "author": "ISO"
+        },
+        {
+          "source": "https://gdpr.eu/",
+          "author": "GDPR"
+        }
+      ]
+    },
+    "Cloud Security": {
+      "links": [
+        {
+          "source": "https://cloud.google.com/security-best-practices",
+          "author": "Google Cloud"
+        },
+        {
+          "source": "https://aws.amazon.com/security/",
+          "author": "Amazon Web Services (AWS)"
+        },
+        {
+          "source": "https://www.microsoft.com/en-us/trustcenter/cloudservices/azure/security",
+          "author": "Microsoft Azure"
+        }
+      ]
+    },
+    "Network Security Protocols": {
+      "links": [
+        {
+          "source": "https://www.ssl.com/guide/",
+          "author": "SSL.com"
+        },
+        {
+          "source": "https://www.ipsec.pl/",
+          "author": "IPsec"
+        },
+        {
+          "source": "https://www.ssh.com/academy/ssh",
+          "author": "SSH Academy"
+        }
+      ]
+    },
+    "Security Risk Management": {
+      "links": [
+        {
+          "source": "https://www.isaca.org/certification/certified-information-security-manager-cism",
+          "author": "ISACA"
+        },
+        {
+          "source": "https://www.coursera.org/learn/risk-management",
+          "author": "Coursera"
+        },
+        {
+          "source": "https://www.pmi.org/certifications/risk-management-professional-rmp",
+          "author": "Project Management Institute"
+        }
+      ]
+    },
+    "Network Security Monitoring (NSM)": {
+      "links": [
+        {
+          "source": "https://www.sans.org/cyber-security-courses/intrusion-detection-in-depth",
+          "author": "SANS Institute"
+        },
+        {
+          "source": "https://www.netscout.com/solutions/cybersecurity",
+          "author": "NetScout"
+        },
+        {
+          "source": "https://www.manageengine.com/products/eventlog/network-security.html",
+          "author": "ManageEngine"
+        }
+      ]
+    },
+    "IAM": {
+      "links": [
+        {
+          "source": "https://www.okta.com/identity-management/",
+          "author": "Okta"
+        },
+        {
+          "source": "https://www.ibm.com/cloud/learn/identity-and-access-management",
+          "author": "IBM"
+        },
+        {
+          "source": "https://auth0.com/learn/identity-management/",
+          "author": "Auth0"
+        }
+      ]
     }
   }
-  
+}
