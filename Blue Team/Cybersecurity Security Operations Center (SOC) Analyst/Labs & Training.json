@@ -1,0 +1,49 @@
+{
+  "resources": [
+    {
+      "title": "Blue Team Analyst Level 1",
+      "author": "CTF Hack The Box",
+      "link": "https://ctf.hackthebox.com/pack/blue-team-analyst-level-1"
+    },
+    {
+      "title": "Let's Defend",
+      "author": "letsdefend.io",
+      "link": "https://letsdefend.io/"
+    },
+    {
+      "title": "CyberNow Labs",
+      "author": "cybernowlabs.com",
+      "link": "https://cybernowlabs.com/"
+    },
+    {
+      "title": "SOC Analyst Path",
+      "author": "Hack The Box Academy",
+      "link": "https://academy.hackthebox.com/path/preview/soc-analyst"
+    },
+    {
+      "title": "Tips for Building a SOC Analyst Home Lab",
+      "author": "Devo",
+      "link": "https://www.devo.com/blog/tips-for-building-a-soc-analyst-home-lab/"
+    },
+    {
+      "title": "Blue Team Labs",
+      "author": "Cyber Defenders",
+      "link": "https://cyberdefenders.org/blue-team-labs/"
+    },
+    {
+      "title": "CyberTalents Certified SOC Analyst",
+      "author": "CyberTalents",
+      "link": "https://cybertalents.com/learn/cybertalents-certified-soc-analyst"
+    },
+    {
+      "title": "SOC Level 1",
+      "author": "TryHackMe",
+      "link": "https://tryhackme.com/path/outline/soclevel1"
+    },
+    {
+      "title": "CTF Event 263",
+      "author": "CTF Time",
+      "link": "https://ctftime.org/ctf/263/"
+    }
+  ]
+}
