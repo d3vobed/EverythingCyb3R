@@ -1,0 +1,94 @@
+{
+  "Certifications & Courses": [
+    {
+      "title": "Security Operations Certified (GSOC)",
+      "author": "GIAC",
+      "link": "https://www.giac.org/certifications/security-operations-certified-gsoc/"
+    },
+    {
+      "title": "Certified SOC Analyst (CSA)",
+      "author": "EC-Council",
+      "link": "https://www.eccouncil.org/train-certify/certified-soc-analyst-csa/"
+    },
+    {
+      "title": "Certified SOC Analyst (CSA) Certification Training",
+      "author": "InfoSec Train",
+      "link": "https://www.infosectrain.com/courses/certified-soc-analyst-csa-certification-training/"
+    },
+    {
+      "title": "Certified SOC Analyst (CSA)",
+      "author": "Zeta Web",
+      "link": "https://znl.zeta-web.com/certified-soc-analyst-csa/"
+    },
+    {
+      "title": "SOC Analyst Now",
+      "author": "Udemy",
+      "link": "https://www.udemy.com/course/soc-analyst-now/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_77879423894_._ad_535397245857_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171032_._li_1010283_._pd__._&matchtype=&gad_source=1"
+    },
+    {
+      "title": "Security Operations Analyst",
+      "author": "Microsoft",
+      "link": "https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/"
+    },
+    {
+      "title": "Certified SOC Analyst (CSA)",
+      "author": "Global Knowledge",
+      "link": "https://www.globalknowledge.com/en-ae/certifications/certification-training/ec-council/certified-soc-analyst-csa"
+    },
+    {
+      "title": "Certified SOC Analyst (CSA)",
+      "author": "Afralti",
+      "link": "https://www.afralti.org/ec-council/certified-soc-analyst-csa/"
+    },
+    {
+      "title": "Certified SOC Analyst",
+      "author": "Beingcert",
+      "link": "https://www.beingcert.com/Certification/certified-soc-analyst-certification"
+    },
+    {
+      "title": "Cybersecurity Analyst+",
+      "author": "CompTIA",
+      "link": "https://www.comptia.org/certifications/cybersecurity-analyst"
+    },
+    {
+      "title": "HTB Certified Defensive Security Analyst",
+      "author": "Hack The Box",
+      "link": "https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst"
+    },
+    {
+      "title": "SOC-200",
+      "author": "Offensive Security",
+      "link": "https://www.offsec.com/courses/soc-200/"
+    },
+    {
+      "title": "Certified Security Operations Center (SOC) Analyst Training Course",
+      "author": "CRAW Security",
+      "link": "https://www.craw.in/certified-security-operations-center-soc-analyst-training-course/"
+    },
+    {
+      "title": "SOC (Security Operation Center) - Security Operation Center Training Course & Certification",
+      "author": "Koenig Solutions",
+      "link": "https://www.koenig-solutions.com/soc-security-operation-center-training-course-certification"
+    },
+    {
+      "title": "SOC Analyst Level 3",
+      "author": "Cybrary",
+      "link": "https://www.cybrary.it/career-path/soc-analyst-level-3"
+    },
+    {
+      "title": "ISAC Certified SOC Analyst (ICSA)",
+      "author": "ISAC Foundation",
+      "link": "https://isacfoundation.org/isac-certified-soc-analyst-icsa/"
+    },
+    {
+      "title": "IBM Certified SOC Analyst",
+      "author": "Firebrand Training",
+      "link": "https://firebrand.training/uk/courses/ibm/certified-soc-analyst-certification"
+    },
+    {
+      "title": "6 Essential SOC Analyst Tools to Identify Threats",
+      "author": "FSEICC",
+      "link": "https://fseicc.com/products/6-essential-soc-analyst-tools-to-identify-threats"
+    }
+  ]
+}
