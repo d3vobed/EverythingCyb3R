@@ -58,5 +58,54 @@
         "title": "Intrusion Detection Evasion: Current and Future Trends",
         "site": "https://www.sans.org/white-papers/366/?show=366.php&cat=detection",
         "author": "SANS Institute"
+    },
+    {
+  "books": [
+    {
+      "title": "Managing Modern Security Operations Center: Building Perfect Career as SOC Analyst",
+      "link": "https://www.barnesandnoble.com/w/managing-modern-security-operations-center-building-perfect-career-as-soc-analyst-publicancy-ltd/1143989775",
+      "author": "Publicancy Ltd"
+    },
+    {
+      "title": "Jump Start Your SOC Analyst Career",
+      "link": "https://books.apple.com/gb/book/jump-start-your-soc-analyst-career/id1556687842",
+      "author": "Not specified"
+    },
+    {
+      "title": "Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software",
+      "link": "https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901",
+      "author": "Michael Sikorski, Andrew Honig"
+    },
+    {
+      "title": "Applied Network Security Monitoring: Collection, Detection, and Analysis",
+      "link": "https://www.perlego.com/book/1809957/applied-network-security-monitoring-collection-detection-and-analysis-pdf",
+      "author": "Chris Sanders, Jason Smith"
+    },
+    {
+      "title": "Effective Threat Investigation for SOC Analysts",
+      "link": "https://www.amazon.com/Effective-Threat-Investigation-SOC-Analysts/dp/1837634785",
+      "author": "Syed Ali, Rashid Alnemry"
+    }
+  ],
+  "podcasts": [
+    {
+      "title": "What Does a SOC Analyst Do? - Cybersecurity Career Series",
+      "link": "https://podcasts.apple.com/sk/podcast/what-does-a-soc-analyst-do-cybersecurity-career-series/id1419689068?i=1000548451806",
+      "author": "Not specified"
+    },
+    {
+      "title": "Hacked",
+      "link": "https://podcasts.apple.com/us/podcast/hacked/id1049420219",
+      "author": "Not specified"
+    },
+    {
+      "title": "Security Now (Audio)",
+      "link": "https://podcasts.apple.com/us/podcast/security-now-audio/id79016499",
+      "author": "Steve Gibson, Leo Laporte"
+    },
+    {
+      "title": "Darknet Diaries",
+      "link": "https://darknetdiaries.com/",
+      "author": "Jack Rhysider"
     }
 ]
