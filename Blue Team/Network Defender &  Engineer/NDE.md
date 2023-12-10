@@ -1,6 +1,11 @@
 # ROADMAP TO MASTERING NETWORK DEFENDER & ENGINEER
 
-       OR USE THE PDF :)
+![Network Defender   Engineer](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/00b0916b-efb9-4a4f-b6ef-b7e49d8f1a95)
+
+
+OR USE THE PDF :)
+
+[Network & System Administrator.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13626098/Network.System.Administrator.pdf)
 
 # Our  guide to becoming a Network Defender & Engineer
 
