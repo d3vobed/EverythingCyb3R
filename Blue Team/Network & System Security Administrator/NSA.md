@@ -1,7 +1,9 @@
 # ROADMAP TO MASTERING NETWORK & SYSTEM SECURITY SECURITY ADMINISTRATION
+![Network   System Administrator](https://github.com/d3vobed/EverythingCyb3R/assets/66479041/3b87a55a-9e76-4d45-9575-2156275e2592)
 
 OR USE THE PDF ;)
 
+[Network & System Administrator.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13626085/Network.System.Administrator.pdf)
 
 
 # Our roadmap to becoming a Network & System Security Administrator
@@ -47,8 +49,8 @@ OR USE THE PDF ;)
 
     Hands-On Labs and Projects:
         Objective: Apply theoretical knowledge in practical scenarios.
-        Steps:
-            Set up a home lab environment to practice networking and security configurations.
+            Steps:
+                Set up a home lab environment to practice networking and security configurations.
             Participate in CTFs (Capture The Flag) and other cybersecurity challenges.
             Work on real-world projects to gain hands-on experience.
 
