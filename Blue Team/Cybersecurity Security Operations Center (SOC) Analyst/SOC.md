@@ -1,8 +1,11 @@
-# ROADMAP TO MASTERING CYBERSECURITY OPERATIONS CENTER
+# ROADMAP TO MASTERING CYBERSECURITY OPERATIONS CENTER (SOC) TIER I-III
+
+![Uploading CybersecurityOperationsCenter(SOC)Analyst - TIER 1-3.png…]()
 
 
 OR USE THE PDF ;)
 
+[CybersecurityOperationsCenter(SOC)Analyst - TIER 1-3.pdf](https://github.com/d3vobed/EverythingCyb3R/files/13626066/CybersecurityOperationsCenter.SOC.Analyst.-.TIER.1-3.pdf)
 
 
 # Our roadmap to becoming a Cybersecurity Security Operations Center (SOC) Analyst
@@ -39,6 +42,23 @@ OR USE THE PDF ;)
      Scripting and Automation:
     Acquire scripting skills (e.g., Python, PowerShell) for automating repetitive tasks.
     Automate common security operations tasks to enhance efficiency.
+
+    DevOps: 
+      Continuous Integration/Continuous Delivery (CI/CD):
+      Understanding and implementing CI/CD pipelines to automate the building, testing, and deployment of software.
+      Knowledge of tools like Jenkins, GitLab CI, or GitHub Actions to enable the continuous integration and delivery of code       changes.
+      
+      Infrastructure as Code (IaC):
+      Proficiency in writing infrastructure code using tools such as Terraform, Ansible, or CloudFormation to automate the             provisioning and management of infrastructure.
+      Understanding the concept of treating infrastructure as code to achieve consistency, version control, and automation.
+      
+      Containerization and Orchestration:
+      Familiarity with containerization technologies like Docker to package and isolate applications and their dependencies.
+      Knowledge of container orchestration tools such as Kubernetes or Docker Swarm to automate the deployment, scaling, and       management of containerized applications.
+      
+      Monitoring and Logging:
+      Implementing monitoring solutions to track the performance and health of applications and infrastructure.
+      Knowledge of logging and log analysis tools (e.g., ELK Stack, Splunk) to gather insights into system behavior,                   troubleshoot issues, and enhance security.
     
      Advanced Security Certifications:
     Pursue advanced certifications like Certified Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH), or GIAC Certified Incident Handler (GCIH).
