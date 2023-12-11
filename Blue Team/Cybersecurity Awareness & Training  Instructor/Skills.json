@@ -40,13 +40,12 @@
         "topic": "Data in Motion",
         "description": "Helping employees understand how vulnerable data in motion is and how they can protect it.",
         "skills": ["Data Encryption", "Secure Communication"],
-        "resources": ["Link to Data Security Training"]
       },
       {
         "topic": "Office Hygiene",
         "description": "Helping employees understand the best way to protect paper, desks, screens, and buildings.",
         "skills": ["Physical Security", "Clean Desk Policies"],
-        "resources": ["Link to Office Hygiene Training"]
+        
       }
     ],
     "essential_skills": [
