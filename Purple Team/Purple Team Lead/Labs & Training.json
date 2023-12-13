@@ -1,0 +1,102 @@
+{
+   "Online Courses": [
+       {
+           "Course": "Red Team LAB by OpenTechFund",
+           "Link": "https://www.opentech.fund/labs/red-team-lab/"
+       },
+       {
+           "Course": "Adversary Simulation & Red Team Operations by zeropointsecurity",
+           "Link": "https://training.zeropointsecurity.co.uk/courses/red-team-ops"
+       },
+       {
+           "Course": "Train on real enterprise infrastructures by hackthebox",
+           "Link": "https://www.hackthebox.com/hacker/pro-labs"
+       },
+       {
+           "Course": "Advanced Red Team Operations by John Stigerwalt",
+           "Link": "https://www.antisyphontraining.com/advanced-red-team-operations/"
+       },
+       {
+           "Course": "Adversary Simulation Service by AT&T Cybersecurity",
+           "Link": "https://cybersecurity.att.com/products/adversary-simulation-service"
+       },
+       {
+           "Course": "Caldera Labs Attack/Defense",
+           "Link": "https://caldera.mitre.org/"
+       },
+       {
+           "Course": "Dark Side Ops Adversary Simulation by NetSpi",
+           "Link": "https://www.netspi.com/training/dark-side-ops-adversary-simulation/"
+       },
+       {
+           "Course": "AtomicRed Team Training",
+           "Link": "https://atomicredteam.io/"
+       },
+       {
+           "Course": "Building Red and Blue Team Infrastructure for Adversary Emulation by DarkRelay",
+           "Link": "https://www.darkrelay.com/post/red-and-blue-team-labs"
+       },
+       {
+           "Course": "Windows Red Team Labs by Altered Security",
+           "Link": "https://www.alteredsecurity.com/redteamlab"
+       },
+       {
+           "Course": "Red Team Labs Training",
+           "Link": "https://theredteamlabs.com/"
+       },
+       {
+           "Course": "Advanced Threat Actor Simulation and Red Team Training by Netitude Labs",
+           "Link": "https://labs.nettitude.com/training/advanced-threat-actor-simulation-and-red-team-training/"
+       },
+       {
+           "Course": "Cyber Ranges Threat Emulation",
+           "Link": "https://www.cyberranges.com/threat-emulation/"
+       },
+       {
+           "Course": "Red Team Training by Offensive Security",
+           "Link": "https://www.offsec.com/labs/individual/"
+       },
+       {
+           "Course": "Adversary Emulation Labs by Obscurity Labs",
+           "Link": "https://obscuritylabs.com/adversary-emulation/"
+       },
+       {
+           "Course": "Top 10 Open Source Adversary Emulation Tools by FourCore.io",
+           "Link": "https://fourcore.io/blogs/top-10-open-source-adversary-emulation-tools"
+       }
+   ],
+   "Additional Resources": [
+       {
+           "Title": "ISC2 Purple Team Certification",
+           "Link": "https://enroll.isc2.org/product?catalog=ISC2-PRPL-PLYBK-CERT-MBR"
+       },
+       {
+           "Title": "SANS Purple Team Summit",
+           "Link": "https://www.sans.org/purple-team/"
+       },
+       {
+           "Title": "Cybrary MITRE ATT&CK Course",
+           "Link": "https://www.cybrary.it/mitre-attack"
+       },
+       {
+           "Title": "Cyber Warfare Live - Process Injection Analyst Course",
+           "Link": "https://cyberwarfare.live/product/process-injection-analyst-cpia/"
+       },
+       {
+           "Title": "Cyber Warfare Live",
+           "Link": "https://cyberwarfare.live/?aad=BAhJIn97InVybCI6Imh0dHA6Ly9jeWJlcndhcmZhcmUubGl2ZSIsImV2ZW50IjoiaXNzdWVyX3VybF9jbGljayIsIm90aGVyX2luZm8iOiJpc3N1ZXJfbWFya2V0aW5nX3BhZ2UiLCJvcmdhbml6YXRpb25faWQiOjU0MTE3fQY6BkVU--3fdd1bb8588755514feb31090ce44e3e57c0c042"
+       },
+       {
+           "Title": "Purple Team Exercise Framework on GitHub",
+           "Link": "https://github.com/scythe-io/purple-team-exercise-framework/blob/master/PTEFv2.md"
+       },
+       {
+           "Title": "Antisyphon Training - Applied Purple Teaming",
+           "Link": "https://www.antisyphontraining.com/live-courses-catalog/applied-purple-teaming-kent-ickler-and-jordan-drysdale/"
+       },
+       {
+           "Title": "GIAC Cyber Defense Certifications",
+           "Link": "https://www.giac.org/focus-areas/cyber-defense/"
+       }
+   ]
+}

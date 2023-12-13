@@ -1,0 +1,58 @@
+{
+    "Books": [
+        {
+            "Title": "Purple People Leader: A Leadership Politics Book for Everyone",
+            "Author": "Patti Dobrowolski",
+            "Link": "https://www.amazon.com/Purple-People-Leader-Politics-Everyone/dp/1500965898"
+        },
+        {
+            "Title": "Purple Team Strategies",
+            "Author": "Packt Publishing",
+            "Link": "https://github.com/PacktPublishing/Purple-Team-Strategies"
+        }
+    ],
+    "Podcasts": [
+        {
+            "Title": "The Purple Team Podcast",
+            "Host": "Unknown",
+            "Link": "https://podcasts.apple.com/us/podcast/the-purple-team-podcast/id1518088802"
+        },
+        {
+            "Title": "Resilient Cyber Podcast - Offensive Security & Purple Teaming",
+            "Host": "John D. (Podcast link provided)",
+            "Link": "https://johndcyber.com/resilient-cyber-podcast-offensive-security-purple-teaming-13c629d31b0a"
+        },
+        {
+            "Title": "Purple Team Podcast",
+            "Host": "Lithify",
+            "Link": "https://lithify.co.uk/?view=article&id=120:purple-team-podcast&catid=8"
+        },
+        {
+            "Title": "The Evolution of Purple Teaming",
+            "Host": "Steven Bowcut (Podcast link provided)",
+            "Link": "https://podcasters.spotify.com/pod/show/steven-bowcut/episodes/The-Evolution-of-Purple-Teaming-e2bmajn"
+        }
+    ],
+    "Other Resources": [
+        {
+            "Title": "Purple Teaming Enablement",
+            "Source": "Cymulate",
+            "Link": "https://cymulate.com/solutions/purple-teaming-enablement/"
+        },
+        {
+            "Title": "Improve Your Defensive Success with Purple Team Exercises",
+            "Source": "mnemonic",
+            "Link": "https://www.mnemonic.io/resources/blog/improve-your-defensive-success-with-purple-team-exercises/"
+        },
+        {
+            "Title": "Lessons Learned from a Year of Delivering Purple Team Exercises",
+            "Source": "mnemonic",
+            "Link": "https://www.mnemonic.io/resources/blog/lessons-learned-from-a-year-of-delivering-purple-team-exercises/"
+        },
+        {
+            "Title": "YouTube Video - Purple Teaming Explained",
+            "Source": "Unknown",
+            "Link": "https://www.youtube.com/watch?v=WoX2qBEegmE"
+        }
+    ]
+}
