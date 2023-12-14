@@ -81,5 +81,65 @@
           "Link":"https://www.elearnsecurity.com/certification/certified-red-team-expert/"
        }
     ]
+    {
+    "resources": [
+      {
+        "link": "https://securityawareness.usalearning.gov/cybersecurity/index.htm#",
+        "title": "Security Awareness Training",
+        "author": "USA Learning"
+      },
+      {
+        "link": "https://niccs.cisa.gov/education-training/catalog/supremus-group-llc/certified-cybersecurity-awareness-professional-ccap",
+        "title": "Certified Cybersecurity Awareness Professional (CCAP)",
+        "author": "Supremus Group LLC"
+      },
+      {
+        "link": "https://www.sans.org/cyber-security-courses/?msc=home-header",
+        "title": "SANS Cyber Security Courses",
+        "author": "SANS Institute"
+      },
+      {
+        "link": "https://www.comptia.org/certifications/security",
+        "title": "CompTIA Security+",
+        "author": "CompTIA"
+      },
+      {
+        "link": "https://www.isc2.org/Certifications/CISSP",
+        "title": "Certified Information Systems Security Professional (CISSP)",
+        "author": "(ISC)²"
+      },
+      {
+        "link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/",
+        "title": "Certified Ethical Hacker (CEH)",
+        "author": "EC-Council"
+      },
+      {
+        "link": "https://www.isaca.org/credentialing/cism",
+        "title": "Certified Information Security Manager (CISM)",
+        "author": "ISACA"
+      },
+      {
+        "link": "https://www.offensive-security.com/courses-and-certifications/oscp/",
+        "title": "Offensive Security Certified Professional (OSCP)",
+        "author": "Offensive Security"
+      },
+      {
+        "link": "https://www.hhs.gov/about/agencies/asa/ocio/cybersecurity/security-awareness-training/index.html",
+        "title": "HHS Cybersecurity Awareness Training",
+        "author": "U.S. Department of Health & Human Services (HHS)"
+      },
+      {
+        "link": "https://cofense.com/knowledge-center/online-security-awareness-training/",
+        "title": "Cofense Security Awareness Training",
+        "author": "Cofense"
+      },
+      {
+        "link": "https://www.eset.com/us/business/cybersecurity-awareness-training/?ref=AFC-CJ&attr=8028369&pub=14451291&shop=0043-3561-3088-2150-7783&cjevent=1f2f86017ff211ee807d16250a18ba72",
+        "title": "ESET Cybersecurity Awareness Training",
+        "author": "ESET"
+      }
+    ]
+  }
+  
  }
  
