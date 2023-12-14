@@ -1,96 +1,85 @@
+
+
+
 {
-    "Online Courses": [
-        {
-            "Course": "Red Team LAB by OpenTechFund",
-            "Link": "https://www.opentech.fund/labs/red-team-lab/"
-        },
-        {
-            "Course": "Adversary Simulation & Red Team Operations by zeropointsecurity",
-            "Link": "https://training.zeropointsecurity.co.uk/courses/red-team-ops"
-        },
-        {
-            "Course": "Train on real enterprise infrastructures by hackthebox",
-            "Link": "https://www.hackthebox.com/hacker/pro-labs"
-        },
-        {
-            "Course": "Advanced Red Team Operations by John Stigerwalt",
-            "Link": "https://www.antisyphontraining.com/advanced-red-team-operations/"
-        },
-        {
-            "Course": "Adversary Simulation Service by AT&T Cybersecurity",
-            "Link": "https://cybersecurity.att.com/products/adversary-simulation-service"
-        },
-        {
-            "Course": "Caldera Labs Attack/Defense",
-            "Link": "https://caldera.mitre.org/"
-        },
-        {
-            "Course": "Dark Side Ops Adversary Simulation by NetSpi",
-            "Link": "https://www.netspi.com/training/dark-side-ops-adversary-simulation/"
-        },
-        {
-            "Course": "AtomicRed Team Training",
-            "Link": "https://atomicredteam.io/"
-        },
-        {
-            "Course": "Building Red and Blue Team Infrastructure for Adversary Emulation by DarkRelay",
-            "Link": "https://www.darkrelay.com/post/red-and-blue-team-labs"
-        },
-        {
-            "Course": "Windows Red Team Labs by Altered Security",
-            "Link": "https://www.alteredsecurity.com/redteamlab"
-        },
-        {
-            "Course": "Red Team Labs Training",
-            "Link": "https://theredteamlabs.com/"
-        },
-        {
-            "Course": "Advanced Threat Actor Simulation and Red Team Training by Netitude Labs",
-            "Link": "https://labs.nettitude.com/training/advanced-threat-actor-simulation-and-red-team-training/"
-        },
-        {
-            "Course": "Cyber Ranges Threat Emulation",
-            "Link": "https://www.cyberranges.com/threat-emulation/"
-        },
-        {
-            "Course": "Red Team Training by Offensive Security",
-            "Link": "https://www.offsec.com/labs/individual/"
-        },
-        {
-            "Course": "Red Team LAB by OpenTechFund",
-            "Link": "https://www.opentech.fund/labs/red-team-lab/"
-        },
-        {
-            "Course": "Adversary Simulation & Red Team Operations by zeropointsecurity",
-            "Link": "https://training.zeropointsecurity.co.uk/courses/red-team-ops"
-        },
-        {
-            "Course": "Train on real enterprise infrastructures by hackthebox",
-            "Link": "https://www.hackthebox.com/hacker/pro-labs"
-        },
-        {
-            "Course": "Advanced Red Team Operations by John Stigerwalt",
-            "Link": "https://www.antisyphontraining.com/advanced-red-team-operations/"
-        },
-        {
-            "Course": "Adversary Simulation and Red Team Tactics by mdsec",
-            "Link": "https://www.mdsec.co.uk/training/adversary-simulation-red-team-tactics/"
-        },
-        {
-            "Course": "Red Team Operator by TryHackme",
-            "Link": "https://tryhackme.com/path/outline/redteaming"
-        },
-        {
-            "Course": "Adversary Emulation Labs by Obscurity Labs",
-            "Link": "https://obscuritylabs.com/adversary-emulation/"
-        },
-        {
-            "Course": "Top 10 Open Source Adversary Emulation Tools by FourCore.io",
-            "Link": "https://fourcore.io/blogs/top-10-open-source-adversary-emulation-tools"
-        },
-        {
-            "Course": "Purple Team Lead on TryHackMe",
-            "Link": "https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=purple+team+lead+"
-        }
+    "Red Team Lead Certifications":[
+       {
+          "Certification":"Certified Information Systems Security Professional (CISSP)",
+          "Authors":[
+             "ISC2"
+          ],
+          "Link":"https://www.isc2.org/Certifications/CISSP"
+       },
+       {
+        "Certification":"Red Team Courses)",
+        "Authors":[
+           "Class Central"
+        ],
+        "Link":"https://www.classcentral.com/subject/red-team"
+     },
+       {
+          "Certification":"Certified Ethical Hacker (CEH)",
+          "Authors":[
+             "EC-Council"
+          ],
+          "Link":"https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+       },
+       {
+          "Certification":"Offensive Security Certified Professional (OSCP)",
+          "Authors":[
+             "Offensive Security"
+          ],
+          "Link":"https://www.offensive-security.com/pwk-oscp/"
+       },
+       {
+          "Certification":"Certified Information Security Manager (CISM)",
+          "Authors":[
+             "ISACA"
+          ],
+          "Link":"https://www.isaca.org/certification/cism-certified-information-security-manager"
+       },
+       {
+          "Certification":"Certified Red Team Operator (CRTOP)",
+          "Authors":[
+             "eLearnSecurity"
+          ],
+          "Link":"https://www.elearnsecurity.com/certification/ertp/"
+       },
+       {
+          "Certification":"GIAC Certified Penetration Tester (GPEN)",
+          "Authors":[
+             "Global Information Assurance Certification (GIAC)"
+          ],
+          "Link":"https://www.giac.org/certification/certified-penetration-tester-gpen"
+       },
+       {
+          "Certification":"GIAC Certified Web Application Penetration Tester (GWAPT)",
+          "Authors":[
+             "Global Information Assurance Certification (GIAC)"
+          ],
+          "Link":"https://www.giac.org/certification/web-application-penetration-tester-gwapt"
+       },
+       {
+          "Certification":"GIAC Certified Forensic Analyst (GCFA)",
+          "Authors":[
+             "Global Information Assurance Certification (GIAC)"
+          ],
+          "Link":"https://www.giac.org/certification/forensics-analyst-gcfa"
+       },
+       {
+          "Certification":"Certified Information Systems Auditor (CISA)",
+          "Authors":[
+             "ISACA"
+          ],
+          "Link":"https://www.isaca.org/certification/cisa"
+       },
+       {
+          "Certification":"Certified Red Team Expert (CRTE)",
+          "Authors":[
+             "eLearnSecurity"
+          ],
+          "Link":"https://www.elearnsecurity.com/certification/certified-red-team-expert/"
+       }
     ]
-}
+ }
+ 
