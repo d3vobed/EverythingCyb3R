@@ -14,7 +14,7 @@
     "Podcasts": [
         {
             "Title": "The Purple Team Podcast",
-            "Host": "Unknown",
+            
             "Link": "https://podcasts.apple.com/us/podcast/the-purple-team-podcast/id1518088802"
         },
         {
@@ -51,7 +51,7 @@
         },
         {
             "Title": "YouTube Video - Purple Teaming Explained",
-            "Source": "Unknown",
+            
             "Link": "https://www.youtube.com/watch?v=WoX2qBEegmE"
         }
     ]
