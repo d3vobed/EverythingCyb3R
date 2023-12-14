@@ -1,4 +1,14 @@
+# ROADMAP TO MASTERING RED & BLUE TEAM COORDINATION
 
+
+
+
+OR USE THE PDF :)
+
+
+
+
+# Our  guide to becoming a red & blue team coordinator
     ### Foundation:
     1. **Basic Networking:**
        - Understand TCP/IP, subnetting, routing, and basic network protocols.
