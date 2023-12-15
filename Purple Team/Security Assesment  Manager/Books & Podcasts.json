@@ -1,0 +1,45 @@
+[
+    {
+        "ResourceName": "Practical Vulnerability Management",
+        "Link": "https://www.amazon.com/Practical-Vulnerability-Management-Andrew-Magnusson/dp/1593279884",
+        "Author": "Andrew Magnusson",
+        "Description": "A practical guide to vulnerability management."
+    },
+    {
+        "ResourceName": "VulDB - Vulnerability Database",
+        "Link": "https://vuldb.com/",
+        "Author": "VulDB",
+        "Description": "Access a comprehensive vulnerability database."
+    },
+    {
+        "ResourceName": "The Web Application Hacker's Handbook",
+        "Link": "https://www.amazon.com/dp/B00C0OBZI0",
+        "Author": "Dafydd Stuttard and Marcus Pinto",
+        "Description": "An excellent resource for understanding web application vulnerabilities and security testing."
+    },
+    {
+        "ResourceName": "Network Security Essentials",
+        "Link": "https://www.amazon.com/dp/B01F9G4686?tag=bblpage-20",
+        "Author": "William Stallings",
+        "Description": "This book covers fundamental concepts in network security."
+    },
+    {
+        "ResourceName": "The Foundations of Vulnerability Management",
+        "Link": "https://www.amazon.com/dp/1804614971/ref=sspa_dk_detail_2?psc=1&pd_rd_i=1804614971&content-id=amzn1.sym.eb7c1ac5-7c51-4df5-ba34-ca810f1f119a&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw",
+        "Author": "Various Authors",
+        "Description": "A comprehensive guide to the foundations of vulnerability management."
+    },
+    {
+        "ResourceName": "NIST Glossary - Vulnerability",
+        "Link": "https://csrc.nist.gov/glossary/term/vulnerability",
+        "Author": "NIST (National Institute of Standards and Technology)",
+        "Description": "Access the NIST glossary definition of vulnerability."
+    },
+    {
+        "ResourceName": "Podcast - Vulnerability",
+        "Link": "https://player.fm/podcasts/Vulnerability",
+        "Author": "Various Podcast Hosts",
+        "Description": "Explore podcasts related to vulnerability topics."
+    }
+]
+
