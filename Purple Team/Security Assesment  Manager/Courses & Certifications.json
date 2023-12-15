@@ -1,0 +1,32 @@
+{
+  "certifications": [
+    {
+      "name": "Certified Information Systems Security Professional (CISSP)",
+      "link": "https://www.isc2.org/Certifications/CISSP"
+    },
+    {
+      "name": "Certified Information Security Manager (CISM)",
+      "link": "https://www.isaca.org/cism"
+    },
+    {
+      "name": "Certified in Risk and Information Systems Control (CRISC)",
+      "link": "https://www.isaca.org/crisc"
+    },
+    {
+      "name": "CompTIA Security+",
+      "link": "https://www.comptia.org/certifications/security"
+    },
+    {
+      "name": "Certified Ethical Hacker (CEH)",
+      "link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+    },
+    {
+      "name": "AWS Certified Security - Specialty",
+      "link": "https://aws.amazon.com/certification/certified-security-specialty/"
+    },
+    {
+      "name": "Certified Cloud Security Professional (CCSP)",
+      "link": "https://www.isc2.org/Certifications/CCSP"
+    }
+  ]
+}
