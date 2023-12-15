@@ -1,0 +1,298 @@
+{
+  "skills": [
+    {
+      "Step": "Build a Solid Foundation",
+      "Skills": ["Networking Fundamentals", "Operating Systems"],
+      "Resources": [
+        {
+          "ResourceName": "Networking Basics Course",
+          "Link": "https://www.coursera.org/learn/computer-networking"
+        },
+        {
+          "ResourceName": "Operating Systems Fundamentals",
+          "Link": "https://www.edx.org/learn/operating-systems"
+        }
+      ]
+    },
+    {
+      "Step": "Learn Cybersecurity Fundamentals",
+      "Skills": ["Cybersecurity Basics", "Security Principles"],
+      "Resources": [
+        {
+          "ResourceName": "Cybersecurity Essentials Course",
+          "Link": "https://www.cybrary.it/course/cybersecurity-essentials/"
+        },
+        {
+          "ResourceName": "Security Principles Guide",
+          "Link": "https://www.sans.org/security-resources/policies/security-principles-policy"
+        }
+      ]
+    },
+    {
+      "Step": "Programming and Scripting",
+      "Skills": ["Python Programming", "Scripting Skills"],
+      "Resources": [
+        {
+          "ResourceName": "Python for Beginners",
+          "Link": "https://www.python.org/about/gettingstarted/"
+        },
+        {
+          "ResourceName": "Scripting with Bash",
+          "Link": "https://www.gnu.org/software/bash/manual/bash.html"
+        }
+      ]
+    },
+    {
+      "Step": "Vulnerability Assessment Tools",
+      "Skills": ["Nessus", "OpenVAS", "Qualys"],
+      "Resources": [
+        {
+          "ResourceName": "Nessus User Guide",
+          "Link": "https://docs.tenable.com/nessus/Content/NessusUserGuide.htm"
+        },
+        {
+          "ResourceName": "OpenVAS Documentation",
+          "Link": "https://docs.greenbone.net/GSM-Manual/gos-21/en/"
+        },
+        {
+          "ResourceName": "Qualys Product Documentation",
+          "Link": "https://www.qualys.com/docs/"
+        }
+      ]
+    },
+    {
+      "Step": "Web Application Security",
+      "Skills": ["Web Application Scanners (e.g., OWASP ZAP, Burp Suite)", "OWASP Top Ten Awareness"],
+      "Resources": [
+        {
+          "ResourceName": "OWASP ZAP Getting Started Guide",
+          "Link": "https://www.zaproxy.org/docs/guides/start/"
+        },
+        {
+          "ResourceName": "Burp Suite Documentation",
+          "Link": "https://portswigger.net/burp/documentation"
+        },
+        {
+          "ResourceName": "OWASP Top Ten List",
+          "Link": "https://owasp.org/www-project-top-ten/"
+        }
+      ]
+    },
+    {
+      "Step": "Network Vulnerability Assessment",
+      "Skills": ["Port Scanning (e.g., Nmap)", "Detecting Common Network Vulnerabilities"],
+      "Resources": [
+        {
+          "ResourceName": "Nmap Reference Guide",
+          "Link": "https://nmap.org/book/"
+        },
+        {
+          "ResourceName": "Detecting Network Vulnerabilities Tutorial",
+          "Link": "https://www.tutorialspoint.com/network_security/network_security_detecting_network_vulnerabilities.htm"
+        }
+      ]
+    },
+    {
+      "Step": "Operating System Vulnerabilities",
+      "Skills": ["Windows and Linux Security", "Patching and Hardening"],
+      "Resources": [
+        {
+          "ResourceName": "Windows Security Best Practices",
+          "Link": "https://learn.microsoft.com/en-us/security/best-practices/windows-security-best-practices"
+        },
+        {
+          "ResourceName": "Linux Hardening Guide",
+          "Link": "https://cisofy.com/lynis/audit/section/linux-hardening/"
+        }
+      ]
+    },
+    {
+      "Step": "Cloud Security",
+      "Skills": ["Cloud Vulnerabilities (e.g., AWS, Azure, GCP)", "Cloud-Specific Tools (e.g., AWS Inspector, Azure Security Center)"],
+      "Resources": [
+        {
+          "ResourceName": "AWS Security Best Practices",
+          "Link": "https://aws.amazon.com/whitepapers/aws-security-best-practices/"
+        },
+        {
+          "ResourceName": "Azure Security Center Documentation",
+          "Link": "https://docs.microsoft.com/en-us/azure/security-center/"
+        },
+        {
+          "ResourceName": "GCP Cloud Security Guide",
+          "Link": "https://cloud.google.com/security"
+        }
+      ]
+    },
+    {
+      "Step": "Security Assessment Methodologies",
+      "Skills": ["OWASP ASVS (Application Security Verification Standard)", "CVSS (Common Vulnerability Scoring System)"],
+      "Resources": [
+        {
+          "ResourceName": "OWASP ASVS Guide",
+          "Link": "https://owasp.org/www-project-application-security-verification-standard/"
+        },
+        {
+          "ResourceName": "CVSS Scoring Guide",
+          "Link": "https://www.first.org/cvss/v3.1/user-guide"
+        }
+      ]
+    },
+    {
+      "Step": "Risk Assessment",
+      "Skills": ["Risk Analysis and Prioritization", "CVE and CPE Knowledge"],
+      "Resources": [
+        {
+          "ResourceName": "Risk Analysis Best Practices",
+          "Link": "https://www.isaca.org/resources/risk-analysis"
+        },
+        {
+          "ResourceName": "CVE Database",
+          "Link": "https://cve.mitre.org/"
+        }
+      ]
+    },
+    {
+      "Step": "Reporting and Communication",
+      "Skills": ["Creating Effective Vulnerability Reports", "Stakeholder Communication"],
+      "Resources": [
+        {
+          "ResourceName": "Effective Report Writing Tips",
+          "Link": "https://www.businesswritingblog.com/business-writing/report-writing/effective-report-writing-tips/"
+        },
+        {
+          "ResourceName": "Stakeholder Communication Strategies",
+          "Link": "https://www.smartsheet.com/stakeholder-communication"
+        }
+      ]
+    },
+    {
+      "Step": "Certifications",
+      "Skills": ["CISSP Certification", "CEH Certification", "CISM Certification"],
+      "Resources": [
+        {
+          "ResourceName": "CISSP Certification Details",
+          "Link": "https://www.isc2.org/Certifications/CISSP"
+        },
+        {
+          "ResourceName": "CEH Certification Overview",
+          "Link": "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+        },
+        {
+          "ResourceName": "CISM Certification Information",
+          "Link": "https://www.isaca.org/certification/cism-certified-information-security-manager"
+        }
+      ]
+    },
+    {
+      "Step": "Hands-On Experience",
+      "Skills": ["Practice Labs", "Capture The Flag (CTF)", "Real-World Application"],
+      "Resources": [
+        {
+          "ResourceName": "Vulnerable Web Application Labs",
+          "Link": "https://www.vulnhub.com/"
+        },
+        {
+          "ResourceName": "Hack The Box (CTF Platform)",
+          "Link": "https://www.hackthebox.eu/"
+        },
+        {
+          "ResourceName": "Real-World Vulnerability Scenarios",
+          "Link": "https://www.owasp.org/index.php/Web_Vulnerability_Scenarios"
+        }
+      ]
+    },
+    {
+      "Step": "Stay Updated",
+      "Skills": ["Cybersecurity Blogs and Forums", "CVE Databases", "Continuous Learning"],
+      "Resources": [
+        {
+          "ResourceName": "Cybersecurity News and Blogs",
+          "Link": "https://www.cybersecurity-insiders.com/top-cyber-security-blogs/"
+        },
+        {
+          "ResourceName": "CVE Database",
+          "Link": "https://cve.mitre.org/"
+        },
+        {
+          "ResourceName": "Cybersecurity Learning Platforms",
+          "Link": "https://www.cybrary.it/"
+        }
+      ]
+    },
+    {
+      "Step": "Networking and Community",
+      "Skills": ["Joining Cybersecurity Communities", "Professional Networking"],
+      "Resources": [
+        {
+          "ResourceName": "Cybersecurity Community Forums",
+          "Link": "https://www.reddit.com/r/netsec/"
+        },
+        {
+          "ResourceName": "Professional Networking Tips",
+          "Link": "https://www.linkedin.com/pulse/linkedin-networking-tips-youve-never-heard-before-anthony-martin/"
+        }
+      ]
+    },
+    {
+      "Step": "Professional Development",
+      "Skills": ["Advanced Courses", "Mentorship", "Contributing to Open Source Projects"],
+      "Resources": [
+        {
+          "ResourceName": "Advanced Cybersecurity Courses",
+          "Link": "https://www.sans.org/"
+        },
+        {
+          "ResourceName": "Mentorship Opportunities",
+          "Link": "https://www.cybersecuritymentors.com/"
+        },
+        {
+          "ResourceName": "Open Source Cybersecurity Projects",
+          "Link": "https://github.com/topics/cybersecurity"
+        }
+      ]
+    },
+    {
+      "Step": "Real-World Experience",
+      "Skills": ["Internships or Entry-Level Positions", "Practical Skills"],
+      "Resources": [
+        {
+          "ResourceName": "Internship Search Platforms",
+          "Link": "https://www.wayup.com/"
+        },
+        {
+          "ResourceName": "Practical Vulnerability Assessment Scenarios",
+          "Link": "https://www.cybrary.it/assessments/"
+        }
+      ]
+    },
+    {
+      "Step": "Continual Learning",
+      "Skills": ["Staying Informed", "Adaptability"],
+      "Resources": [
+        {
+          "ResourceName": "Cybersecurity News Websites",
+          "Link": "https://www.scmagazine.com/"
+        },
+        {
+          "ResourceName": "Adaptability in Cybersecurity",
+          "Link": "https://cybersecurity.cointelegraph.com/adaptability-in-cybersecurity"
+        }
+      ]
+    },
+    {
+      "Step": "Ethics and Responsibility",
+      "Skills": ["Ethical Conduct", "Responsible Disclosure Practices"],
+      "Resources": [
+        {
+          "ResourceName": "Code of Ethics for Cybersecurity Professionals",
+          "Link": "https://www.isaca.org/resources/code-of-professional-ethics"
+        },
+        {
+          "ResourceName": "Responsible Disclosure Guidelines",
+          "Link": "https://www.cert.org/coordination/disclosure.cfm"
+        }
+      ]
+    }
+  ]
+}
