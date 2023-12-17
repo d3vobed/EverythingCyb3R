@@ -1,1 +1,45 @@
+{
+  "certifications": [
+    {
+      "title": "Cybersecurity Fundamentals Certificate",
+      "url": "https://www.isaca.org/credentialing/cybersecurity-fundamentals-certificate"
+    },
+    {
+      "title": "Systems Security Certified Practitioner (SSCP)",
+      "url": "https://www.isc2.org/certifications/sscp"
+    },
+    {
+      "title": "Associate of (ISC)²",
+      "url": "https://www.isc2.org/certifications/associate"
+    },
+    {
+      "title": "GIAC Information Security Fundamentals (GISF)",
+      "url": "https://www.giac.org/certifications/information-security-fundamentals-gisf/"
+    },
+    {
+      "title": "CompTIA Security+",
+      "url": "https://www.comptia.org/certifications/security"
+    },
+    {
+      "title": "CompTIA A+",
+      "url": "https://www.comptia.org/certifications/a"
+    },
+    {
+      "title": "ISTQB Certified Tester - Security Tester (CT-SEC)",
+      "url": "https://isqi.org/en/18-istqb-certified-tester-security-tester-ct-sec.html"
+    },
+    {
+      "title": "Certified Chief Information Security Officer (CCISO)",
+      "url": "https://www.eccouncil.org/train-certify/certified-chief-information-security-officer-cciso/"
+    },
+    {
+      "title": "CompTIA Advanced Security Practitioner (CASP+)",
+      "url": "https://www.comptia.org/certifications/comptia-advanced-security-practitioner"
+    },
+    {
+      "title": "Cisco Certified Network Associate (CCNA)",
+      "url": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html"
+    }
+  ]
+}
 
