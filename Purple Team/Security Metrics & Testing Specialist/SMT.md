@@ -1,4 +1,14 @@
+# ROADMAP TO MASTERING SECURITY METRICS, COLLABORATION, & TESTING
 
+
+
+
+OR USE THE PDF :)
+
+
+
+
+# Our  guide to becoming a security testing, metrics & collaboration specialist
     1. Establish a Strong Foundation:
        - Understanding of IT Fundamentals: Develop a solid understanding of IT concepts, networking, and operating systems.
        - Programming and Scripting: Learn languages such as Python, Bash, or PowerShell for scripting and automation.
@@ -48,9 +58,4 @@
        - Internships and Entry-Level Positions: Seek opportunities for hands-on experience in security testing.
        - Capture The Flag (CTF) Challenges: Participate in CTF challenges to enhance practical skills.
     
-    13. Specialize Further (Optional):
-       - Depending on your interests, you can specialize in areas such as incident response, threat hunting, or security analytics.
     
-    14. Pursue Advanced Degrees (Optional):
-       - Consider pursuing advanced degrees in cybersecurity or related fields for deeper knowledge.
-
