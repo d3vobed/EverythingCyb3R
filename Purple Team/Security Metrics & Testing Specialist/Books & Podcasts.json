@@ -1,1 +1,55 @@
+{
+  "resources": [
+    {
+      "type": "book",
+      "title": "Security Metrics Management: Measuring the Effectiveness and Efficiency of a Security Program",
+      "url": "https://www.everand.com/book/329351493/Security-Metrics-Management-Measuring-the-Effectiveness-and-Efficiency-of-a-Security-Program"
+    },
+    {
+      "type": "book",
+      "title": "Security Metrics",
+      "url": "https://www.goodreads.com/book/show/549267.Security_Metrics"
+    },
+    {
+      "type": "book",
+      "title": "The Art of Software Security Testing: Identifying Software Security Flaws",
+      "url": "https://www.amazon.com/Art-Software-Security-Testing-Identifying/dp/0321304861"
+    },
+    {
+      "type": "book",
+      "title": "The Basics of Hacking and Penetration Testing, Second Edition",
+      "url": "https://wqreytuk.github.io/Patrick+Engebretson+The+Basics+of+Hacking+and+Penetration+Testing,+Second+Edition+%282013%29.pdf"
+    },
+    {
+      "type": "website",
+      "title": "EvilTester",
+      "url": "https://www.eviltester.com/show/"
+    },
+    {
+      "type": "podcast",
+      "title": "The Changelog",
+      "url": "https://changelog.com/podcast/398"
+    },
+    {
+      "type": "podcast",
+      "title": "TestGuild Automation Podcast",
+      "url": "https://podcasts.apple.com/us/podcast/testguild-automation-podcast/id826722706"
+    },
+    {
+      "type": "podcast",
+      "title": "AB Testing Podcast: Episode 133 - Test Ownership and Test Automation",
+      "url": "https://podcasters.spotify.com/pod/show/abtesting/episodes/Episode-133-Test-Ownership-and-Test-Automation-epoct4"
+    },
+    {
+      "type": "podcast",
+      "title": "Test and Code Podcast: Episode 129",
+      "url": "https://testandcode.com/129"
+    },
+    {
+      "type": "website",
+      "title": "SecurityMetrics Podcast",
+      "url": "https://www.securitymetrics.com/learn/podcast"
+    }
+  ]
+}
 
