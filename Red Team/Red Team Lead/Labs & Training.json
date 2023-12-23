@@ -8,6 +8,10 @@
           "Course":"Adversary Simulation & Red Team Operations by zeropointsecurity",
           "Link":"https://training.zeropointsecurity.co.uk/courses/red-team-ops"
        },
+        {
+        "platform" : "NSA CODE TESTING",
+        "link" : "https://code.nsa.gov/"
+        },
        {
           "Course":"Train on real enterprise infrastructures by hackthebox",
           "Link":"https://www.hackthebox.com/hacker/pro-labs"
